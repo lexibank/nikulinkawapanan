@@ -1,5 +1,5 @@
 {
-    "title": "",
+    "title": "CLDF dataset derived from Nikulin\u2019s \"Uma reconstru\u00e7\u00e3o fonol\u00f3gica de proto-kawapana\" from 2022",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -15,5 +15,6 @@
     "upload_type": "dataset",
     "license": {
         "id": "CC-BY-4.0"
-    }
+    },
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Nikulin, Andrey (2022): Uma reconstru\u00e7\u00e3o fonol\u00f3gica de proto-kawapana. LIAMES: L\u00ednguas Ind\u00edgenas Americanas 22: e022013.</p>\n</blockquote>"
 }
