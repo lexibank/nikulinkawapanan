@@ -1,990 +1,989 @@
-set	entry	doculect	value	concept
-1	a	PK	*aɴpuɾuʔ 	feather, bodily hair
-1	a	Shawi	aɴpoɾoʔ 	feather, bodily hair
-1	a	Shiwilu	aɴpuluʔ 	feather, bodily hair
-1	b	PK	*ɪɾɪɴ- 	to make noise
-1	b	Shawi	iɾiɴ- 	to make noise
-1	b	Shiwilu	iʎiɴ- 	to make noise
-1	c	PK	*ɪɾu 	cough, cold
-1	c	Shawi	iɾo 	cough, cold
-1	c	Shiwilu	ilu- 	cough, cold
-1	d	PK	*ɪɾuʔ- 	to suck (Sha); to lick (Shi)
-1	d	Shawi	iɾo- 	to suck (Sha); to lick (Shi)
-1	d	Shiwilu	iluʔ- 	to suck (Sha); to lick (Shi)
-1	e	PK	*jamuɾa 	salt
-1	e	Shawi	jamoɾa 	salt
-1	e	Shiwilu	ð̞amula 	salt
-1	f	PK	*kaˀjuɾa 	cicada
-1	f	Shawi	kaʔjoɾa 	cicada
-1	f	Shiwilu	kað̞ula 	cicada
-1	g	PK	*kalaɾaɴ 	sea lion
-1	g	Shawi	kanaɾaɴ 	sea lion
-1	g	Shiwilu	kalala(ɴ) 	sea lion
-1	h	PK	*kaluʔtuɾuʔ 	locrerobird, greater ani
-1	h	Shawi	kanoʔtoɾoʔ 	locrerobird, greater ani
-1	h	Shiwilu	kaluʔtuluʔ 	locrerobird, greater ani
-1	i	PK	*kaɾa 	three
-1	i	Shawi	kaɾa 	three
-1	i	Shiwilu	kala 	three
-1	j	PK	*kuʔluɾuɴtɘʔ 	corocoro bird
-1	j	Shawi	koʔnoɾoɴtɘʔ 	corocoro bird
-1	j	Shiwilu	kuʔluluɴtɘk 	corocoro bird
-1	k	PK	*kumaɾa 	cumala tree
-1	k	Shawi	komaɾa 	cumala tree
-1	k	Shiwilu	kumala 	cumala tree
-1	l	PK	*maɾɘʔ 	because of, for
-1	l	Shawi	maɾɘʔ 	because of, for
-1	l	Shiwilu	malɘk 	because of, for
-1	m	PK	*mɪɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)
-1	m	Shawi	mɘɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)
-1	m	Shiwilu	milɘk	yarina palm (Sha); tagua palm, ivory nut palm (Shi)
-1	n	PK	*naɾa 	tree
-1	n	Shawi	naɾa 	tree
-1	n	Shiwilu	nala 	tree
-1	o	PK	*paɴwaɾa 	tapir
-1	o	Shawi	pawaɾa 	tapir
-1	o	Shiwilu	paɴwala 	tapir
-1	p	PK	*pɘɾa- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)
-1	p	Shawi	pɘɾa- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)
-1	p	Shiwilu	pɘkla- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)
-1	q	PK	*pɘwaɾa 	iguana
-1	q	Shawi	pɘwaɾa 	iguana
-1	q	Shiwilu	pɘkkʷala 	iguana
-1	r	PK	*-ɾa e.g. *taɴju-ɾa,*nɪnɘ(ʔ)-ɾa,*tuʔtɘ(ʔ)-ɾa 	small and round:CLstartonguenail
-1	r	Shawi	-ɾa e.g. tajo-ɾa, nɘnɘ-ɾa, toʔto-ɾa-tɘʔ ~ toʔtɘ-ɾa-tɘʔ 	small and round:CLstartonguenail
-1	r	Shiwilu	-la e.g. tað̞u-la,ɲinɘk-la,tuʔtɘk-la 	small and round:CLstartonguenail
-1	s	PK	*saɾa(ʔ) 	guava
-1	s	Shawi	saɾa 	guava
-1	s	Shiwilu	salaʔ 	guava
-1	t	PK	*siɴnɪɾɘ 	dart
-1	t	Shawi	ʃinɘɾɘ 	dart
-1	t	Shiwilu	sɘɴɲilɘk 	dart
-1	u	PK	*siɾuʔ 	paucar bird
-1	u	Shawi	ʃiɾoʔ 	paucar bird
-1	u	Shiwilu	sɘʎuʔ 	paucar bird
-1	v	PK	*sukiɾu(ʔ) 	frog sp.
-1	v	Shawi	sokiɾo 	frog sp.
-1	v	Shiwilu	sukɘʎuʔ 	frog sp.
-1	w	PK	*suʔpuɾa 	rapids, waterfall
-1	w	Shawi	soʔpoɾa ~ sɘʔpoɾa 	rapids, waterfall
-1	w	Shiwilu	suʔpula 	rapids, waterfall
-1	x	PK	*suɾuʔ 	choro monkey
-1	x	Shawi	soɾoʔ 	choro monkey
-1	x	Shiwilu	suluʔ 	choro monkey
-1	y	PK	*tɪɾu 	sloth
-1	y	Shawi	tʃiɾo 	sloth
-1	y	Shiwilu	tʃilu 	sloth
-1	z	PK	*tuɾuma 	mushroom sp.
-1	z	Shawi	toɾoma-tɘʔ ~ toɾoɴpa-tɘʔ 	mushroom sp.
-1	z	Shiwilu	tuluma 	mushroom sp.
-1	aa	PK	*uɾɪna(ɴ) 	jar for chicha or masato
-1	aa	Shawi	oɾinaɴ 	jar for chicha or masato
-1	aa	Shiwilu	uʎina 	jar for chicha or masato
-1	bb	PK	*waɾatɘʔ 	carachama fish
-1	bb	Shawi	waɾaʰtɘʔ 	carachama fish
-1	bb	Shiwilu	walatɘk 	carachama fish
-1	cc	PK	*waɾɘʔ 	until, up to
-1	cc	Shawi	waɾɘʔ 	until, up to
-1	cc	Shiwilu	walɘk 	until, up to
-2	a	PK	*ɪki(ɾ/l)ala 	cunchi fish
-2	a	Shawi	ikiana 	cunchi fish
-2	a	Shiwilu	ikɘʎala 	cunchi fish
-2	b	PK	*ɪlaɴsiʔ 	bird
-2	b	Shawi	ina(i)ɴʃi-ɾa ~ inai-ɾa 	bird
-2	b	Shiwilu	ilaɴsɘˀɾ 	bird
-2	c	PK	*ɪla-ɾɪɴ 	rope
-2	c	Shawi	ina-ɾiɴ 	rope
-2	c	Shiwilu	ila-ʎiɴ 	rope
-2	d	PK	*jalu- 	to cut meat
-2	d	Shawi	jano- 	to cut meat
-2	d	Shiwilu	ð̞alu- 	to cut meat
-2	e	PK	*juliʔ 	pus
-2	e	Shawi	joniʔ 	pus
-2	e	Shiwilu	ð̞ulɘˀɾ-juʔ 	pus
-2	g	PK	*kalujuʔ ~ *-ɴ 	maparate, bocón fish
-2	g	Shawi	kanojoʔ 	maparate, bocón fish
-2	g	Shiwilu	kaluð̞uɴ 	maparate, bocón fish
-2	h	PK	*kalunɪʔ 	ocelot
-2	h	Shawi	kanoniʔ 	ocelot
-2	h	Shiwilu	kaluɲiʔ 	ocelot
-2	i	PK	*kaluʔtuɾuʔ 	locrero bird, greater ani
-2	i	Shawi	kanoʔtoɾoʔ 	locrero bird, greater ani
-2	i	Shiwilu	kaluʔtuluʔ 	locrero bird, greater ani
-2	j	PK	*kɪlɘɴ 	añas-súa fish
-2	j	Shawi	kɘnɘɴ 	añas-súa fish
-2	j	Shiwilu	kilɘɴ 	añas-súa fish
-2	k	PK	*kulu(ʔ) 	throat
-2	k	Shawi	kono(ʔ)‘neck, throat’ 	throat
-2	k	Shiwilu	kulu-pi‘Adam’s apple’ 	throat
-2	l	PK	*lalɪɴ 	hole
-2	l	Shawi	naniɴ 	hole
-2	l	Shiwilu	laʎiɴ 	hole
-2	m	PK	*lɘluɴ 	girl menstruating for the first time
-2	m	Shawi	nɘnoɴ 	girl menstruating for the first time
-2	m	Shiwilu	lɘkluɴ 	girl menstruating for the first time
-2	n	PK	*-lɪɴe.g. *lu-lɪɴ 	vine:CL tamshi vine
-2	n	Shawi	-niɴ,e.g. no-niɴ 	vine:CL tamshi vine
-2	n	Shiwilu	-ʎiɴe.g. lu-ʎiɴ 	vine:CL tamshi vine
-2	o	PK	*-luʔe.g. *ja-luʔ,*ji-luʔ-tɘʔ 	earth:CL ashes sand
-2	o	Shawi	-noʔe.g. ja-noʔ,i-no-tɘʔ 	earth:CL ashes sand
-2	o	Shiwilu	-luʔe.g. pɘɴ-ð̞a-luʔ,ð̞ɘ-ʎuʔ-tɘk 	earth:CL ashes sand
-2	p	PK	*muluʔ 	eaf (Sha), tree top (Shi)
-2	p	Shawi	monoʔ 	eaf (Sha), tree top (Shi)
-2	p	Shiwilu	muluʔ 	eaf (Sha), tree top (Shi)
-2	q	PK	*palɪʔ 	leaf for the roof
-2	q	Shawi	pani-ɾa 	leaf for the roof
-2	q	Shiwilu	paʎiʔ- 	leaf for the roof
-2	r	PK	*pɪlɘɴ- 	to advise
-2	r	Shawi	pɘnɘɴ- 	to advise
-2	r	Shiwilu	pilɘɴ- 	to advise
-2	s	PK	*sɪlu 	yupana cane
-2	s	Shawi	sɘno 	yupana cane
-2	s	Shiwilu	silu 	yupana cane
-	t	PK	*sɪlupa(ʔ) 	bee sp.
-	t	Shawi	sɘnopaʔ ~ -waʔ 	bee sp.
-	t	Shiwilu	silupa 	bee sp.
-2	u	PK	*sulɪmaɴ 	poison
-2	u	Shawi	sonimaɴ 	poison
-2	u	Shiwilu	suʎimaɴ 	poison
-2	v	PK	*tula 	leg, thigh
-2	v	Shawi	tona 	leg, thigh
-2	v	Shiwilu	tula 	leg, thigh
-2	w	PK	*wɘla-jɘʔ 	blood
-2	w	Shawi	wɘna-iʔ 	blood
-2	w	Shiwilu	ukla-ð̞ɘk 	blood
-2	x	PK	*wɘlu- 	to chew, to gnaw
-2	x	Shawi	wɘno- 	to chew, to gnaw
-2	x	Shiwilu	uklu- 	to chew, to gnaw
-2	y	PK	*wɪlɘ 	curhuinsi ant
-2	y	Shawi	wɘnɘ 	curhuinsi ant
-2	y	Shiwilu	wilɘk 	curhuinsi ant
-6	a	PK	*sɘʔ.u 	diced manioc
-6	a	Shawi	soʔ.o 	diced manioc
-6	a	Shiwilu	sɘk.ku- 	diced manioc
-6	b	PK	*tɘʔ.aʔ- 	to run, to flow
-6	b	Shawi	taʔ.a- 	to run, to flow
-6	b	Shiwilu	tɘk.kaʔ- 	to run, to flow
-6	c	PK	*waʔ.aɴ 	chief
-6	c	Shawi	waʔ.aɴ 	chief
-6	c	Shiwilu	waʔ.aɴ 	chief
-6	d	PK	*waʔ.aɴ.la 	siamba palm
-6	d	Shawi	waʔ.a.na 	siamba palm
-6	d	Shiwilu	waʔ.aɴ.la	siamba palm
-7	a	PK	*pɘ.iʔ-~ *puiʔ- 	to fish with barbasco
-7	a	Shawi	pɘʔ.i- 	to fish with barbasco
-7	a	Shiwilu	puˀɾ-~ pʷəˀɾ- 	to fish with barbasco
-7	b	PK	*tV.ɘ 	flea
-7	b	Shawi	tɘʔ.ɘ 	flea
-7	b	Shiwilu	tɘk-la 	flea
-7	c	PK	*V.u- 	to drink
-7	c	Shawi	oʔ.o- 	to drink
-7	c	Shiwilu	u- 	to drink
-7	d	PK	*wV.ɘ.ta 	pot
-7	d	Shawi	wɘʔ.ɘ.ta 	pot
-7	d	Shiwilu	wɘk.ta ~ uk.ta 	pot
-7	e	PK	*na.a- 	to increase
-7	e	Shawi	naʔ.a- 	to increase
-7	e	Shiwilu	na.ð̞a- 	to increase
-7	f	PK	*sa.a- 	wife
-7	f	Shawi	saʔ.a- 	wife
-7	f	Shiwilu	sa.ð̞a- 	wife
-8	a	PK	*kʷa	I
-8	a	Shawi	ka(a) 	I
-8	a	Shiwilu	kʷa 	I
-8	b	PK	*kʷiʔ-6 	to be heavy
-8	b	Shawi	kɘʔ- 	to be heavy
-8	b	Shiwilu	kʷɘˀɾ- 	to be heavy
-9	a	PK	*aˀlaʔ 	one
-9	a	Shawi	aʔnaʔ 	one
-9	a	Shiwilu	alaʔ 	one
-9	b	PK	*aˀlaɴ- 	to lend, to borrow
-9	b	Shawi	aʔnaɴ 	to lend, to borrow
-9	b	Shiwilu	alaɴ- 	to lend, to borrow
-9	c	PK	*aˀpɘ(ʔ)-	to burn
-9	c	Shawi	aʔpɘ- 	to burn
-9	c	Shiwilu	apɘk- 	to burn
-9	d	PK	*ɪˀsa 	curassow
-9	d	Shawi	iʔsa 	curassow
-9	d	Shiwilu	iʃa 	curassow
-9	e	PK	*jaˀka(-ɾa) 	muena tree
-9	e	Shawi	jaʔka-ɾa 	muena tree
-9	e	Shiwilu	ð̞aka(-la) 	muena tree
-9	f	PK	*jaˀpɪ- 	pain in the eye
-9	f	Shawi	jaʔpi-ɾa ‘eye’ 	pain in the eye
-9	f	Shiwilu	ð̞api-	pain in the eye
-9	g	PK	*juˀwɪɴ 	toucan
-9	g	Shawi	joʔwiɴ 	toucan
-9	g	Shiwilu	ð̞uwiɴ 	toucan
-9	i	PK	*kɪˀkɪ-tɘʔ 	cheek
-9	i	Shawi	kɘʔkɘ-tɘʔ 	cheek
-9	i	Shiwilu	kiki-tɘk 	cheek
-9	j	PK	*liˀluna 	tacarpo stick
-9	j	Shawi	niʔnona 	tacarpo stick
-9	j	Shiwilu	lɘʎuna(ɴ) 	tacarpo stick
-9	k	PK	*luˀsuɴ 	moth
-9	k	Shawi	noʔsoɴ 	moth
-9	k	Shiwilu	lusuɴ 	moth
-9	l	PK	*naˀku- 	to pass by
-9	l	Shawi	naʔko 	to pass by
-9	l	Shiwilu	naku- 	to pass by
-9	m	PK	*naˀti 	bushmaster
-9	m	Shawi	naʔʃi 	bushmaster
-9	m	Shiwilu	natɘɾ 	bushmaster
-9	n	PK	*nɪˀnɪʔ 	jaguar
-9	n	Shawi	niʔniʔ 	jaguar
-9	n	Shiwilu	ɲiɲiʔ‘dog’ 	jaguar
-9	o	PK	*paˀpiʔ- 	to bury
-9	o	Shawi	paʔpi- 	to bury
-9	o	Shiwilu	papɘˀɾ-	to bury
-9	p	PK	*pɪˀti 	thread
-9	p	Shawi	piʔʃi 	thread
-9	p	Shiwilu	pitɘɾ- 	thread
-9	q	PK	*puˀpuɴ 	pucahuicsa fish
-9	q	Shawi	poʔpoɴ 	pucahuicsa fish
-9	q	Shiwilu	pupuɴ 	pucahuicsa fish
-9	r	PK	*siˀwɪ(ɴ) 	macana fish
-9	r	Shawi	ʃiʔwi-ɾoʔ 	macana fish
-9	r	Shiwilu	sɘɾwiɴ 	macana fish
-9	s	PK	*suˀja 	husband
-9	s	Shawi	soʔja 	husband
-9	s	Shiwilu	suð̞a 	husband
-9	t	PK	*suˀsu- 	to grow
-9	t	Shawi	soʔso- 	to grow
-9	t	Shiwilu	susu- 	to grow
-9	u	PK	*taˀla 	hammock
-9	u	Shawi	taʔna	hammock
-9	u	Shiwilu	tala 	hammock
-9	v	PK	*tɪˀtiʔ 	maize
-9	v	Shawi	ʃiʔʃiʔ	maize
-9	v	Shiwilu	tʃitɘ(ˀ)ɾ 	maize
-9	w	PK	*tuˀja 	maquisapa monkey, spider monkey
-9	w	Shawi	toʔja 	maquisapa monkey, spider monkey
-9	w	Shiwilu	tuð̞a 	maquisapa monkey, spider monkey
-9	x	PK	*tuˀsiɴ 	mite, chiggers, tick sp.
-9	x	Shawi	toʔʃiɴ 	mite, chiggers, tick sp.
-9	x	Shiwilu	tusɘɴ 	mite, chiggers, tick sp.
-9	y	PK	*waˀsɘʔ 	carachamita fish
-9	y	Shawi	waʔsɘʔ 	carachamita fish
-9	y	Shiwilu	wasɘk 	carachamita fish
-9	z	PK	*wɪˀla 	child
-9	z	Shawi	wiʔna-	child
-9	z	Shiwilu	wila 	child
-10	a	PK	*jɘʔ 	water
-10	a	Shawi	iʔ 	water
-10	a	Shiwilu	ð̞ɘk 	water
-10	b	PK	*juʔ 	belly
-10	b	Shawi	joʔ-naɴ 	belly
-10	b	Shiwilu	ð̞uʔ 	belly
-10	c	PK	*kaʔ- 	to eat, to have sex
-10	c	Shawi	kaʔ- 	to eat, to have sex
-10	c	Shiwilu	kaʔ- 	to eat, to have sex
-10	d	PK	*kiʔ 	manioc
-10	d	Shawi	kiʔ(-ʃa),kɘʔ-ʃa 	manioc
-10	d	Shiwilu	kɘˀɾ 	manioc
-10	e	PK	*laʔ- 	to fast, to avoid food
-10	e	Shawi	naʔ- 	to fast, to avoid food
-10	e	Shiwilu	laʔ- 	to fast, to avoid food
-10	f	PK	*lɪʔ- 	to see
-10	f	Shawi	niʔ- 	to see
-10	f	Shiwilu	ʎiʔ- 	to see
-10	g	PK	*-luʔ / *-ɾuʔ 	earth:CL
-10	g	Shawi	-noʔ / -ɾoʔ 	earth:CL
-10	g	Shiwilu	-luʔ 	earth:CL
-10	h	PK	*-tɘʔ 	cover:CL
-10	h	Shawi	-tɘʔ 	cover:CL
-10	h	Shiwilu	-tɘk 	cover:CL
-10	i	PK	*wɘʔ- 	to come
-10	i	Shawi	wɘʔ- 	to come
-10	i	Shiwilu	uk-~ wɘk- 	to come
-10	l	PK	*apiʔ(-) 	wound; to injure oneself (Sha); to spoil, to rot
-10	l	Shawi	apiʔ;api- 	wound; to injure oneself (Sha); to spoil, to rot
-10	l	Shiwilu	apɘˀɾ- 	wound; to injure oneself (Sha); to spoil, to rot
-10	m	PK	*itɘʔ 	agouti
-10	m	Shawi	iʰtɘʔ 	agouti
-10	m	Shiwilu	ɘttʃɘk 	agouti
-10	n	PK	*ɪsɘʔ 	bat
-10	n	Shawi	isɘʔ 	bat
-10	n	Shiwilu	iʃɘk 	bat
-10	o	Shawi	juniʔ 	pus
-10	p	PK	*kajuʔ 	egg
-10	p	Shawi	kajoʔ 	egg
-10	p	Shiwilu	kað̞uʔ 	egg
-10	q	PK	*kukuʔ	oropendola, paucarbird
-10	q	Shawi	koʰkoʔ 	oropendola, paucarbird
-10	q	Shiwilu	kukuʔ 	oropendola, paucarbird
-10	s	PK	*kuwiʔ 	worm
-10	s	Shawi	kowiʔ 	worm
-10	s	Shiwilu	kuwɘ(ˀ)ɾ 	worm
-10	t	PK	*laɴsɪʔ 	bone
-10	t	Shawi	naɴsɘʔ 	bone
-10	t	Shiwilu	laɴsiʔ 	bone
-10	u	PK	*luʔluʔ 	coto monkey
-10	u	Shawi	noʔnoʔ 	coto monkey
-10	u	Shiwilu	luʔluʔ 	coto monkey
-10	v	PK	*luʔpaʔ 	earth
-10	v	Shawi	noʔpaʔ 	earth
-10	v	Shiwilu	luʔpaʔ 	earth
-10	x	PK	*muluʔ 	leaf (Sha), tree top (Shi)
-10	x	Shawi	monoʔ 	leaf (Sha), tree top (Shi)
-10	x	Shiwilu	muluʔ 	leaf (Sha), tree top (Shi)
-10	y	PK	*mutuʔ 	head
-10	y	Shawi	moʰtoʔ 	head
-10	y	Shiwilu	mutuʔ 	head
-10	aa	PK	*nukaʔ 	hot pepper
-10	aa	Shawi	noʰkaʔ 	hot pepper
-10	aa	Shiwilu	nukaʔ	hot pepper
-10	bb	PK	*pɪjɘʔ 	house
-10	bb	Shawi	pɘiʔ 	house
-10	bb	Shiwilu	pið̞ɘk 	house
-10	cc	PK	*sasaʔ 	martín-pescadorbird
-10	cc	Shawi	sasaʔ 	martín-pescadorbird
-10	cc	Shiwilu	sasaʔ	martín-pescadorbird
-10	dd	PK	*sɪɴkaɴtɘʔ 	hoatzin bird
-10	dd	Shawi	sɘɴkaɴtɘʔ 	hoatzin bird
-10	dd	Shiwilu	siɴkaɴtɘk 	hoatzin bird
-10	ee	PK	*supuʔ 	vulture
-10	ee	Shawi	soʰpoʔ ~ sɘʰpoʔ 	vulture
-10	ee	Shiwilu	supuʔ 	vulture
-10	ff	Shiwilu	suluʔ	choro monkey
-10	gg	Shawi	ʃiʔʃiʔ 	maize
-10	gg	Shiwilu	tʃitɘ(ˀ)ɾ	maize
-10	hh	PK	*waɾatɘʔ 	carachamafish
-10	hh	Shawi	waɾaʰtɘʔ 	carachamafish
-10	hh	Shiwilu	walatɘk 	carachamafish
-10	jj	PK	*waˀsɘʔ 	carachamitafish
-10	jj	Shawi	waʔsɘʔ 	carachamitafish
-10	jj	Shiwilu	wasɘk 	carachamitafish
-10	kk	PK	*aʔlanaɴ 	huasaco fish
-10	kk	Shawi	aʔnanaɴ 	huasaco fish
-10	kk	Shiwilu	aʔlana(ɴ) 	huasaco fish
-10	ll	PK	*aʔli- 	to roast (manioc, plantain)
-10	ll	Shawi	aʔni-	to roast (manioc, plantain)
-10	ll	Shiwilu	aʔlɘɾ-	to roast (manioc, plantain)
-10	mm	PK	*iʔla 	trace
-10	mm	Shawi	iʔna-	trace
-10	mm	Shiwilu	ɘˀɾʎa 	trace
-10	nn	PK	*iʔtɘ(ʔ)- 	termite
-10	nn	Shawi	iʔtɘ-ɾɘʔ 	termite
-10	nn	Shiwilu	ɘttʃɘk-la 	termite
-10	oo	PK	*iʔwa 	recently, late, afternoon
-10	oo	Shawi	iʔwa 	recently, late, afternoon
-10	oo	Shiwilu	ɘˀɾwa 	recently, late, afternoon
-10	pp	PK	*iʔwa-ju 	evening star
-10	pp	Shawi	iʔwa-jo 	evening star
-10	pp	Shiwilu	ɘˀɾwa-ð̞u 	evening star
-10	qq	PK	*jaʔ-waɴ 	snake
-10	qq	Shawi	jaʔ-waɴ 	snake
-10	qq	Shiwilu	ð̞aʔ-waɴ 	snake
-10	rr	PK	*puʔsi 	mammal sp.
-10	rr	Shawi	Poʔʃi ‘squirrel sp.’ 	mammal sp.
-10	rr	Shiwilu	puʔsɘɾ ‘pygmy-marmoset’ 	mammal sp.
-10	ss	PK	*saʔkaʔ- 	to be rough
-10	ss	Shawi	saʔka-‘to have rough skin, to have mole’ 	to be rough
-10	ss	Shiwilu	saʔkaʔ- 	to be rough
-10	tt	PK	*saʔlaʔ(-pɪ)	pox
-10	tt	Shawi	saʔnaʔ,saʔna-pi 	pox
-10	tt	Shiwilu	saʔlaʔ(-pi) 	pox
-10	uu	PK	*saʔpuʔ 	lung
-10	uu	Shawi	saʔpo-ɾoʔ 	lung
-10	uu	Shiwilu	saʔpuʔ 	lung
-10	vv	PK	*sɘʔ-muʔ- 	to dilute
-10	vv	Shawi	sɘʔ-mo	to dilute
-10	vv	Shiwilu	sɘk-muʔ- 	to dilute
-10	ww	PK	*sɪʔka 	tingotero/isulillaant
-10	ww	Shawi	sɘʔka-‘to sting’ 	tingotero/isulillaant
-10	ww	Shiwilu	siʔka- 	tingotero/isulillaant
-10	xx	PK	*sɪʔpa 	branch
-10	xx	Shawi	sɘʔpa-ʰkɘ-ɴ,sɘʔpa-ɾaʔwa-iɴ 	branch
-10	xx	Shiwilu	siʔpa 	branch
-10	zz	PK	*suʔtuɴ 	island
-10	zz	Shawi	soʔtoɴ 	island
-10	zz	Shiwilu	suʔtuɴ-ð̞ɘk‘lagoon’ 	island
-10	aaa	PK	*tɪʔlɘ(ʔ) 	armadillo
-10	aaa	Shawi	tɘʔnɘ-ʃaʔwɘ 	armadillo
-10	aaa	Shiwilu	tʃiʔlɘk 	armadillo
-10	bbb	PK	*tɪʔ-tɘʔ 	chest
-10	bbb	Shawi	tɘʔ-tɘʔ‘breast (of birds)’ 	chest
-10	bbb	Shiwilu	tʃiʔ-tɘk 	chest
-10	ccc	PK	*tuʔtɘ(ʔ)-ɾa 	nail
-10	ccc	Shawi	toʔto-ɾa-tɘʔ ~ toʔtɘ- 	nail
-10	ccc	Shiwilu	tuʔtɘk-la 	nail
-10	ddd	PK	*tuʔtuʔ-pɪ 	knee
-10	ddd	Shawi	toʔto-wi-tɘʔ ~ -pi- 	knee
-10	ddd	Shiwilu	tuʔtuʔ-pi 	knee
-10	eee	PK	*tuʔwaɴ 	cunchi, tullu umafish
-10	eee	Shawi	toʔwaɴ 	cunchi, tullu umafish
-10	eee	Shiwilu	tuʔwaɴ 	cunchi, tullu umafish
-10	fff	PK	*uʔjapɪ 	peach palm
-10	fff	Shawi	oʔjapi ~ iʔjapi 	peach palm
-10	fff	Shiwilu	uʔð̞api 	peach palm
-10	ggg	PK	*waʔjaɴ 	spirit
-10	ggg	Shawi	waʔjan- 	spirit
-10	ggg	Shiwilu	waʔð̞aɴ 	spirit
-10	hhh	PK	*waʔna 	metal
-10	hhh	Shawi	waʔna 	metal
-10	hhh	Shiwilu	waʔna 	metal
-11	a	PK	*ɪlaɴsiʔ 	bird
-11	a	Shawi	ina(i)ɴʃi-ɾa ~ inai-ɾa 	bird
-11	a	Shiwilu	ilaɴsɘˀɾ 	bird
-11	b	PK	*ɪluʔ- 	to suck (Sha), to lick (Shi)
-11	b	Shawi	iɾu- 	to suck (Sha), to lick (Shi)
-11	b	Shiwilu	iluʔ- 	to suck (Sha), to lick (Shi)
-11	c	PK	*ɪɴjaʔ- 	to urinate
-11	c	Shawi	ija- 	to urinate
-11	c	Shiwilu	iɴjaʔ- 	to urinate
-11	d	PK	*ji-luʔ-tɘʔ 	sand
-11	d	Shawi	i-no-tɘʔ 	sand
-11	d	Shiwilu	ð̞ɘ-ʎuʔ-tɘk	sand
-11	e	PK	*jɪʔsiʔ- 	to burn (transitive)
-11	e	Shawi	iʔʃi-‘to dip into salt’ 	to burn (transitive)
-11	e	Shiwilu	ð̞iʔsɘˀɾ- 	to burn (transitive)
-11	f	PK	*kapiʔ- 	to meet
-11	f	Shawi	naʰ-kapi- 	to meet
-11	f	Shiwilu	kapɘˀɾ- 	to meet
-11	g	PK	*naniʔ- 	to end
-11	g	Shawi	nani- 	to end
-11	g	Shiwilu	nanɘˀɾ-‘to forget, to flee’ 	to end
-11	h	PK	*pasiʔ- 	to pour
-11	h	Shawi	paʃi-‘to perfume’ 	to pour
-11	h	Shiwilu	pasɘˀɾ- 	to pour
-11	i	Shiwilu	papɘˀɾ- 	to bury
-11	j	PK	*pɪtaʔ- 	to push
-11	j	Shawi	piʰta-	to push
-11	j	Shiwilu	pitaʔ-ka- 	to push
-11	k	PK	*sakaʔ-t- 	to work
-11	k	Shawi	saka-t- 	to work
-11	k	Shiwilu	sakaʔ-t- 	to work
-11	l	PK	*sɘʔ-muʔ	to dilute
-11	l	Shawi	sɘʔ-mo- 	to dilute
-11	m	PK	*takiʔ- 	to die out
-11	m	Shawi	taʰki- 	to die out
-11	m	Shiwilu	takɘˀɾ- 	to die out
-11	n	PK	*tɘʔaʔ- 	to run, to flow
-11	n	Shawi	taʔa- 	to run, to flow
-11	n	Shiwilu	tɘkkaʔ- 	to run, to flow
-11	o	Shawi	toʔto-wi-tɘʔ toʔtopi-tɘʔ 	knee
-12	a	PK	*aˀpɘ(ʔ)- 	to burn
-12	a	Shawi	aʔpɘ- 	to burn
-12	a	Shiwilu	apɘk- 	to burn
-12	b	PK	*ɘʔki-~ *ɘˀki- 	to untie
-12	b	Shawi	iʔki-ɾi- 	to untie
-12	b	Shiwilu	ɘkkɘɾ	to untie
-12	c	PK	*kɪtɘ(ʔ)- 	to bite
-12	c	Shawi	kɘtɘ- 	to bite
-12	c	Shiwilu	kitɘk	to bite
-12	d	PK	*latɘ(ʔ)- 	to believe
-12	d	Shawi	naʰtɘ- 	to believe
-12	d	Shiwilu	latɘk- 	to believe
-12	e	PK	*naɴpɘ(ʔ)- 	to climb
-12	e	Shawi	naɴpɘ- 	to climb
-12	e	Shiwilu	naɴpɘk- 	to climb
-12	f	PK	*ɴjɘ(ʔ)- 	to jump
-12	f	Shawi	nii- 	to jump
-12	f	Shiwilu	iɴð̞ɘk- 	to jump
-12	g	PK	*patɘ(ʔ)- 	to crawl
-12	g	Shawi	paʰtɘ- 	to crawl
-12	g	Shiwilu	patɘk- 	to crawl
-12	h	PK	*pɘʔtɘ(ʔ)-~ *pɘˀtɘ(ʔ)- 	to cut
-12	h	Shawi	pɘʔtɘ- 	to cut
-12	h	Shiwilu	pɘktɘk- 	to cut
-12	i	PK	*pɪʔpɘ(ʔ)- 	to carry
-12	i	Shawi	pɘʔpɘ- 	to carry
-12	i	Shiwilu	piʔpɘk- 	to carry
-12	j	Shawi	tɘʔnɘʔ-ʃawɘ 	armadillo
-12	k	PK	*wɪtɘ(ʔ)- 	to sweep
-12	k	Shawi	wiʰtɘ- 	to sweep
-12	k	Shiwilu	witɘk-	to sweep
-13	a	Shiwilu	aʔlanaɴ 	huasaco fish
-13	b	PK	*aɴpiɴnɪaɴ 	huaman samana
-13	b	Shawi	aɴpiniaɴ 	huaman samana
-13	b	Shiwilu	aɴpɘɴɲaɴ 	huaman samana
-13	d	PK	*ɪɘɴsuɴ- 	to kneel
-13	d	Shawi	isoɴ- 	to kneel
-13	d	Shiwilu	jɘɴsuɴ- 	to kneel
-13	f	PK	*jaɴku 	flower
-13	f	Shawi	jaɴko 	flower
-13	f	Shiwilu	ð̞aɴku 	flower
-13	g	PK	*jɘɴnɪ 	otter
-13	g	Shawi	ini 	otter
-13	g	Shiwilu	ð̞ɘɴɲi 	otter
-13	h	PK	*juˀwɪɴ 	toucan
-13	h	Shawi	joʔwiɴ 	toucan
-13	h	Shiwilu	ð̞uwiɴ 	toucan
-13	i	PK	*kaɴki 	ñejilla palm
-13	i	Shawi	kaɴki 	ñejilla palm
-13	i	Shiwilu	kaɴkɘɾ 	ñejilla palm
-13	j	PK	*kɘɴma 	you
-13	j	Shawi	kɘma 	you
-13	j	Shiwilu	kɘɴma 	you
-13	k	PK	*kupɪ-waɴ 	boa
-13	k	Shawi	koʰpi-waɴ 	boa
-13	k	Shiwilu	kupi-waɴ 	boa
-13	l	PK	*lamaɴ 	huangana peccary
-13	l	Shawi	namaɴ 	huangana peccary
-13	l	Shiwilu	lamaɴ 	huangana peccary
-13	m	PK	*laɴ-tɘʔ 	foot
-13	m	Shawi	naɴ-tɘʔ 	foot
-13	m	Shiwilu	laɴ-tɘk 	foot
-13	n	PK	*lawaɴ 	thorn
-13	n	Shawi	nawaɴ 	thorn
-13	n	Shiwilu	lawaɴ 	thorn
-13	o	PK	*lɪɴlɪɴ 	name
-13	o	Shawi	niniɴ 	name
-13	o	Shiwilu	ʎiɴʎiɴ 	name
-13	p	PK	*naɴpɘ(ʔ)- 	to climb
-13	p	Shawi	naɴpɘ- 	to climb
-13	p	Shiwilu	naɴpɘk- 	to climb
-13	q	PK	*nuɴ 	canoe
-13	q	Shawi	noɴ 	canoe
-13	q	Shiwilu	nuɴ	canoe
-13	r	PK	*paɴpɘ 	irapai palm
-13	r	Shawi	paɴpɘ 	irapai palm
-13	r	Shiwilu	paɴpɘk-lu 	irapai palm
-13	t	PK	*pɘɴ 	fire
-13	t	Shawi	pɘɴ 	fire
-13	t	Shiwilu	pɘɴ 	fire
-13	u	PK	*pɘɴ- 	to fly
-13	u	Shawi	pɘɴ- 	to fly
-13	u	Shiwilu	pɘɴ	to fly
-13	v	PK	*-ɾɪɴ,*-lɪɴ 	vine:CL
-13	v	Shawi	-ɾiɴ,-niɴ 	vine:CL
-13	v	Shiwilu	-ʎiɴ 	vine:CL
-13	w	PK	*siɴpa 	pineapple
-13	w	Shawi	ʃiɴpa 	pineapple
-13	w	Shiwilu	sɘɾɴpa 	pineapple
-13	x	PK	*tanju-la 	star
-13	x	Shawi	tajo-ɾa 	star
-13	x	Shiwilu	taɴð̞u-la 	star
-13	y	PK	*taɴku 	platanillo
-13	y	Shawi	taɴko 	platanillo
-13	y	Shiwilu	taɴku ‘banana’ 	platanillo
-13	z	PK	*tɪmɘɴ 	louse
-13	z	Shawi	tɘmɘɴ 	louse
-13	z	Shiwilu	tʃimɘɴ 	louse
-13	aa	PK	*tɪmɪɴ- 	to die
-13	aa	Shawi	tʃimiɴ- 	to die
-13	aa	Shiwilu	tʃimiɴ- 	to die
-13	bb	PK	*tɪɴpiɴ-naɴ /*-nam- 	river mouth
-13	bb	Shawi	tʃiɴpinam-ɘɴ 	river mouth
-13	bb	Shiwilu	tʃiɴpɘɴɲaɴ 	river mouth
-13	cc	PK	*tukuɴ 	tocón monkey
-13	cc	Shawi	toʰkoɴ 	tocón monkey
-13	cc	Shiwilu	tukuɴ 	tocón monkey
-13	dd	PK	*tuɴka	horsefly
-13	dd	Shawi	toɴka 	horsefly
-13	dd	Shiwilu	tuɴka 	horsefly
-13	ee	PK	*tuʔwaɴ 	cunchi, tullu uma fish
-13	ee	Shawi	toʔwaɴ 	cunchi, tullu uma fish
-13	ee	Shiwilu	tuʔwaɴ 	cunchi, tullu uma fish
-13	ff	PK	*waɴ 	shrimp
-13	ff	Shawi	waɴ-ʃa 	shrimp
-13	ff	Shiwilu	waɴ-ʃɘɴ 	shrimp
-13	gg	PK	*waɴki 	boquichico fish
-13	gg	Shawi	waɴki 	boquichico fish
-13	gg	Shiwilu	waɴkɘ{ʔ/t}-tʃɘk 	boquichico fish
-13	hh	PK	*wɘɴnɪ 	shuyo fish
-13	hh	Shawi	wɘni 	shuyo fish
-13	hh	Shiwilu	wɘɴɲi ~ uɴɲi 	shuyo fish
-14	a	PK	*ai- 	sour
-14	a	Shawi	ai- 	sour
-14	a	Shiwilu	ɘɾ- 	sour
-14	b	PK	*aiɴ 	hair
-14	b	Shawi	aiɴ 	hair
-14	b	Shiwilu	ɘɾɴ 	hair
-14	c	PK	*ana-si 	opossum
-14	c	Shawi	ana-ʃi 	opossum
-14	c	Shiwilu	ana-sɘɾ 	opossum
-14	d	PK	*aɴpiɴnɪaɴ 	huaman samana tree
-14	d	Shawi	aɴpiniaɴ 	huaman samana tree
-14	d	Shiwilu	aɴpɘɴɲaɴ 	huaman samana tree
-14	e	PK	*api(ʔ) 	thief (> to steal)
-14	e	Shawi	apiʔ 	thief (> to steal)
-14	e	Shiwilu	apɘɾ- 	thief (> to steal)
-14	f	PK	*apiʔ 	wound (> to get spoilt, ugly)
-14	f	Shawi	apiʔ 	wound (> to get spoilt, ugly)
-14	f	Shiwilu	apɘˀɾ 	wound (> to get spoilt, ugly)
-14	g	PK	*ɘʔki-~ *ɘˀki- 	to untie
-14	g	Shawi	iʔki-ɾi-t- 	to untie
-14	g	Shiwilu	ɘkkɘɾ- 	to untie
-14	h	PK	*ipa-tɘʔ 	vein, sinew, tendon
-14	h	Shawi	iʰpa-tɘʔ 	vein, sinew, tendon
-14	h	Shiwilu	ɘɾpa-tɘk 	vein, sinew, tendon
-14	j	Shawi	iʔna- 	trace
-14	l	PK	*iʔwa 	recently/late, afternoon
-14	l	Shawi	iʔwa 	recently/late, afternoon
-14	l	Shiwilu	ɘˀɾwa 	recently/late, afternoon
-14	m	PK	*iʔwaju 	evening star
-14	m	Shawi	iʔwajo 	evening star
-14	m	Shiwilu	ɘˀɾwað̞u 	evening star
-14	n	PK	*ɪki(ɾ/l)ala 	cunchi fish
-14	n	Shawi	ikiana 	cunchi fish
-14	n	Shiwilu	ikɘλala 	cunchi fish
-14	o	Shawi	ina(i)ɴʃi-ɾa ~ inaiɾa 	bird
-14	p	PK	*jami 	small, thin
-14	p	Shawi	jami- 	small, thin
-14	p	Shiwilu	ð̞amɘɾ 	small, thin
-14	q	PK	*jawi(-ɾa) 	chonta/açaí palm
-14	q	Shawi	jawi-ɾa 	chonta/açaí palm
-14	q	Shiwilu	ð̞awɘɾ,ð̞awɘ-ʎa 	chonta/açaí palm
-14	r	PK	*juki 	moon
-14	r	Shawi	joʰki 	moon
-14	r	Shiwilu	ð̞ukɘɾ 	moon
-14	u	PK	*kapiʔ- 	to find
-14	u	Shawi	naʰ-kapi- 	to find
-14	u	Shiwilu	kapɘˀɾ- 	to find
-14	v	PK	*kasi- 	sweet
-14	v	Shawi	kaʰʃi 	sweet
-14	v	Shiwilu	kasɘɾ 	sweet
-14	x	PK	*lɪpi 	pucacuru ant
-14	x	Shawi	niʰpi 	pucacuru ant
-14	x	Shiwilu	lipɘɾ-λa ~ λ- 	pucacuru ant
-14	y	PK	*luwi- 	to know
-14	y	Shawi	nowi- 	to know
-14	y	Shiwilu	luwɘɾ- 	to know
-14	z	PK	*maki 	macambo palm
-14	z	Shawi	maʰki 	macambo palm
-14	z	Shiwilu	makɘɾ	macambo palm
-14	aa	Shawi	nani-‘to end’ 	to end
-14	bb	PK	*ni-tɘʔ 	nose
-14	bb	Shawi	ni-tɘʔ 	nose
-14	bb	Shiwilu	nɘɾtʃɘk ~ nɘttʃɘk 	nose
-14	cc	PK	*niɪ	to breathe
-14	cc	Shawi	nii- 	to breathe
-14	cc	Shiwilu	nɘɾi- 	to breathe
-14	dd	PK	*nika-ɾa 	lisa fish
-14	dd	Shawi	niʰka-ɾa ~ miʰka-ɾa 	lisa fish
-14	dd	Shiwilu	nɘɾka-la 	lisa fish
-14	ee	Shawi	paʰʃi-‘to perfume’ 	to pour
-14	gg	PK	*pitu 	breadfruit
-14	gg	Shawi	piʰto 	breadfruit
-14	gg	Shiwilu	pɘttʃu 	breadfruit
-14	hh	Shawi	poʔʃi‘squirrel sp.’ 	mammal sp.
-14	ii	PK	*sami 	fish
-14	ii	Shawi	sami 	fish
-14	ii	Shiwilu	samɘɾ 	fish
-14	ll	PK	*siwa 	apangora crab
-14	ll	Shawi	ʃiwa 	apangora crab
-14	ll	Shiwilu	sɘɾwa 	apangora crab
-14	mm	Shawi	ʃiʔwi-roʔ 	macana fish
-14	nn	PK	*sɪwi(ɴ)(-naɴ) 	reed, cane sp.
-14	nn	Shawi	ʃiwi(-naɴ) 	reed, cane sp.
-14	nn	Shiwilu	siwɘɴ-ɲa(ɴ) 	reed, cane sp.
-14	oo	PK	*takiʔ-	to die out
-14	oo	Shawi	taʰki-	to die out
-14	oo	Shiwilu	takɘˀɾ-	to die out
-14	pp	PK	*tiaʔ-	to sow
-14	pp	Shawi	ʃaʔ-	to sow
-14	pp	Shiwilu	tɘɾa-	to sow
-14	qq	PK	*tɪpi 	moriche palm
-14	qq	Shawi	ʃiʰpi 	moriche palm
-14	qq	Shiwilu	tʃipɘɾ 	moriche palm
-14	rr	PK	*tɪpi-tɘʔ 	mosquito net
-14	rr	Shawi	*tɪpi-tɘʔ 	mosquito net
-14	rr	Shiwilu	tʃipɘɾ-tʃɘk ~ tʃipɘt-tʃɘk 	mosquito net
-14	ss	Shiwilu	tʃitɘˀɾ 	maize
-14	tt	PK	*tɪɴpinaɴ / *-nam- 	river mouth
-14	uu	PK	*uti 	sister of a male ego
-14	uu	Shawi	oʰʃ 	sister of a male ego
-14	uu	Shiwilu	utɘ(ˀ)ɾ-iɴ 	sister of a male ego
-14	vv	PK	*wani- 	to stand (up)
-14	vv	Shawi	wani- 	to stand (up)
-14	vv	Shiwilu	wanɘɾ- 	to stand (up)
-14	ww	Shiwilu	waɴkɘ{t/ʔ}-tʃɘk 	boquichico fish
-14	xx	PK	*wi- 	to sting
-14	xx	Shawi	wi- 	to sting
-14	xx	Shiwilu	wɘɾ- 	to sting
-15	a	PK	*ɴ- 	reflexive voice
-15	a	Shawi	ni- 	reflexive voice
-15	a	Shiwilu	iɴ- 	reflexive voice
-15	b	PK	*ɴjɘ(ʔ)- 	to jump
-15	b	Shawi	nii- 	to jump
-15	b	Shiwilu	iɴð̞ɘk- 	to jump
-16	a	PK	*ɪɴjuɾa-tɘk 	patio
-16	a	Shawi	ɘʔɘɾa-tɘʔ ~ iʔiɾa-tɘʔ 	patio
-16	a	Shiwilu	iɴjula-tɘk 	patio
-16	b	PK	*ɪɴsɘɴ 	to scoop
-16	b	Shawi	isɘɴ‘scoop (n.)’ 	to scoop
-16	b	Shiwilu	iɴʃɘɴ- 	to scoop
-16	c	PK	*ɪɴja- 	to roast
-16	c	Shawi	ija- 	to roast
-16	c	Shiwilu	iɴja- 	to roast
-16	e	PK	*ɪɴmuɾu(ɘ)ʔ- 	sibling-in-law (opposite sex of the ego)
-16	e	Shawi	imoɾoɘ-ɴ 	sibling-in-law (opposite sex of the ego)
-16	e	Shiwilu	iɴmuʎuʔ-ʃa8‘brother-in-law (of a woman)’ 	sibling-in-law (opposite sex of the ego)
-16	f	PK	*ɪɴtɪna(ɴ)	right
-16	f	Shawi	iɴtʃinaɴ 	right
-16	f	Shiwilu	iɴtʃina(ɴ) 	right
-17	a	PK	*nɪnaɴluʔ 	settlement
-17	a	Shawi	ninanoʔ 	settlement
-17	a	Shiwilu	ɲinaɴluʔ 	settlement
-17	b	PK	*nɪnɘ(ʔ)-ɾa 	tongue
-17	b	Shawi	nɘnɘ-ɾa 	tongue
-17	b	Shiwilu	ɲinɘk-la 	tongue
-17	c	PK	*nɪ-t- 	to bear fruit
-17	c	Shawi	niʰ-t- 	to bear fruit
-17	c	Shiwilu	ɲi-t- 	to bear fruit
-18	c	PK	*kɪtɘ(ʔ)- 	to bite
-18	c	Shawi	kɘtɘ- 	to bite
-18	c	Shiwilu	kitɘk- 	to bite
-18	d	PK	*mɪɾɘ 	yarina palm (Sha); tagua/ivory nut palm (Shi)
-18	d	Shawi	mɘɾɘ 	yarina palm (Sha); tagua/ivory nut palm (Shi)
-18	d	Shiwilu	milɘk 	yarina palm (Sha); tagua/ivory nut palm (Shi)
-18	g	PK	*pɪlɘɴ- 	to advise
-18	g	Shawi	pɘnɘɴ- 	to advise
-18	g	Shiwilu	pilɘɴ- 	to advise
-18	h	PK	*pɪʔpɘ(ʔ)- 	to carry
-18	h	Shawi	pɘʔpɘ- 	to carry
-18	h	Shiwilu	piʔpɘk- 	to carry
-18	k	PK	*tɪtɘ(ʔ)-pɪ 	floodplain
-18	k	Shawi	tɘʰtɘ-pi ~ tɘʰti-wi 	floodplain
-18	k	Shiwilu	tʃitɘk-pi-luʔ 	floodplain
-18	l	PK	*tɪʔlɘ(ʔ) 	yanguaturi armadillo
-18	l	Shawi	tɘʔnɘ-ʃaʔwɘ 	yanguaturi armadillo
-18	l	Shiwilu	tʃiʔlɘk 	yanguaturi armadillo
-19	a	PK	*wɪtɘ(ʔ)- 	to sweep
-19	a	Shawi	wiʰtɘ- 	to sweep
-19	a	Shiwilu	witɘk-	to sweep
-20	d	PK	*siɴnɪɾɘ	dart
-20	e	Shawi	ʃiʰpi-tɘʔ 	mosquito net
-21	a	PK	*sɪwiɴnaɴ	reed, cane sp.
-21	a	Shawi	ʃiwinaɴ 	reed, cane sp.
-21	a	Shiwilu	siwɘɴɲa(ɴ) 	reed, cane sp.
-21	b	Shiwilu	tʃipɘ(ˀ)ɾ 	moriche palm
-21	c	Shiwilu	tʃipɘɾ-tʃɘk ~ -pɘt- 	mosquito net
-21	f	PK	*jɪʔsiʔ- 	to burn (vt.)
-21	f	Shawi	iʔʃi-‘to dip into salt’ 	to burn (vt.)
-21	f	Shiwilu	ð̞iʔsɘˀɾ- 	to burn (vt.)
-21	g	Shiwilu	pitɘɾ 	thread
-22	a	PK	*pɘɴmuɴ 	horn
-22	a	Shawi	pomoɴ 	horn
-22	a	Shiwilu	pɘɴmuɴ	horn
-22	d	PK	*tɘɴpuʔ- 	to tie
-22	d	Shawi	toɴpoʔ ‘bundle’, toɴpo-~ tɘɴpo- 	to tie
-22	d	Shiwilu	tɘɴpuʔ- 	to tie
-22	e	Shawi	toʔto-ɾa-tɘʔ ~ toʔtɘ-ɾa-tɘʔ 	nail
-23	a	Shawi	naʔʃi	bushmaster
-23	b	PK	*pɪɴti 	tobacco
-23	b	Shawi	piɴʃi 	tobacco
-23	b	Shiwilu	piɴtɘɾ 	tobacco
-23	d	PK	*tiaʔ- 	to sow, to plant
-23	d	Shawi	ʃaʔ- 	to sow, to plant
-23	d	Shiwilu	tɘɾaʔ- 	to sow, to plant
-23	f	Shawi	oʰʃi 	sister of a male ego
-24	a	PK	*ana-si	opossum
-24	b	Shawi	ina(i)ɴʃi-ɾa ~ inaiɾa 	bird
-24	c	PK	*kasiʔ 	sweet
-24	c	Shawi	kaʃi-ɴ 	sweet
-24	c	Shiwilu	kasɘˀɾ- 	sweet
-24	d	PK	*lɪɴsi 	pattern, drawing
-24	d	Shawi	ni(ɴ)ʃi- 	pattern, drawing
-24	d	Shiwilu	ʎiɴsɘɾ 	pattern, drawing
-24	g	PK	*siku 	anteater
-24	g	Shawi	ʃiʰko 	anteater
-24	g	Shiwilu	sɘ(ˀ)ɾku 	anteater
-24	h	PK	*siɴ-naɾa 	ungurahui palm
-24	h	Shawi	ʃi-naɾa 	ungurahui palm
-24	h	Shiwilu	sɘɴ-ɲala 	ungurahui palm
-24	l	PK	*siˀtaʔ 	drop
-24	l	Shawi	ʃiʔtaʔ 	drop
-24	l	Shiwilu	sɘɾtʃaʔ-~ sɘttʃaʔ-~ sɘʔtʃaʔ- 	drop
-24	n	PK	*siˀwɪ(ɴ)	macana fish
-25	a	PK	*jɘɴ 	who
-25	a	Shawi	iɴ 	who
-25	a	Shiwilu	ð̞ɘɴ 	who
-25	b	PK	*jɘɴnɪ 	otter
-25	b	Shawi	ini 	otter
-25	b	Shiwilu	ð̞ɘɴɲi 	otter
-25	d	PK	*jɘʔ- 	with one’s fingernails
-25	d	Shawi	iʔ- 	with one’s fingernails
-25	d	Shiwilu	ð̞ɘk- 	with one’s fingernails
-25	e	PK	*kajɘ	sister of a female ego
-25	e	Shawi	kai 	sister of a female ego
-25	e	Shiwilu	kað̞ɘk 	sister of a female ego
-25	f	PK	*kujɘ 	musmuque monkey
-25	f	Shawi	kowi 	musmuque monkey
-25	f	Shiwilu	kuð̞ɘk 	musmuque monkey
-25	h	PK	*sakaʔ-jɘʔ 	difficult
-25	h	Shawi	saʰka-iʔ 	difficult
-25	h	Shiwilu	sakaʔð̞ɘk 	difficult
-25	i	Shiwilu	ð̞ɘ-λuʔ-tɘk 	sand
-25	j	PK	*ajɪ-pɪ 	above
-25	j	Shawi	ai-pi 	above
-25	j	Shiwilu	að̞i-pi 	above
-25	k	PK	*ajɪwaɴ 	spirit of the forest
-25	k	Shawi	aiwaɴ 	spirit of the forest
-25	k	Shiwilu	að̞iwaɴ-‘to scare’ 	spirit of the forest
-25	l	PK	*jɪmu- 	to pile up
-25	l	Shawi	imo- 	to pile up
-25	l	Shiwilu	ð̞imu- 	to pile up
-25	m	PK	*jɪwɘ 	firewood
-25	m	Shawi	iwɘ 	firewood
-25	m	Shiwilu	ð̞iwɘk 	firewood
-25	n	PK	*jɪʔ-jɘʔ-t- 	to throw into water
-25	n	Shawi	iʔ-i-t- 	to throw into water
-25	n	Shiwilu	ð̞iʔ-ð̞ɘk-t- 	to throw into water
-25	p	PK	*suˀja, 3 *suˀj-ɪɴ 	husband
-25	p	Shawi	soʔja, 3 soʔ-iɴ	husband
-25	p	Shiwilu	suð̞a, 3 suð̞-iɴ 	husband
-26	a	PK	*ɘsa 	genipa
-26	a	Shawi	isa 	genipa
-26	a	Shiwilu	ɘksa 	genipa
-26	c	PK	*ɘɴpu 	hualo toad
-26	c	Shawi	iɴpu 	hualo toad
-26	c	Shiwilu	ɘɴpu 	hualo toad
-26	d	PK	*ɘwi- 	to scrape
-26	d	Shawi	iwi- 	to scrape
-26	d	Shiwilu	ɘkkʷi- 	to scrape
-26	e	PK	*ɘwinaɴ 	comb
-26	e	Shawi	iwinaɴ 	comb
-26	e	Shiwilu	ɘkkʷina(ɴ) 	comb
-26	f	PK	*ɪpɘ 	giant armadillo
-26	f	Shawi	ɘpɘ ~ ipɘ 	giant armadillo
-26	f	Shiwilu	ipɘk 	giant armadillo
-26	h	PK	*ɪ-tɘʔ 	root
-26	h	Shawi	i-tɘʔ 	root
-26	h	Shiwilu	i-tɘk 	root
-27	a	PK	*laɴsɪʔ 	bone
-27	a	Shawi	naɴsɘʔ 	bone
-27	a	Shiwilu	laɴsiʔ 	bone
-27	c	Shawi	sɘnopaʔ ~ sɘnowaʔ 	bee sp.
-27	e	PK	*sɪʔka 	tingotero/isulilla ant
-27	e	Shawi	sɘʔka-‘to sting’ 	tingotero/isulilla ant
-27	e	Shiwilu	siʔka- 	tingotero/isulilla ant
-27	g	PK	*jakuʔsɪʔ- 	to cut hair
-27	g	Shawi	jaʰkoso- 	to cut hair
-27	g	Shiwilu	ð̞akuʔsiʔ- 	to cut hair
-28	a	Shiwilu	iɴtʃina(ɴ)	right
-28	b	PK	*muɴtɪ 	dove sp.
-28	b	Shawi	moɴtʃi 	dove sp.
-28	b	Shiwilu	muɴtʃi 	dove sp.
-28	c	PK	*pɪtɪ-/ *pɪtɪ-naɴ 	to count / size, measure
-28	c	Shawi	pitʃi-/ pitʃi-naɴ 	to count / size, measure
-28	c	Shiwilu	pitʃi-/ pitʃi-naɴ 	to count / size, measure
-28	e	PK	*tɪɴ-	to smoke food
-28	e	Shawi	tʃiɴ- 	to smoke food
-28	e	Shiwilu	tʃiɴ- 	to smoke food
-28	f	PK	*tɪɴpɪnaɴ / *tɪɴpɪnam- 	river mouth
-28	g	PK	*tɪɴtɪ 	river crab
-28	g	Shawi	tʃiɴtʃi 	river crab
-28	g	Shiwilu	tʃiɴtʃi 	river crab
-28	i	PK	*tɪˀtɪ 	excrement
-28	i	Shawi	tʃiʔtʃi 	excrement
-28	i	Shiwilu	tʃitʃi 	excrement
-30	b	Shawi	joʰki	moon
-30	d	PK	*kukuʔ 	oropendola, paucar bird
-30	d	Shawi	koʰkoʔ 	oropendola, paucar bird
-30	d	Shiwilu	kukuʔ 	oropendola, paucar bird
-30	h	Shiwilu	utɘ(ˀ)ɾ-iɴ	sister of a male ego
-31	a	PK	*aɘ 	anona
-31	a	Shawi	ɘ(-ʃa),aɘ 	anona
-31	a	Shiwilu	ɘk-pi 	anona
-31	b	PK	*ɘsa 	huito tree
-31	b	Shawi	isa 	huito tree
-31	b	Shiwilu	ɘksa 	huito tree
-31	e	PK	*ɪpɘ 	yanguaturi armadillo
-31	e	Shawi	ɘpɘ ~ ipɘ 	yanguaturi armadillo
-31	e	Shiwilu	ipɘk 	yanguaturi armadillo
-31	g	PK	*juɴsɘ 	pale-vented pigeon
-31	g	Shawi	joɴsɘ 	pale-vented pigeon
-31	g	Shiwilu	ð̞uɴsɘk 	pale-vented pigeon
-31	h	PK	*kajɘ, 3 *kajɘ-ɴ 	sister of a female ego
-31	h	Shawi	kai, 3 kai-ɴ 	sister of a female ego
-31	h	Shiwilu	kað̞ɘk, 3 kað̞ɘ-ɴ 	sister of a female ego
-31	i	PK	*kɘ(-t)- 	to fry, to singe
-31	i	Shawi	kɘ-t- 	to fry, to singe
-31	i	Shiwilu	kɘk- 	to fry, to singe
-31	m	PK	*naɴsɘ 	sábalo fish
-31	m	Shawi	naɴsɘ 	sábalo fish
-31	m	Shiwilu	naɴsɘk 	sábalo fish
-31	n	Shiwilu	paɴpɘk 	irapai palm
-31	o	PK	*pɘɾa- 	to call (Sha), to sing, to whistle, tobark, to croak (Shi)
-31	o	Shawi	pɘɾa- 	to call (Sha), to sing, to whistle, tobark, to croak (Shi)
-31	o	Shiwilu	pɘkla- 	to call (Sha), to sing, to whistle, tobark, to croak (Shi)
-31	q	PK	*tamɘ 	condor
-31	q	Shawi	tamɘ 	condor
-31	q	Shiwilu	tamɘk 	condor
-31	r	PK	*tɘpa 	tick
-31	r	Shawi	tɘpa 	tick
-31	r	Shiwilu	tɘkpa 	tick
-31	s	Shiwilu	ukla-ð̞ɘk~wɘkla-ð̞ɘk 	blood
-31	t	PK	*wɘ 	ear
-31	t	Shawi	wɘ-ɾa-tɘʔ 	ear
-31	t	Shiwilu	wɘk 	ear
-31	u	PK	*wɘlu- 	to gnaw
-31	u	Shawi	wɘno- 	to gnaw
-31	u	Shiwilu	uklu	to gnaw
-31	x	Shawi	tuʔtɘ-ɾa-tɘʔ 	nail
-31	y	PK	*ukɘ(ʔ)- 	to stink (of blood)
-31	y	Shawi	ukɘ-ʰkɘɴ 	to stink (of blood)
-31	y	Shiwilu	ukɘk- 	to stink (of blood)
-31	aa	Shawi	isɘʔ	bat
-31	cc	PK	*jɘʔ- 	pressing with fingernails
-31	cc	Shawi	iʔ- 	pressing with fingernails
-31	cc	Shiwilu	ð̞ɘk- 	pressing with fingernails
-31	ee	PK	*maɾɘʔ	because of, for
-31	ff	PK	*sɘʔ- 	with one’s fingers
-31	ff	Shawi	sɘʔ- 	with one’s fingers
-31	ff	Shiwilu	sɘk- 	with one’s fingers
-31	gg	Shiwilu	sɘkku 	diced manioc
-31	ii	PK	*waˀsɘʔ 	carachamita fish 
-31	ii	Shawi	waʔsɘʔ 	carachamita fish 
-31	ii	Shiwilu	wasɘk 	carachamita fish 
-31	jj	Shiwilu	wɘk- 	to come
-31	ll	Shawi	pɘn- 	to fly
-31	ll	Shiwilu	pɘɴ- 	to fly
-31	mm	PK	*sɘɴma-ɾuʔ 	porridge, thick soup
-31	mm	Shawi	sɘma-ɾu-t- 	porridge, thick soup
-31	mm	Shiwilu	sɘɴma-luʔ 	porridge, thick soup
-31	nn	PK	*timɘɴ 	louse
-31	pp	PK	*jɘɴni 	otter
-31	qq	PK	*iɘɴsuɴ- 	to kneel
-32	d	PK	*liˀluna 	tacarpostick
-32	d	Shawi	niʔnona 	tacarpostick
-32	d	Shiwilu	lɘʎuna(ɴ) 	tacarpostick
-32	k	PK	*sukiɾu(ʔ) 	frog sp
-32	k	Shawi	ʃiʔtaʔ 	frog sp
-32	k	Shiwilu	sukɘʎuʔ 	frog sp
-33	a	PK	*ɪja(-t)-	tasty, to like (food)
-33	a	Shawi	ja-(ʃ)i-ɴ,ja-ʰt- 	tasty, to like (food)
-33	a	Shiwilu	ija-,ija-t- 	tasty, to like (food)
-33	b	PK	*ɪjuɴ 	night mosquito
-33	b	Shawi	joɴ 	night mosquito
-33	b	Shiwilu	ijuɴ 	night mosquito
-33	d	PK	*ɪɴjaʔ	to urinate
-33	f	Shawi	iʔsa	curassow
-33	h	Shawi	Isɘɴ ‘scoop (n.)’ 	to scoop
-34	a	PK	*ɪɴtɪna(ɴ) 	right
-34	d	PK	*-lɪɴ e.g. *lu-lɪɴ 	vine:CL tamshi vine
-34	d	Shawi	-niɴ e.g. no-niɴ 	vine:CL tamshi vine
-34	d	Shiwilu	-ʎiɴ e.g. lu-ʎiɴ 	vine:CL tamshi vine
-34	i	PK	*nɪnɘ-ɾa 	tongue
-34	l	PK	*palɪʔ- 	leaf for the roof
-34	r	PK	*tɪɴ- 	to smoke food
-34	v	Shawi	tɘtɘ-pi ~ tɘti-wi 	floodplain
-39	a	PK	*jawɘɾɘ ~ *ɪawɘɾuʔ 	great egret
-39	a	Shawi	jawɘɾɘ 	great egret
-39	a	Shiwilu	jaukluʔ ~ jawɘkluʔ 	great egret
-39	b	PK	*janaɴ ~ *junaɴ 	piranha
-39	b	Shawi	janaɴ 	piranha
-39	b	Shiwilu	ð̞unaɴ	piranha
-39	c	PK	*kasɘʔ ~ *kɪsɘʔ 	to feel itchy
-39	c	Shawi	kasɘʔ / kasɘ- 	to feel itchy
-39	c	Shiwilu	kisɘk- 	to feel itchy
-39	d	PK	*kaˀjɘ(ʔ)-t ~ *kuˀjɘ(ʔ)-t- 	to apply warm water
-39	d	Shawi	kaʔi-t- 	to apply warm water
-39	d	Shiwilu	kuð̞ɘk-t- 	to apply warm water
-39	e	PK	*(k)ɘju-, *(k)ɘju-ɾuɴ	widow
-39	e	Shawi	kɘjo-ɾoɴ 	widow
-39	e	Shiwilu	ɘkð̞u-, ɘkð̞u-luɴ 	widow
-39	f	PK	*(k)ɘpa 	caimito fruit
-39	f	Shawi	kɘʰpa 	caimito fruit
-39	f	Shiwilu	ɘkpa 	caimito fruit
-39	g	PK	*lɪɴlupɪ ~ *n-~ *j- 	heart
-39	g	Shawi	ninopi 	heart
-39	g	Shiwilu	ð̞iɴlupi 	heart
-39	h	PK	*lusuʔ-~ *lutuʔ- 	to see in a vision
-39	h	Shawi	noso- 	to see in a vision
-39	h	Shiwilu	lutuʔ- 	to see in a vision
-39	i	PK	*tɪ(a)ʔ(j)ɘ(ʔ)- 	to flee, to escape
-39	i	Shawi	tʃaʔɘ- 	to flee, to escape
-39	i	Shiwilu	tʃiʔjɘk- 	to flee, to escape
+set	entry	doculect	value	concept	note
+1	a	PK	*aɴpuɾuʔ 	feather, bodily hair	
+1	a	Shawi	aɴpoɾoʔ 	feather, bodily hair	
+1	a	Shiwilu	aɴpuluʔ 	feather, bodily hair	
+1	b	PK	*ɪɾɪɴ- 	to make noise	
+1	b	Shawi	iɾiɴ- 	to make noise	
+1	b	Shiwilu	iʎiɴ- 	to make noise	
+1	c	PK	*ɪɾu 	cough, cold	
+1	c	Shawi	iɾo 	cough, cold	
+1	c	Shiwilu	ilu- 	cough, cold	
+1	d	PK	*ɪɾuʔ- 	to suck (Sha); to lick (Shi)	
+1	d	Shawi	iɾo- 	to suck (Sha); to lick (Shi)	
+1	d	Shiwilu	iluʔ- 	to suck (Sha); to lick (Shi)	
+1	e	PK	*jamuɾa 	salt	
+1	e	Shawi	jamoɾa 	salt	
+1	e	Shiwilu	ð̞amula 	salt	
+1	f	PK	*kaˀjuɾa 	cicada	
+1	f	Shawi	kaʔjoɾa 	cicada	
+1	f	Shiwilu	kað̞ula 	cicada	
+1	g	PK	*kalaɾaɴ 	sea lion	
+1	g	Shawi	kanaɾaɴ 	sea lion	
+1	g	Shiwilu	kalala(ɴ) 	sea lion	
+1	h	PK	*kaluʔtuɾuʔ 	locrerobird, greater ani	
+1	h	Shawi	kanoʔtoɾoʔ 	locrerobird, greater ani	
+1	h	Shiwilu	kaluʔtuluʔ 	locrerobird, greater ani	
+1	i	PK	*kaɾa 	three	
+1	i	Shawi	kaɾa 	three	
+1	i	Shiwilu	kala 	three	
+1	j	PK	*kuʔluɾuɴtɘʔ 	corocoro bird	
+1	j	Shawi	koʔnoɾoɴtɘʔ 	corocoro bird	
+1	j	Shiwilu	kuʔluluɴtɘk 	corocoro bird	
+1	k	PK	*kumaɾa 	cumala tree	
+1	k	Shawi	komaɾa 	cumala tree	
+1	k	Shiwilu	kumala 	cumala tree	
+1	l	PK	*maɾɘʔ 	because of, for	
+1	l	Shawi	maɾɘʔ 	because of, for	
+1	l	Shiwilu	malɘk 	because of, for	
+1	m	PK	*mɪɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	
+1	m	Shawi	mɘɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	
+1	m	Shiwilu	milɘk	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	
+1	n	PK	*naɾa 	tree	
+1	n	Shawi	naɾa 	tree	
+1	n	Shiwilu	nala 	tree	
+1	o	PK	*paɴwaɾa 	tapir	
+1	o	Shawi	pawaɾa 	tapir	
+1	o	Shiwilu	paɴwala 	tapir	
+1	p	PK	*pɘɾa- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)	
+1	p	Shawi	pɘɾa- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)	
+1	p	Shiwilu	pɘkla- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)	
+1	q	PK	*pɘwaɾa 	iguana	
+1	q	Shawi	pɘwaɾa 	iguana	
+1	q	Shiwilu	pɘkkʷala 	iguana	
+1	r	PK	*-ɾa e.g. *taɴju-ɾa,*nɪnɘ(ʔ)-ɾa,*tuʔtɘ(ʔ)-ɾa 	small and round:CLstartonguenail	
+1	r	Shawi	-ɾa e.g. tajo-ɾa, nɘnɘ-ɾa, toʔto-ɾa-tɘʔ ~ toʔtɘ-ɾa-tɘʔ 	small and round:CLstartonguenail	
+1	r	Shiwilu	-la e.g. tað̞u-la,ɲinɘk-la,tuʔtɘk-la 	small and round:CLstartonguenail	
+1	s	PK	*saɾa(ʔ) 	guava	
+1	s	Shawi	saɾa 	guava	
+1	s	Shiwilu	salaʔ 	guava	
+1	t	PK	*siɴnɪɾɘ 	dart	
+1	t	Shawi	ʃinɘɾɘ 	dart	
+1	t	Shiwilu	sɘɴɲilɘk 	dart	
+1	u	PK	*siɾuʔ 	paucar bird	
+1	u	Shawi	ʃiɾoʔ 	paucar bird	
+1	u	Shiwilu	sɘʎuʔ 	paucar bird	
+1	v	PK	*sukiɾu(ʔ) 	frog sp.	
+1	v	Shawi	sokiɾo 	frog sp.	
+1	v	Shiwilu	sukɘʎuʔ 	frog sp.	
+1	w	PK	*suʔpuɾa 	rapids, waterfall	
+1	w	Shawi	soʔpoɾa ~ sɘʔpoɾa 	rapids, waterfall	
+1	w	Shiwilu	suʔpula 	rapids, waterfall	
+1	x	PK	*suɾuʔ 	choro monkey	
+1	x	Shawi	soɾoʔ 	choro monkey	
+1	x	Shiwilu	suluʔ 	choro monkey	
+1	y	PK	*tɪɾu 	sloth	
+1	y	Shawi	tʃiɾo 	sloth	
+1	y	Shiwilu	tʃilu 	sloth	
+1	z	PK	*tuɾuma 	mushroom sp.	
+1	z	Shawi	toɾoma-tɘʔ ~ toɾoɴpa-tɘʔ 	mushroom sp.	
+1	z	Shiwilu	tuluma 	mushroom sp.	
+1	aa	PK	*uɾɪna(ɴ) 	jar for chicha or masato	
+1	aa	Shawi	oɾinaɴ 	jar for chicha or masato	
+1	aa	Shiwilu	uʎina 	jar for chicha or masato	
+1	bb	PK	*waɾatɘʔ 	carachama fish	
+1	bb	Shawi	waɾaʰtɘʔ 	carachama fish	
+1	bb	Shiwilu	walatɘk 	carachama fish	
+1	cc	PK	*waɾɘʔ 	until, up to	
+1	cc	Shawi	waɾɘʔ 	until, up to	
+1	cc	Shiwilu	walɘk 	until, up to	
+2	a	PK	*ɪki(ɾ/l)ala 	cunchi fish	
+2	a	Shawi	ikiana 	cunchi fish	
+2	a	Shiwilu	ikɘʎala 	cunchi fish	
+2	b	PK	*ɪlaɴsiʔ 	bird	
+2	b	Shawi	ina(i)ɴʃi-ɾa ~ inai-ɾa 	bird	
+2	b	Shiwilu	ilaɴsɘˀɾ 	bird	
+2	c	PK	*ɪla-ɾɪɴ 	rope	
+2	c	Shawi	ina-ɾiɴ 	rope	
+2	c	Shiwilu	ila-ʎiɴ 	rope	
+2	d	PK	*jalu- 	to cut meat	
+2	d	Shawi	jano- 	to cut meat	
+2	d	Shiwilu	ð̞alu- 	to cut meat	
+2	e	PK	*juliʔ 	pus	
+2	e	Shawi	joniʔ 	pus	
+2	e	Shiwilu	ð̞ulɘˀɾ-juʔ 	pus	
+2	g	PK	*kalujuʔ ~ *-ɴ 	maparate, bocón fish	
+2	g	Shawi	kanojoʔ 	maparate, bocón fish	
+2	g	Shiwilu	kaluð̞uɴ 	maparate, bocón fish	
+2	h	PK	*kalunɪʔ 	ocelot	
+2	h	Shawi	kanoniʔ 	ocelot	
+2	h	Shiwilu	kaluɲiʔ 	ocelot	
+2	i	PK	*kaluʔtuɾuʔ 	locrero bird, greater ani	
+2	i	Shawi	kanoʔtoɾoʔ 	locrero bird, greater ani	
+2	i	Shiwilu	kaluʔtuluʔ 	locrero bird, greater ani	
+2	j	PK	*kɪlɘɴ 	añas-súa fish	
+2	j	Shawi	kɘnɘɴ 	añas-súa fish	
+2	j	Shiwilu	kilɘɴ 	añas-súa fish	
+2	k	PK	*kulu(ʔ) 	throat	
+2	k	Shawi	kono(ʔ) 	throat	‘neck, throat’
+2	k	Shiwilu	kulu-pi 	throat	‘Adam’s apple’
+2	l	PK	*lalɪɴ 	hole	
+2	l	Shawi	naniɴ 	hole	
+2	l	Shiwilu	laʎiɴ 	hole	
+2	m	PK	*lɘluɴ 	girl menstruating for the first time	
+2	m	Shawi	nɘnoɴ 	girl menstruating for the first time	
+2	m	Shiwilu	lɘkluɴ 	girl menstruating for the first time	
+2	n	PK	*-lɪɴe.g. *lu-lɪɴ 	vine:CL tamshi vine	
+2	n	Shawi	-niɴ,e.g. no-niɴ 	vine:CL tamshi vine	
+2	n	Shiwilu	-ʎiɴe.g. lu-ʎiɴ 	vine:CL tamshi vine	
+2	o	PK	*-luʔe.g. *ja-luʔ,*ji-luʔ-tɘʔ 	earth:CL ashes sand	
+2	o	Shawi	-noʔe.g. ja-noʔ,i-no-tɘʔ 	earth:CL ashes sand	
+2	o	Shiwilu	-luʔe.g. pɘɴ-ð̞a-luʔ,ð̞ɘ-ʎuʔ-tɘk 	earth:CL ashes sand	
+2	p	PK	*muluʔ 	eaf (Sha), tree top (Shi)	
+2	p	Shawi	monoʔ 	eaf (Sha), tree top (Shi)	
+2	p	Shiwilu	muluʔ 	eaf (Sha), tree top (Shi)	
+2	q	PK	*palɪʔ 	leaf for the roof	
+2	q	Shawi	pani-ɾa 	leaf for the roof	
+2	q	Shiwilu	paʎiʔ- 	leaf for the roof	
+2	r	PK	*pɪlɘɴ- 	to advise	
+2	r	Shawi	pɘnɘɴ- 	to advise	
+2	r	Shiwilu	pilɘɴ- 	to advise	
+2	s	PK	*sɪlu 	yupana cane	
+2	s	Shawi	sɘno 	yupana cane	
+2	s	Shiwilu	silu 	yupana cane	
+	t	PK	*sɪlupa(ʔ) 	bee sp.	
+	t	Shawi	sɘnopaʔ ~ -waʔ 	bee sp.	
+	t	Shiwilu	silupa 	bee sp.	
+2	u	PK	*sulɪmaɴ 	poison	
+2	u	Shawi	sonimaɴ 	poison	
+2	u	Shiwilu	suʎimaɴ 	poison	
+2	v	PK	*tula 	leg, thigh	
+2	v	Shawi	tona 	leg, thigh	
+2	v	Shiwilu	tula 	leg, thigh	
+2	w	PK	*wɘla-jɘʔ 	blood	
+2	w	Shawi	wɘna-iʔ 	blood	
+2	w	Shiwilu	ukla-ð̞ɘk 	blood	
+2	x	PK	*wɘlu- 	to chew, to gnaw	
+2	x	Shawi	wɘno- 	to chew, to gnaw	
+2	x	Shiwilu	uklu- 	to chew, to gnaw	
+2	y	PK	*wɪlɘ 	curhuinsi ant	
+2	y	Shawi	wɘnɘ 	curhuinsi ant	
+2	y	Shiwilu	wilɘk 	curhuinsi ant	
+6	a	PK	*sɘʔ.u 	diced manioc	
+6	a	Shawi	soʔ.o 	diced manioc	
+6	a	Shiwilu	sɘk.ku- 	diced manioc	
+6	b	PK	*tɘʔ.aʔ- 	to run, to flow	
+6	b	Shawi	taʔ.a- 	to run, to flow	
+6	b	Shiwilu	tɘk.kaʔ- 	to run, to flow	
+6	c	PK	*waʔ.aɴ 	chief	
+6	c	Shawi	waʔ.aɴ 	chief	
+6	c	Shiwilu	waʔ.aɴ 	chief	
+6	d	PK	*waʔ.aɴ.la 	siamba palm	
+6	d	Shawi	waʔ.a.na 	siamba palm	
+6	d	Shiwilu	waʔ.aɴ.la	siamba palm	
+7	a	PK	*pɘ.iʔ-~ *puiʔ- 	to fish with barbasco	
+7	a	Shawi	pɘʔ.i- 	to fish with barbasco	
+7	a	Shiwilu	puˀɾ-~ pʷɘˀɾ- 	to fish with barbasco	
+7	b	PK	*tV.ɘ 	flea	
+7	b	Shawi	tɘʔ.ɘ 	flea	
+7	b	Shiwilu	tɘk-la 	flea	
+7	c	PK	*V.u- 	to drink	
+7	c	Shawi	oʔ.o- 	to drink	
+7	c	Shiwilu	u- 	to drink	
+7	d	PK	*wV.ɘ.ta 	pot	
+7	d	Shawi	wɘʔ.ɘ.ta 	pot	
+7	d	Shiwilu	wɘk.ta ~ uk.ta 	pot	
+7	e	PK	*na.a- 	to increase	
+7	e	Shawi	naʔ.a- 	to increase	
+7	e	Shiwilu	na.ð̞a- 	to increase	
+7	f	PK	*sa.a- 	wife	
+7	f	Shawi	saʔ.a- 	wife	
+7	f	Shiwilu	sa.ð̞a- 	wife	
+8	a	PK	*kʷa	I	
+8	a	Shawi	ka(a) 	I	
+8	a	Shiwilu	kʷa 	I	
+8	b	PK	*kʷiʔ- 	to be heavy	
+8	b	Shawi	kɘʔ- 	to be heavy	
+8	b	Shiwilu	kʷɘˀɾ- 	to be heavy	
+9	a	PK	*aˀlaʔ 	one	
+9	a	Shawi	aʔnaʔ 	one	
+9	a	Shiwilu	alaʔ 	one	
+9	b	PK	*aˀlaɴ- 	to lend, to borrow	
+9	b	Shawi	aʔnaɴ 	to lend, to borrow	
+9	b	Shiwilu	alaɴ- 	to lend, to borrow	
+9	c	PK	*aˀpɘ(ʔ)-	to burn	
+9	c	Shawi	aʔpɘ- 	to burn	
+9	c	Shiwilu	apɘk- 	to burn	
+9	d	PK	*ɪˀsa 	curassow	
+9	d	Shawi	iʔsa 	curassow	
+9	d	Shiwilu	iʃa 	curassow	
+9	e	PK	*jaˀka(-ɾa) 	muena tree	
+9	e	Shawi	jaʔka-ɾa 	muena tree	
+9	e	Shiwilu	ð̞aka(-la) 	muena tree	
+9	f	PK	*jaˀpɪ- 	pain in the eye	
+9	f	Shawi	jaʔpi-ɾa 	pain in the eye	‘eye’
+9	f	Shiwilu	ð̞api-	pain in the eye	
+9	g	PK	*juˀwɪɴ 	toucan	
+9	g	Shawi	joʔwiɴ 	toucan	
+9	g	Shiwilu	ð̞uwiɴ 	toucan	
+9	i	PK	*kɪˀkɪ-tɘʔ 	cheek	
+9	i	Shawi	kɘʔkɘ-tɘʔ 	cheek	
+9	i	Shiwilu	kiki-tɘk 	cheek	
+9	j	PK	*liˀluna 	tacarpo stick	
+9	j	Shawi	niʔnona 	tacarpo stick	
+9	j	Shiwilu	lɘʎuna(ɴ) 	tacarpo stick	
+9	k	PK	*luˀsuɴ 	moth	
+9	k	Shawi	noʔsoɴ 	moth	
+9	k	Shiwilu	lusuɴ 	moth	
+9	l	PK	*naˀku- 	to pass by	
+9	l	Shawi	naʔko 	to pass by	
+9	l	Shiwilu	naku- 	to pass by	
+9	m	PK	*naˀti 	bushmaster	
+9	m	Shawi	naʔʃi 	bushmaster	
+9	m	Shiwilu	natɘɾ 	bushmaster	
+9	n	PK	*nɪˀnɪʔ 	jaguar	
+9	n	Shawi	niʔniʔ 	jaguar	
+9	n	Shiwilu	ɲiɲiʔ 	jaguar	‘dog’
+9	o	PK	*paˀpiʔ- 	to bury	
+9	o	Shawi	paʔpi- 	to bury	
+9	o	Shiwilu	papɘˀɾ-	to bury	
+9	p	PK	*pɪˀti 	thread	
+9	p	Shawi	piʔʃi 	thread	
+9	p	Shiwilu	pitɘɾ- 	thread	
+9	q	PK	*puˀpuɴ 	pucahuicsa fish	
+9	q	Shawi	poʔpoɴ 	pucahuicsa fish	
+9	q	Shiwilu	pupuɴ 	pucahuicsa fish	
+9	r	PK	*siˀwɪ(ɴ) 	macana fish	
+9	r	Shawi	ʃiʔwi-ɾoʔ 	macana fish	
+9	r	Shiwilu	sɘɾwiɴ 	macana fish	
+9	s	PK	*suˀja 	husband	
+9	s	Shawi	soʔja 	husband	
+9	s	Shiwilu	suð̞a 	husband	
+9	t	PK	*suˀsu- 	to grow	
+9	t	Shawi	soʔso- 	to grow	
+9	t	Shiwilu	susu- 	to grow	
+9	u	PK	*taˀla 	hammock	
+9	u	Shawi	taʔna	hammock	
+9	u	Shiwilu	tala 	hammock	
+9	v	PK	*tɪˀtiʔ 	maize	
+9	v	Shawi	ʃiʔʃiʔ	maize	
+9	v	Shiwilu	tʃitɘ(ˀ)ɾ 	maize	
+9	w	PK	*tuˀja 	maquisapa monkey, spider monkey	
+9	w	Shawi	toʔja 	maquisapa monkey, spider monkey	
+9	w	Shiwilu	tuð̞a 	maquisapa monkey, spider monkey	
+9	x	PK	*tuˀsiɴ 	mite, chiggers, tick sp.	
+9	x	Shawi	toʔʃiɴ 	mite, chiggers, tick sp.	
+9	x	Shiwilu	tusɘɴ 	mite, chiggers, tick sp.	
+9	y	PK	*waˀsɘʔ 	carachamita fish	
+9	y	Shawi	waʔsɘʔ 	carachamita fish	
+9	y	Shiwilu	wasɘk 	carachamita fish	
+9	z	PK	*wɪˀla 	child	
+9	z	Shawi	wiʔna-	child	
+9	z	Shiwilu	wila 	child	
+10	a	PK	*jɘʔ 	water	
+10	a	Shawi	iʔ 	water	
+10	a	Shiwilu	ð̞ɘk 	water	
+10	b	PK	*juʔ 	belly	
+10	b	Shawi	joʔ-naɴ 	belly	
+10	b	Shiwilu	ð̞uʔ 	belly	
+10	c	PK	*kaʔ- 	to eat, to have sex	
+10	c	Shawi	kaʔ- 	to eat, to have sex	
+10	c	Shiwilu	kaʔ- 	to eat, to have sex	
+10	d	PK	*kiʔ 	manioc	
+10	d	Shawi	kiʔ(-ʃa),kɘʔ-ʃa 	manioc	
+10	d	Shiwilu	kɘˀɾ 	manioc	
+10	e	PK	*laʔ- 	to fast, to avoid food	
+10	e	Shawi	naʔ- 	to fast, to avoid food	
+10	e	Shiwilu	laʔ- 	to fast, to avoid food	
+10	f	PK	*lɪʔ- 	to see	
+10	f	Shawi	niʔ- 	to see	
+10	f	Shiwilu	ʎiʔ- 	to see	
+10	g	PK	*-luʔ / *-ɾuʔ 	earth:CL	
+10	g	Shawi	-noʔ / -ɾoʔ 	earth:CL	
+10	g	Shiwilu	-luʔ 	earth:CL	
+10	h	PK	*-tɘʔ 	cover:CL	
+10	h	Shawi	-tɘʔ 	cover:CL	
+10	h	Shiwilu	-tɘk 	cover:CL	
+10	i	PK	*wɘʔ- 	to come	
+10	i	Shawi	wɘʔ- 	to come	
+10	i	Shiwilu	uk-~ wɘk- 	to come	
+10	l	PK	*apiʔ(-) 	wound; to injure oneself (Sha); to spoil, to rot	
+10	l	Shawi	apiʔ;api- 	wound; to injure oneself (Sha); to spoil, to rot	
+10	l	Shiwilu	apɘˀɾ- 	wound; to injure oneself (Sha); to spoil, to rot	
+10	m	PK	*itɘʔ 	agouti	
+10	m	Shawi	iʰtɘʔ 	agouti	
+10	m	Shiwilu	ɘttʃɘk 	agouti	
+10	n	PK	*ɪsɘʔ 	bat	
+10	n	Shawi	isɘʔ 	bat	
+10	n	Shiwilu	iʃɘk 	bat	
+10	o	Shawi	juniʔ 	pus	
+10	p	PK	*kajuʔ 	egg	
+10	p	Shawi	kajoʔ 	egg	
+10	p	Shiwilu	kað̞uʔ 	egg	
+10	q	PK	*kukuʔ	oropendola, paucarbird	
+10	q	Shawi	koʰkoʔ 	oropendola, paucarbird	
+10	q	Shiwilu	kukuʔ 	oropendola, paucarbird	
+10	s	PK	*kuwiʔ 	worm	
+10	s	Shawi	kowiʔ 	worm	
+10	s	Shiwilu	kuwɘ(ˀ)ɾ 	worm	
+10	t	PK	*laɴsɪʔ 	bone	
+10	t	Shawi	naɴsɘʔ 	bone	
+10	t	Shiwilu	laɴsiʔ 	bone	
+10	u	PK	*luʔluʔ 	coto monkey	
+10	u	Shawi	noʔnoʔ 	coto monkey	
+10	u	Shiwilu	luʔluʔ 	coto monkey	
+10	v	PK	*luʔpaʔ 	earth	
+10	v	Shawi	noʔpaʔ 	earth	
+10	v	Shiwilu	luʔpaʔ 	earth	
+10	x	PK	*muluʔ 	leaf (Sha), tree top (Shi)	
+10	x	Shawi	monoʔ 	leaf (Sha), tree top (Shi)	
+10	x	Shiwilu	muluʔ 	leaf (Sha), tree top (Shi)	
+10	y	PK	*mutuʔ 	head	
+10	y	Shawi	moʰtoʔ 	head	
+10	y	Shiwilu	mutuʔ 	head	
+10	aa	PK	*nukaʔ 	hot pepper	
+10	aa	Shawi	noʰkaʔ 	hot pepper	
+10	aa	Shiwilu	nukaʔ	hot pepper	
+10	bb	PK	*pɪjɘʔ 	house	
+10	bb	Shawi	pɘiʔ 	house	
+10	bb	Shiwilu	pið̞ɘk 	house	
+10	cc	PK	*sasaʔ 	martín-pescadorbird	
+10	cc	Shawi	sasaʔ 	martín-pescadorbird	
+10	cc	Shiwilu	sasaʔ	martín-pescadorbird	
+10	dd	PK	*sɪɴkaɴtɘʔ 	hoatzin bird	
+10	dd	Shawi	sɘɴkaɴtɘʔ 	hoatzin bird	
+10	dd	Shiwilu	siɴkaɴtɘk 	hoatzin bird	
+10	ee	PK	*supuʔ 	vulture	
+10	ee	Shawi	soʰpoʔ ~ sɘʰpoʔ 	vulture	
+10	ee	Shiwilu	supuʔ 	vulture	
+10	ff	Shiwilu	suluʔ	choro monkey	
+10	gg	Shawi	ʃiʔʃiʔ 	maize	
+10	gg	Shiwilu	tʃitɘ(ˀ)ɾ	maize	
+10	hh	PK	*waɾatɘʔ 	carachamafish	
+10	hh	Shawi	waɾaʰtɘʔ 	carachamafish	
+10	hh	Shiwilu	walatɘk 	carachamafish	
+10	jj	PK	*waˀsɘʔ 	carachamitafish	
+10	jj	Shawi	waʔsɘʔ 	carachamitafish	
+10	jj	Shiwilu	wasɘk 	carachamitafish	
+10	kk	PK	*aʔlanaɴ 	huasaco fish	
+10	kk	Shawi	aʔnanaɴ 	huasaco fish	
+10	kk	Shiwilu	aʔlana(ɴ) 	huasaco fish	
+10	ll	PK	*aʔli- 	to roast (manioc, plantain)	
+10	ll	Shawi	aʔni-	to roast (manioc, plantain)	
+10	ll	Shiwilu	aʔlɘɾ-	to roast (manioc, plantain)	
+10	mm	PK	*iʔla 	trace	
+10	mm	Shawi	iʔna-	trace	
+10	mm	Shiwilu	ɘˀɾʎa 	trace	
+10	nn	PK	*iʔtɘ(ʔ)- 	termite	
+10	nn	Shawi	iʔtɘ-ɾɘʔ 	termite	
+10	nn	Shiwilu	ɘttʃɘk-la 	termite	
+10	oo	PK	*iʔwa 	recently, late, afternoon	
+10	oo	Shawi	iʔwa 	recently, late, afternoon	
+10	oo	Shiwilu	ɘˀɾwa 	recently, late, afternoon	
+10	pp	PK	*iʔwa-ju 	evening star	
+10	pp	Shawi	iʔwa-jo 	evening star	
+10	pp	Shiwilu	ɘˀɾwa-ð̞u 	evening star	
+10	qq	PK	*jaʔ-waɴ 	snake	
+10	qq	Shawi	jaʔ-waɴ 	snake	
+10	qq	Shiwilu	ð̞aʔ-waɴ 	snake	
+10	rr	PK	*puʔsi 	mammal sp.	
+10	rr	Shawi	poʔʃi 	mammal sp.	‘squirrel sp.’
+10	rr	Shiwilu	puʔsɘɾ 	mammal sp.	‘pygmy-marmoset’
+10	ss	PK	*saʔkaʔ- 	to be rough	
+10	ss	Shawi	saʔka- 	to be rough	‘to have rough skin, to have mole’
+10	ss	Shiwilu	saʔkaʔ- 	to be rough	
+10	tt	PK	*saʔlaʔ(-pɪ)	pox	
+10	tt	Shawi	saʔnaʔ,saʔna-pi 	pox	
+10	tt	Shiwilu	saʔlaʔ(-pi) 	pox	
+10	uu	PK	*saʔpuʔ 	lung	
+10	uu	Shawi	saʔpo-ɾoʔ 	lung	
+10	uu	Shiwilu	saʔpuʔ 	lung	
+10	vv	PK	*sɘʔ-muʔ- 	to dilute	
+10	vv	Shawi	sɘʔ-mo	to dilute	
+10	vv	Shiwilu	sɘk-muʔ- 	to dilute	
+10	ww	PK	*sɪʔka 	tingotero/isulilla ant	
+10	ww	Shawi	sɘʔka- 	tingotero/isulilla ant	‘to sting’
+10	ww	Shiwilu	siʔka- 	tingotero/isulilla ant	
+10	xx	PK	*sɪʔpa 	branch	
+10	xx	Shawi	sɘʔpa-ʰkɘ-ɴ,sɘʔpa-ɾaʔwa-iɴ 	branch	
+10	xx	Shiwilu	siʔpa 	branch	
+10	zz	PK	*suʔtuɴ 	island	
+10	zz	Shawi	soʔtoɴ 	island	
+10	zz	Shiwilu	suʔtuɴ-ð̞ɘk 	island	‘lagoon’
+10	aaa	PK	*tɪʔlɘ(ʔ) 	armadillo	
+10	aaa	Shawi	tɘʔnɘ-ʃaʔwɘ 	armadillo	
+10	aaa	Shiwilu	tʃiʔlɘk 	armadillo	
+10	bbb	PK	*tɪʔ-tɘʔ 	chest	
+10	bbb	Shawi	tɘʔ-tɘʔ 	chest	‘breast (of birds)’
+10	bbb	Shiwilu	tʃiʔ-tɘk 	chest	
+10	ccc	PK	*tuʔtɘ(ʔ)-ɾa 	nail	
+10	ccc	Shawi	toʔto-ɾa-tɘʔ ~ toʔtɘ- 	nail	
+10	ccc	Shiwilu	tuʔtɘk-la 	nail	
+10	ddd	PK	*tuʔtuʔ-pɪ 	knee	
+10	ddd	Shawi	toʔto-wi-tɘʔ ~ -pi- 	knee	
+10	ddd	Shiwilu	tuʔtuʔ-pi 	knee	
+10	eee	PK	*tuʔwaɴ 	cunchi, tullu umafish	
+10	eee	Shawi	toʔwaɴ 	cunchi, tullu umafish	
+10	eee	Shiwilu	tuʔwaɴ 	cunchi, tullu umafish	
+10	fff	PK	*uʔjapɪ 	peach palm	
+10	fff	Shawi	oʔjapi ~ iʔjapi 	peach palm	
+10	fff	Shiwilu	uʔð̞api 	peach palm	
+10	ggg	PK	*waʔjaɴ 	spirit	
+10	ggg	Shawi	waʔjan- 	spirit	
+10	ggg	Shiwilu	waʔð̞aɴ 	spirit	
+10	hhh	PK	*waʔna 	metal	
+10	hhh	Shawi	waʔna 	metal	
+10	hhh	Shiwilu	waʔna 	metal	
+11	a	PK	*ɪlaɴsiʔ 	bird	
+11	a	Shawi	ina(i)ɴʃi-ɾa ~ inai-ɾa 	bird	
+11	a	Shiwilu	ilaɴsɘˀɾ 	bird	
+11	b	PK	*ɪluʔ- 	to suck (Sha), to lick (Shi)	
+11	b	Shawi	iɾu- 	to suck (Sha), to lick (Shi)	
+11	b	Shiwilu	iluʔ- 	to suck (Sha), to lick (Shi)	
+11	c	PK	*ɪɴjaʔ- 	to urinate	
+11	c	Shawi	ija- 	to urinate	
+11	c	Shiwilu	iɴjaʔ- 	to urinate	
+11	d	PK	*ji-luʔ-tɘʔ 	sand	
+11	d	Shawi	i-no-tɘʔ 	sand	
+11	d	Shiwilu	ð̞ɘ-ʎuʔ-tɘk	sand	
+11	e	PK	*jɪʔsiʔ- 	to burn (transitive)	
+11	e	Shawi	iʔʃi- 	to burn (transitive)	‘to dip into salt’
+11	e	Shiwilu	ð̞iʔsɘˀɾ- 	to burn (transitive)	
+11	f	PK	*kapiʔ- 	to meet	
+11	f	Shawi	naʰ-kapi- 	to meet	
+11	f	Shiwilu	kapɘˀɾ- 	to meet	
+11	g	PK	*naniʔ- 	to end	
+11	g	Shawi	nani- 	to end	
+11	g	Shiwilu	nanɘˀɾ- 	to end	‘to forget, to flee’
+11	h	PK	*pasiʔ- 	to pour	
+11	h	Shawi	paʃi- 	to pour	‘to perfume’
+11	h	Shiwilu	pasɘˀɾ- 	to pour	
+11	i	Shiwilu	papɘˀɾ- 	to bury	
+11	j	PK	*pɪtaʔ- 	to push	
+11	j	Shawi	piʰta-	to push	
+11	j	Shiwilu	pitaʔ-ka- 	to push	
+11	k	PK	*sakaʔ-t- 	to work	
+11	k	Shawi	saka-t- 	to work	
+11	k	Shiwilu	sakaʔ-t- 	to work	
+11	l	PK	*sɘʔ-muʔ	to dilute	
+11	l	Shawi	sɘʔ-mo- 	to dilute	
+11	m	PK	*takiʔ- 	to die out	
+11	m	Shawi	taʰki- 	to die out	
+11	m	Shiwilu	takɘˀɾ- 	to die out	
+11	n	PK	*tɘʔaʔ- 	to run, to flow	
+11	n	Shawi	taʔa- 	to run, to flow	
+11	n	Shiwilu	tɘkkaʔ- 	to run, to flow	
+11	o	Shawi	toʔto-wi-tɘʔ toʔtopi-tɘʔ 	knee	
+12	a	PK	*aˀpɘ(ʔ)- 	to burn	
+12	a	Shawi	aʔpɘ- 	to burn	
+12	a	Shiwilu	apɘk- 	to burn	
+12	b	PK	*ɘʔki-~ *ɘˀki- 	to untie	
+12	b	Shawi	iʔki-ɾi- 	to untie	
+12	b	Shiwilu	ɘkkɘɾ	to untie	
+12	c	PK	*kɪtɘ(ʔ)- 	to bite	
+12	c	Shawi	kɘtɘ- 	to bite	
+12	c	Shiwilu	kitɘk	to bite	
+12	d	PK	*latɘ(ʔ)- 	to believe	
+12	d	Shawi	naʰtɘ- 	to believe	
+12	d	Shiwilu	latɘk- 	to believe	
+12	e	PK	*naɴpɘ(ʔ)- 	to climb	
+12	e	Shawi	naɴpɘ- 	to climb	
+12	e	Shiwilu	naɴpɘk- 	to climb	
+12	f	PK	*ɴjɘ(ʔ)- 	to jump	
+12	f	Shawi	nii- 	to jump	
+12	f	Shiwilu	iɴð̞ɘk- 	to jump	
+12	g	PK	*patɘ(ʔ)- 	to crawl	
+12	g	Shawi	paʰtɘ- 	to crawl	
+12	g	Shiwilu	patɘk- 	to crawl	
+12	h	PK	*pɘʔtɘ(ʔ)-~ *pɘˀtɘ(ʔ)- 	to cut	
+12	h	Shawi	pɘʔtɘ- 	to cut	
+12	h	Shiwilu	pɘktɘk- 	to cut	
+12	i	PK	*pɪʔpɘ(ʔ)- 	to carry	
+12	i	Shawi	pɘʔpɘ- 	to carry	
+12	i	Shiwilu	piʔpɘk- 	to carry	
+12	j	Shawi	tɘʔnɘʔ-ʃawɘ 	armadillo	
+12	k	PK	*wɪtɘ(ʔ)- 	to sweep	
+12	k	Shawi	wiʰtɘ- 	to sweep	
+12	k	Shiwilu	witɘk-	to sweep	
+13	a	Shiwilu	aʔlanaɴ 	huasaco fish	
+13	b	PK	*aɴpiɴnɪaɴ 	huaman samana	
+13	b	Shawi	aɴpiniaɴ 	huaman samana	
+13	b	Shiwilu	aɴpɘɴɲaɴ 	huaman samana	
+13	d	PK	*ɪɘɴsuɴ- 	to kneel	
+13	d	Shawi	isoɴ- 	to kneel	
+13	d	Shiwilu	jɘɴsuɴ- 	to kneel	
+13	f	PK	*jaɴku 	flower	
+13	f	Shawi	jaɴko 	flower	
+13	f	Shiwilu	ð̞aɴku 	flower	
+13	g	PK	*jɘɴnɪ 	otter	
+13	g	Shawi	ini 	otter	
+13	g	Shiwilu	ð̞ɘɴɲi 	otter	
+13	h	PK	*juˀwɪɴ 	toucan	
+13	h	Shawi	joʔwiɴ 	toucan	
+13	h	Shiwilu	ð̞uwiɴ 	toucan	
+13	i	PK	*kaɴki 	ñejilla palm	
+13	i	Shawi	kaɴki 	ñejilla palm	
+13	i	Shiwilu	kaɴkɘɾ 	ñejilla palm	
+13	j	PK	*kɘɴma 	you	
+13	j	Shawi	kɘma 	you	
+13	j	Shiwilu	kɘɴma 	you	
+13	k	PK	*kupɪ-waɴ 	boa	
+13	k	Shawi	koʰpi-waɴ 	boa	
+13	k	Shiwilu	kupi-waɴ 	boa	
+13	l	PK	*lamaɴ 	huangana peccary	
+13	l	Shawi	namaɴ 	huangana peccary	
+13	l	Shiwilu	lamaɴ 	huangana peccary	
+13	m	PK	*laɴ-tɘʔ 	foot	
+13	m	Shawi	naɴ-tɘʔ 	foot	
+13	m	Shiwilu	laɴ-tɘk 	foot	
+13	n	PK	*lawaɴ 	thorn	
+13	n	Shawi	nawaɴ 	thorn	
+13	n	Shiwilu	lawaɴ 	thorn	
+13	o	PK	*lɪɴlɪɴ 	name	
+13	o	Shawi	niniɴ 	name	
+13	o	Shiwilu	ʎiɴʎiɴ 	name	
+13	p	PK	*naɴpɘ(ʔ)- 	to climb	
+13	p	Shawi	naɴpɘ- 	to climb	
+13	p	Shiwilu	naɴpɘk- 	to climb	
+13	q	PK	*nuɴ 	canoe	
+13	q	Shawi	noɴ 	canoe	
+13	q	Shiwilu	nuɴ	canoe	
+13	r	PK	*paɴpɘ 	irapai palm	
+13	r	Shawi	paɴpɘ 	irapai palm	
+13	r	Shiwilu	paɴpɘk-lu 	irapai palm	
+13	t	PK	*pɘɴ 	fire	
+13	t	Shawi	pɘɴ 	fire	
+13	t	Shiwilu	pɘɴ 	fire	
+13	u	PK	*pɘɴ- 	to fly	
+13	u	Shawi	pɘɴ- 	to fly	
+13	u	Shiwilu	pɘɴ	to fly	
+13	v	PK	*-ɾɪɴ,*-lɪɴ 	vine:CL	
+13	v	Shawi	-ɾiɴ,-niɴ 	vine:CL	
+13	v	Shiwilu	-ʎiɴ 	vine:CL	
+13	w	PK	*siɴpa 	pineapple	
+13	w	Shawi	ʃiɴpa 	pineapple	
+13	w	Shiwilu	sɘɾɴpa 	pineapple	
+13	x	PK	*tanju-la 	star	
+13	x	Shawi	tajo-ɾa 	star	
+13	x	Shiwilu	taɴð̞u-la 	star	
+13	y	PK	*taɴku 	platanillo	
+13	y	Shawi	taɴko 	platanillo	
+13	y	Shiwilu	taɴku 	platanillo	‘banana’
+13	z	PK	*tɪmɘɴ 	louse	
+13	z	Shawi	tɘmɘɴ 	louse	
+13	z	Shiwilu	tʃimɘɴ 	louse	
+13	aa	PK	*tɪmɪɴ- 	to die	
+13	aa	Shawi	tʃimiɴ- 	to die	
+13	aa	Shiwilu	tʃimiɴ- 	to die	
+13	bb	PK	*tɪɴpiɴ-naɴ /*-nam- 	river mouth	
+13	bb	Shawi	tʃiɴpinam-ɘɴ 	river mouth	
+13	bb	Shiwilu	tʃiɴpɘɴɲaɴ 	river mouth	
+13	cc	PK	*tukuɴ 	tocón monkey	
+13	cc	Shawi	toʰkoɴ 	tocón monkey	
+13	cc	Shiwilu	tukuɴ 	tocón monkey	
+13	dd	PK	*tuɴka	horsefly	
+13	dd	Shawi	toɴka 	horsefly	
+13	dd	Shiwilu	tuɴka 	horsefly	
+13	ee	PK	*tuʔwaɴ 	cunchi, tullu uma fish	
+13	ee	Shawi	toʔwaɴ 	cunchi, tullu uma fish	
+13	ee	Shiwilu	tuʔwaɴ 	cunchi, tullu uma fish	
+13	ff	PK	*waɴ 	shrimp	
+13	ff	Shawi	waɴ-ʃa 	shrimp	
+13	ff	Shiwilu	waɴ-ʃɘɴ 	shrimp	
+13	gg	PK	*waɴki 	boquichico fish	
+13	gg	Shawi	waɴki 	boquichico fish	
+13	gg	Shiwilu	waɴkɘ{ʔ/t}-tʃɘk 	boquichico fish	
+13	hh	PK	*wɘɴnɪ 	shuyo fish	
+13	hh	Shawi	wɘni 	shuyo fish	
+13	hh	Shiwilu	wɘɴɲi ~ uɴɲi 	shuyo fish	
+14	a	PK	*ai- 	sour	
+14	a	Shawi	ai- 	sour	
+14	a	Shiwilu	ɘɾ- 	sour	
+14	b	PK	*aiɴ 	hair	
+14	b	Shawi	aiɴ 	hair	
+14	b	Shiwilu	ɘɾɴ 	hair	
+14	c	PK	*ana-si 	opossum	
+14	c	Shawi	ana-ʃi 	opossum	
+14	c	Shiwilu	ana-sɘɾ 	opossum	
+14	d	PK	*aɴpiɴnɪaɴ 	huaman samana tree	
+14	d	Shawi	aɴpiniaɴ 	huaman samana tree	
+14	d	Shiwilu	aɴpɘɴɲaɴ 	huaman samana tree	
+14	e	PK	*api(ʔ) 	thief (> to steal)	
+14	e	Shawi	apiʔ 	thief (> to steal)	
+14	e	Shiwilu	apɘɾ- 	thief (> to steal)	
+14	f	PK	*apiʔ 	wound (> to get spoilt, ugly)	
+14	f	Shawi	apiʔ 	wound (> to get spoilt, ugly)	
+14	f	Shiwilu	apɘˀɾ 	wound (> to get spoilt, ugly)	
+14	g	PK	*ɘʔki-~ *ɘˀki- 	to untie	
+14	g	Shawi	iʔki-ɾi-t- 	to untie	
+14	g	Shiwilu	ɘkkɘɾ- 	to untie	
+14	h	PK	*ipa-tɘʔ 	vein, sinew, tendon	
+14	h	Shawi	iʰpa-tɘʔ 	vein, sinew, tendon	
+14	h	Shiwilu	ɘɾpa-tɘk 	vein, sinew, tendon	
+14	j	Shawi	iʔna- 	trace	
+14	l	PK	*iʔwa 	recently/late, afternoon	
+14	l	Shawi	iʔwa 	recently/late, afternoon	
+14	l	Shiwilu	ɘˀɾwa 	recently/late, afternoon	
+14	m	PK	*iʔwaju 	evening star	
+14	m	Shawi	iʔwajo 	evening star	
+14	m	Shiwilu	ɘˀɾwað̞u 	evening star	
+14	n	PK	*ɪki(ɾ/l)ala 	cunchi fish	
+14	n	Shawi	ikiana 	cunchi fish	
+14	n	Shiwilu	ikɘʎala 	cunchi fish	
+14	o	Shawi	ina(i)ɴʃi-ɾa ~ inaiɾa 	bird	
+14	p	PK	*jami 	small, thin	
+14	p	Shawi	jami- 	small, thin	
+14	p	Shiwilu	ð̞amɘɾ 	small, thin	
+14	q	PK	*jawi(-ɾa) 	chonta/açaí palm	
+14	q	Shawi	jawi-ɾa 	chonta/açaí palm	
+14	q	Shiwilu	ð̞awɘɾ,ð̞awɘ-ʎa 	chonta/açaí palm	
+14	r	PK	*juki 	moon	
+14	r	Shawi	joʰki 	moon	
+14	r	Shiwilu	ð̞ukɘɾ 	moon	
+14	u	PK	*kapiʔ- 	to find	
+14	u	Shawi	naʰ-kapi- 	to find	
+14	u	Shiwilu	kapɘˀɾ- 	to find	
+14	v	PK	*kasi- 	sweet	
+14	v	Shawi	kaʰʃi 	sweet	
+14	v	Shiwilu	kasɘɾ 	sweet	
+14	x	PK	*lɪpi 	pucacuru ant	
+14	x	Shawi	niʰpi 	pucacuru ant	
+14	x	Shiwilu	lipɘɾ-ʎa ~ ʎ- 	pucacuru ant	
+14	y	PK	*luwi- 	to know	
+14	y	Shawi	nowi- 	to know	
+14	y	Shiwilu	luwɘɾ- 	to know	
+14	z	PK	*maki 	macambo palm	
+14	z	Shawi	maʰki 	macambo palm	
+14	z	Shiwilu	makɘɾ	macambo palm	
+14	aa	Shawi	nani- 	to end	‘to end’
+14	bb	PK	*ni-tɘʔ 	nose	
+14	bb	Shawi	ni-tɘʔ 	nose	
+14	bb	Shiwilu	nɘɾtʃɘk ~ nɘttʃɘk 	nose	
+14	cc	PK	*niɪ	to breathe	
+14	cc	Shawi	nii- 	to breathe	
+14	cc	Shiwilu	nɘɾi- 	to breathe	
+14	dd	PK	*nika-ɾa 	lisa fish	
+14	dd	Shawi	niʰka-ɾa ~ miʰka-ɾa 	lisa fish	
+14	dd	Shiwilu	nɘɾka-la 	lisa fish	
+14	ee	Shawi	paʰʃi- 	to pour	‘to perfume’
+14	gg	PK	*pitu 	breadfruit	
+14	gg	Shawi	piʰto 	breadfruit	
+14	gg	Shiwilu	pɘttʃu 	breadfruit	
+14	ii	PK	*sami 	fish	
+14	ii	Shawi	sami 	fish	
+14	ii	Shiwilu	samɘɾ 	fish	
+14	ll	PK	*siwa 	apangora crab	
+14	ll	Shawi	ʃiwa 	apangora crab	
+14	ll	Shiwilu	sɘɾwa 	apangora crab	
+14	mm	Shawi	ʃiʔwi-roʔ 	macana fish	
+14	nn	PK	*sɪwi(ɴ)(-naɴ) 	reed, cane sp.	
+14	nn	Shawi	ʃiwi(-naɴ) 	reed, cane sp.	
+14	nn	Shiwilu	siwɘɴ-ɲa(ɴ) 	reed, cane sp.	
+14	oo	PK	*takiʔ-	to die out	
+14	oo	Shawi	taʰki-	to die out	
+14	oo	Shiwilu	takɘˀɾ-	to die out	
+14	pp	PK	*tiaʔ-	to sow	
+14	pp	Shawi	ʃaʔ-	to sow	
+14	pp	Shiwilu	tɘɾa-	to sow	
+14	qq	PK	*tɪpi 	moriche palm	
+14	qq	Shawi	ʃiʰpi 	moriche palm	
+14	qq	Shiwilu	tʃipɘɾ 	moriche palm	
+14	rr	PK	*tɪpi-tɘʔ 	mosquito net	
+14	rr	Shawi	*tɪpi-tɘʔ 	mosquito net	
+14	rr	Shiwilu	tʃipɘɾ-tʃɘk ~ tʃipɘt-tʃɘk 	mosquito net	
+14	ss	Shiwilu	tʃitɘˀɾ 	maize	
+14	tt	PK	*tɪɴpinaɴ / *-nam- 	river mouth	
+14	uu	PK	*uti 	sister of a male ego	
+14	uu	Shawi	oʰʃ 	sister of a male ego	
+14	uu	Shiwilu	utɘ(ˀ)ɾ-iɴ 	sister of a male ego	
+14	vv	PK	*wani- 	to stand (up)	
+14	vv	Shawi	wani- 	to stand (up)	
+14	vv	Shiwilu	wanɘɾ- 	to stand (up)	
+14	ww	Shiwilu	waɴkɘ{t/ʔ}-tʃɘk 	boquichico fish	
+14	xx	PK	*wi- 	to sting	
+14	xx	Shawi	wi- 	to sting	
+14	xx	Shiwilu	wɘɾ- 	to sting	
+15	a	PK	*ɴ- 	reflexive voice	
+15	a	Shawi	ni- 	reflexive voice	
+15	a	Shiwilu	iɴ- 	reflexive voice	
+15	b	PK	*ɴjɘ(ʔ)- 	to jump	
+15	b	Shawi	nii- 	to jump	
+15	b	Shiwilu	iɴð̞ɘk- 	to jump	
+16	a	PK	*ɪɴjuɾa-tɘk 	patio	
+16	a	Shawi	ɘʔɘɾa-tɘʔ ~ iʔiɾa-tɘʔ 	patio	
+16	a	Shiwilu	iɴjula-tɘk 	patio	
+16	b	PK	*ɪɴsɘɴ 	to scoop	
+16	b	Shawi	isɘɴ 	to scoop	‘scoop (n.)’
+16	b	Shiwilu	iɴʃɘɴ- 	to scoop	
+16	c	PK	*ɪɴja- 	to roast	
+16	c	Shawi	ija- 	to roast	
+16	c	Shiwilu	iɴja- 	to roast	
+16	e	PK	*ɪɴmuɾu(ɘ)ʔ- 	sibling-in-law (opposite sex of the ego)	
+16	e	Shawi	imoɾoɘ-ɴ 	sibling-in-law (opposite sex of the ego)	
+16	e	Shiwilu	iɴmuʎuʔ-ʃa 	sibling-in-law (opposite sex of the ego)	‘brother-in-law (of a woman)’
+16	f	PK	*ɪɴtɪna(ɴ)	right	
+16	f	Shawi	iɴtʃinaɴ 	right	
+16	f	Shiwilu	iɴtʃina(ɴ) 	right	
+17	a	PK	*nɪnaɴluʔ 	settlement	
+17	a	Shawi	ninanoʔ 	settlement	
+17	a	Shiwilu	ɲinaɴluʔ 	settlement	
+17	b	PK	*nɪnɘ(ʔ)-ɾa 	tongue	
+17	b	Shawi	nɘnɘ-ɾa 	tongue	
+17	b	Shiwilu	ɲinɘk-la 	tongue	
+17	c	PK	*nɪ-t- 	to bear fruit	
+17	c	Shawi	niʰ-t- 	to bear fruit	
+17	c	Shiwilu	ɲi-t- 	to bear fruit	
+18	c	PK	*kɪtɘ(ʔ)- 	to bite	
+18	c	Shawi	kɘtɘ- 	to bite	
+18	c	Shiwilu	kitɘk- 	to bite	
+18	d	PK	*mɪɾɘ 	yarina palm (Sha); tagua/ivory nut palm (Shi)	
+18	d	Shawi	mɘɾɘ 	yarina palm (Sha); tagua/ivory nut palm (Shi)	
+18	d	Shiwilu	milɘk 	yarina palm (Sha); tagua/ivory nut palm (Shi)	
+18	g	PK	*pɪlɘɴ- 	to advise	
+18	g	Shawi	pɘnɘɴ- 	to advise	
+18	g	Shiwilu	pilɘɴ- 	to advise	
+18	h	PK	*pɪʔpɘ(ʔ)- 	to carry	
+18	h	Shawi	pɘʔpɘ- 	to carry	
+18	h	Shiwilu	piʔpɘk- 	to carry	
+18	k	PK	*tɪtɘ(ʔ)-pɪ 	floodplain	
+18	k	Shawi	tɘʰtɘ-pi ~ tɘʰti-wi 	floodplain	
+18	k	Shiwilu	tʃitɘk-pi-luʔ 	floodplain	
+18	l	PK	*tɪʔlɘ(ʔ) 	yanguaturi armadillo	
+18	l	Shawi	tɘʔnɘ-ʃaʔwɘ 	yanguaturi armadillo	
+18	l	Shiwilu	tʃiʔlɘk 	yanguaturi armadillo	
+19	a	PK	*wɪtɘ(ʔ)- 	to sweep	
+19	a	Shawi	wiʰtɘ- 	to sweep	
+19	a	Shiwilu	witɘk-	to sweep	
+20	d	PK	*siɴnɪɾɘ	dart	
+20	e	Shawi	ʃiʰpi-tɘʔ 	mosquito net	
+21	a	PK	*sɪwiɴnaɴ	reed, cane sp.	
+21	a	Shawi	ʃiwinaɴ 	reed, cane sp.	
+21	a	Shiwilu	siwɘɴɲa(ɴ) 	reed, cane sp.	
+21	b	Shiwilu	tʃipɘ(ˀ)ɾ 	moriche palm	
+21	c	Shiwilu	tʃipɘɾ-tʃɘk ~ -pɘt- 	mosquito net	
+21	f	PK	*jɪʔsiʔ- 	to burn (vt.)	
+21	f	Shawi	iʔʃi- 	to burn (vt.)	‘to dip into salt’
+21	f	Shiwilu	ð̞iʔsɘˀɾ- 	to burn (vt.)	
+21	g	Shiwilu	pitɘɾ 	thread	
+22	a	PK	*pɘɴmuɴ 	horn	
+22	a	Shawi	pomoɴ 	horn	
+22	a	Shiwilu	pɘɴmuɴ	horn	
+22	d	PK	*tɘɴpuʔ- 	to tie	
+22	d	Shawi	toɴpoʔ, toɴpo-~ tɘɴpo- 	to tie	‘bundle’
+22	d	Shiwilu	tɘɴpuʔ- 	to tie	
+22	e	Shawi	toʔto-ɾa-tɘʔ ~ toʔtɘ-ɾa-tɘʔ 	nail	
+23	a	Shawi	naʔʃi	bushmaster	
+23	b	PK	*pɪɴti 	tobacco	
+23	b	Shawi	piɴʃi 	tobacco	
+23	b	Shiwilu	piɴtɘɾ 	tobacco	
+23	d	PK	*tiaʔ- 	to sow, to plant	
+23	d	Shawi	ʃaʔ- 	to sow, to plant	
+23	d	Shiwilu	tɘɾaʔ- 	to sow, to plant	
+23	f	Shawi	oʰʃi 	sister of a male ego	
+24	a	PK	*ana-si	opossum	
+24	b	Shawi	ina(i)ɴʃi-ɾa ~ inaiɾa 	bird	
+24	c	PK	*kasiʔ 	sweet	
+24	c	Shawi	kaʃi-ɴ 	sweet	
+24	c	Shiwilu	kasɘˀɾ- 	sweet	
+24	d	PK	*lɪɴsi 	pattern, drawing	
+24	d	Shawi	ni(ɴ)ʃi- 	pattern, drawing	
+24	d	Shiwilu	ʎiɴsɘɾ 	pattern, drawing	
+24	g	PK	*siku 	anteater	
+24	g	Shawi	ʃiʰko 	anteater	
+24	g	Shiwilu	sɘ(ˀ)ɾku 	anteater	
+24	h	PK	*siɴ-naɾa 	ungurahui palm	
+24	h	Shawi	ʃi-naɾa 	ungurahui palm	
+24	h	Shiwilu	sɘɴ-ɲala 	ungurahui palm	
+24	l	PK	*siˀtaʔ 	drop	
+24	l	Shawi	ʃiʔtaʔ 	drop	
+24	l	Shiwilu	sɘɾtʃaʔ-~ sɘttʃaʔ-~ sɘʔtʃaʔ- 	drop	
+24	n	PK	*siˀwɪ(ɴ)	macana fish	
+25	a	PK	*jɘɴ 	who	
+25	a	Shawi	iɴ 	who	
+25	a	Shiwilu	ð̞ɘɴ 	who	
+25	b	PK	*jɘɴnɪ 	otter	
+25	b	Shawi	ini 	otter	
+25	b	Shiwilu	ð̞ɘɴɲi 	otter	
+25	d	PK	*jɘʔ- 	with one’s fingernails	
+25	d	Shawi	iʔ- 	with one’s fingernails	
+25	d	Shiwilu	ð̞ɘk- 	with one’s fingernails	
+25	e	PK	*kajɘ	sister of a female ego	
+25	e	Shawi	kai 	sister of a female ego	
+25	e	Shiwilu	kað̞ɘk 	sister of a female ego	
+25	f	PK	*kujɘ 	musmuque monkey	
+25	f	Shawi	kowi 	musmuque monkey	
+25	f	Shiwilu	kuð̞ɘk 	musmuque monkey	
+25	h	PK	*sakaʔ-jɘʔ 	difficult	
+25	h	Shawi	saʰka-iʔ 	difficult	
+25	h	Shiwilu	sakaʔð̞ɘk 	difficult	
+25	i	Shiwilu	ð̞ɘ-ʎuʔ-tɘk 	sand	
+25	j	PK	*ajɪ-pɪ 	above	
+25	j	Shawi	ai-pi 	above	
+25	j	Shiwilu	að̞i-pi 	above	
+25	k	PK	*ajɪwaɴ 	spirit of the forest	
+25	k	Shawi	aiwaɴ 	spirit of the forest	
+25	k	Shiwilu	að̞iwaɴ- 	spirit of the forest	‘to scare’
+25	l	PK	*jɪmu- 	to pile up	
+25	l	Shawi	imo- 	to pile up	
+25	l	Shiwilu	ð̞imu- 	to pile up	
+25	m	PK	*jɪwɘ 	firewood	
+25	m	Shawi	iwɘ 	firewood	
+25	m	Shiwilu	ð̞iwɘk 	firewood	
+25	n	PK	*jɪʔ-jɘʔ-t- 	to throw into water	
+25	n	Shawi	iʔ-i-t- 	to throw into water	
+25	n	Shiwilu	ð̞iʔ-ð̞ɘk-t- 	to throw into water	
+25	p	PK	*suˀja, 3 *suˀj-ɪɴ 	husband	
+25	p	Shawi	soʔja, 3 soʔ-iɴ	husband	
+25	p	Shiwilu	suð̞a, 3 suð̞-iɴ 	husband	
+26	a	PK	*ɘsa 	genipa	
+26	a	Shawi	isa 	genipa	
+26	a	Shiwilu	ɘksa 	genipa	
+26	c	PK	*ɘɴpu 	hualo toad	
+26	c	Shawi	iɴpu 	hualo toad	
+26	c	Shiwilu	ɘɴpu 	hualo toad	
+26	d	PK	*ɘwi- 	to scrape	
+26	d	Shawi	iwi- 	to scrape	
+26	d	Shiwilu	ɘkkʷi- 	to scrape	
+26	e	PK	*ɘwinaɴ 	comb	
+26	e	Shawi	iwinaɴ 	comb	
+26	e	Shiwilu	ɘkkʷina(ɴ) 	comb	
+26	f	PK	*ɪpɘ 	giant armadillo	
+26	f	Shawi	ɘpɘ ~ ipɘ 	giant armadillo	
+26	f	Shiwilu	ipɘk 	giant armadillo	
+26	h	PK	*ɪ-tɘʔ 	root	
+26	h	Shawi	i-tɘʔ 	root	
+26	h	Shiwilu	i-tɘk 	root	
+27	a	PK	*laɴsɪʔ 	bone	
+27	a	Shawi	naɴsɘʔ 	bone	
+27	a	Shiwilu	laɴsiʔ 	bone	
+27	c	Shawi	sɘnopaʔ ~ sɘnowaʔ 	bee sp.	
+27	e	PK	*sɪʔka 	tingotero/isulilla ant	
+27	e	Shawi	sɘʔka- 	tingotero/isulilla ant	‘to sting’
+27	e	Shiwilu	siʔka- 	tingotero/isulilla ant	
+27	g	PK	*jakuʔsɪʔ- 	to cut hair	
+27	g	Shawi	jaʰkoso- 	to cut hair	
+27	g	Shiwilu	ð̞akuʔsiʔ- 	to cut hair	
+28	a	Shiwilu	iɴtʃina(ɴ)	right	
+28	b	PK	*muɴtɪ 	dove sp.	
+28	b	Shawi	moɴtʃi 	dove sp.	
+28	b	Shiwilu	muɴtʃi 	dove sp.	
+28	c	PK	*pɪtɪ-/ *pɪtɪ-naɴ 	to count / size, measure	
+28	c	Shawi	pitʃi-/ pitʃi-naɴ 	to count / size, measure	
+28	c	Shiwilu	pitʃi-/ pitʃi-naɴ 	to count / size, measure	
+28	e	PK	*tɪɴ-	to smoke food	
+28	e	Shawi	tʃiɴ- 	to smoke food	
+28	e	Shiwilu	tʃiɴ- 	to smoke food	
+28	f	PK	*tɪɴpɪnaɴ / *tɪɴpɪnam- 	river mouth	
+28	g	PK	*tɪɴtɪ 	river crab	
+28	g	Shawi	tʃiɴtʃi 	river crab	
+28	g	Shiwilu	tʃiɴtʃi 	river crab	
+28	i	PK	*tɪˀtɪ 	excrement	
+28	i	Shawi	tʃiʔtʃi 	excrement	
+28	i	Shiwilu	tʃitʃi 	excrement	
+30	b	Shawi	joʰki	moon	
+30	d	PK	*kukuʔ 	oropendola, paucar bird	
+30	d	Shawi	koʰkoʔ 	oropendola, paucar bird	
+30	d	Shiwilu	kukuʔ 	oropendola, paucar bird	
+30	h	Shiwilu	utɘ(ˀ)ɾ-iɴ	sister of a male ego	
+31	a	PK	*aɘ 	anona	
+31	a	Shawi	ɘ(-ʃa),aɘ 	anona	
+31	a	Shiwilu	ɘk-pi 	anona	
+31	b	PK	*ɘsa 	huito tree	
+31	b	Shawi	isa 	huito tree	
+31	b	Shiwilu	ɘksa 	huito tree	
+31	e	PK	*ɪpɘ 	yanguaturi armadillo	
+31	e	Shawi	ɘpɘ ~ ipɘ 	yanguaturi armadillo	
+31	e	Shiwilu	ipɘk 	yanguaturi armadillo	
+31	g	PK	*juɴsɘ 	pale-vented pigeon	
+31	g	Shawi	joɴsɘ 	pale-vented pigeon	
+31	g	Shiwilu	ð̞uɴsɘk 	pale-vented pigeon	
+31	h	PK	*kajɘ, 3 *kajɘ-ɴ 	sister of a female ego	
+31	h	Shawi	kai, 3 kai-ɴ 	sister of a female ego	
+31	h	Shiwilu	kað̞ɘk, 3 kað̞ɘ-ɴ 	sister of a female ego	
+31	i	PK	*kɘ(-t)- 	to fry, to singe	
+31	i	Shawi	kɘ-t- 	to fry, to singe	
+31	i	Shiwilu	kɘk- 	to fry, to singe	
+31	m	PK	*naɴsɘ 	sábalo fish	
+31	m	Shawi	naɴsɘ 	sábalo fish	
+31	m	Shiwilu	naɴsɘk 	sábalo fish	
+31	n	Shiwilu	paɴpɘk 	irapai palm	
+31	o	PK	*pɘɾa- 	to call (Sha), to sing, to whistle, tobark, to croak (Shi)	
+31	o	Shawi	pɘɾa- 	to call (Sha), to sing, to whistle, tobark, to croak (Shi)	
+31	o	Shiwilu	pɘkla- 	to call (Sha), to sing, to whistle, tobark, to croak (Shi)	
+31	q	PK	*tamɘ 	condor	
+31	q	Shawi	tamɘ 	condor	
+31	q	Shiwilu	tamɘk 	condor	
+31	r	PK	*tɘpa 	tick	
+31	r	Shawi	tɘpa 	tick	
+31	r	Shiwilu	tɘkpa 	tick	
+31	s	Shiwilu	ukla-ð̞ɘk~wɘkla-ð̞ɘk 	blood	
+31	t	PK	*wɘ 	ear	
+31	t	Shawi	wɘ-ɾa-tɘʔ 	ear	
+31	t	Shiwilu	wɘk 	ear	
+31	u	PK	*wɘlu- 	to gnaw	
+31	u	Shawi	wɘno- 	to gnaw	
+31	u	Shiwilu	uklu	to gnaw	
+31	x	Shawi	tuʔtɘ-ɾa-tɘʔ 	nail	
+31	y	PK	*ukɘ(ʔ)- 	to stink (of blood)	
+31	y	Shawi	ukɘ-ʰkɘɴ 	to stink (of blood)	
+31	y	Shiwilu	ukɘk- 	to stink (of blood)	
+31	aa	Shawi	isɘʔ	bat	
+31	cc	PK	*jɘʔ- 	pressing with fingernails	
+31	cc	Shawi	iʔ- 	pressing with fingernails	
+31	cc	Shiwilu	ð̞ɘk- 	pressing with fingernails	
+31	ee	PK	*maɾɘʔ	because of, for	
+31	ff	PK	*sɘʔ- 	with one’s fingers	
+31	ff	Shawi	sɘʔ- 	with one’s fingers	
+31	ff	Shiwilu	sɘk- 	with one’s fingers	
+31	gg	Shiwilu	sɘkku 	diced manioc	
+31	ii	PK	*waˀsɘʔ 	carachamita fish 	
+31	ii	Shawi	waʔsɘʔ 	carachamita fish 	
+31	ii	Shiwilu	wasɘk 	carachamita fish 	
+31	jj	Shiwilu	wɘk- 	to come	
+31	ll	Shawi	pɘn- 	to fly	
+31	ll	Shiwilu	pɘɴ- 	to fly	
+31	mm	PK	*sɘɴma-ɾuʔ 	porridge, thick soup	
+31	mm	Shawi	sɘma-ɾu-t- 	porridge, thick soup	
+31	mm	Shiwilu	sɘɴma-luʔ 	porridge, thick soup	
+31	nn	PK	*timɘɴ 	louse	
+31	pp	PK	*jɘɴni 	otter	
+31	qq	PK	*iɘɴsuɴ- 	to kneel	
+32	d	PK	*liˀluna 	tacarpostick	
+32	d	Shawi	niʔnona 	tacarpostick	
+32	d	Shiwilu	lɘʎuna(ɴ) 	tacarpostick	
+32	k	PK	*sukiɾu(ʔ) 	frog sp	
+32	k	Shawi	ʃiʔtaʔ 	frog sp	
+32	k	Shiwilu	sukɘʎuʔ 	frog sp	
+33	a	PK	*ɪja(-t)-	tasty, to like (food)	
+33	a	Shawi	ja-(ʃ)i-ɴ,ja-ʰt- 	tasty, to like (food)	
+33	a	Shiwilu	ija-,ija-t- 	tasty, to like (food)	
+33	b	PK	*ɪjuɴ 	night mosquito	
+33	b	Shawi	joɴ 	night mosquito	
+33	b	Shiwilu	ijuɴ 	night mosquito	
+33	d	PK	*ɪɴjaʔ	to urinate	
+33	f	Shawi	iʔsa	curassow	
+34	a	PK	*ɪɴtɪna(ɴ) 	right	
+34	d	PK	*-lɪɴ e.g. *lu-lɪɴ 	vine:CL tamshi vine	
+34	d	Shawi	-niɴ e.g. no-niɴ 	vine:CL tamshi vine	
+34	d	Shiwilu	-ʎiɴ e.g. lu-ʎiɴ 	vine:CL tamshi vine	
+34	i	PK	*nɪnɘ-ɾa 	tongue	
+34	l	PK	*palɪʔ- 	leaf for the roof	
+34	r	PK	*tɪɴ- 	to smoke food	
+34	v	Shawi	tɘtɘ-pi ~ tɘti-wi 	floodplain	
+39	a	PK	*jawɘɾɘ ~ *ɪawɘɾuʔ 	great egret	
+39	a	Shawi	jawɘɾɘ 	great egret	
+39	a	Shiwilu	jaukluʔ ~ jawɘkluʔ 	great egret	
+39	b	PK	*janaɴ ~ *junaɴ 	piranha	
+39	b	Shawi	janaɴ 	piranha	
+39	b	Shiwilu	ð̞unaɴ	piranha	
+39	c	PK	*kasɘʔ ~ *kɪsɘʔ 	to feel itchy	
+39	c	Shawi	kasɘʔ / kasɘ- 	to feel itchy	
+39	c	Shiwilu	kisɘk- 	to feel itchy	
+39	d	PK	*kaˀjɘ(ʔ)-t ~ *kuˀjɘ(ʔ)-t- 	to apply warm water	
+39	d	Shawi	kaʔi-t- 	to apply warm water	
+39	d	Shiwilu	kuð̞ɘk-t- 	to apply warm water	
+39	e	PK	*(k)ɘju-, *(k)ɘju-ɾuɴ	widow	
+39	e	Shawi	kɘjo-ɾoɴ 	widow	
+39	e	Shiwilu	ɘkð̞u-, ɘkð̞u-luɴ 	widow	
+39	f	PK	*(k)ɘpa 	caimito fruit	
+39	f	Shawi	kɘʰpa 	caimito fruit	
+39	f	Shiwilu	ɘkpa 	caimito fruit	
+39	g	PK	*lɪɴlupɪ ~ *n-~ *j- 	heart	
+39	g	Shawi	ninopi 	heart	
+39	g	Shiwilu	ð̞iɴlupi 	heart	
+39	h	PK	*lusuʔ-~ *lutuʔ- 	to see in a vision	
+39	h	Shawi	noso- 	to see in a vision	
+39	h	Shiwilu	lutuʔ- 	to see in a vision	
+39	i	PK	*tɪ(a)ʔ(j)ɘ(ʔ)- 	to flee, to escape	
+39	i	Shawi	tʃaʔɘ- 	to flee, to escape	
+39	i	Shiwilu	tʃiʔjɘk- 	to flee, to escape	
+	
