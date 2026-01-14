@@ -20,27 +20,27 @@ work in progress
 ## Statistics
 
 
-![Glottolog: 68%](https://img.shields.io/badge/Glottolog-68%25-orange.svg "Glottolog: 68%")
+![Glottolog: 67%](https://img.shields.io/badge/Glottolog-67%25-orange.svg "Glottolog: 67%")
 ![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
 ![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 67%](https://img.shields.io/badge/BIPA-67%25-orange.svg "BIPA: 67%")
-![CLTS SoundClass: 67%](https://img.shields.io/badge/CLTS%20SoundClass-67%25-orange.svg "CLTS SoundClass: 67%")
+![BIPA: 85%](https://img.shields.io/badge/BIPA-85%25-yellowgreen.svg "BIPA: 85%")
+![CLTS SoundClass: 85%](https://img.shields.io/badge/CLTS%20SoundClass-85%25-yellowgreen.svg "CLTS SoundClass: 85%")
 
 - **Varieties:** 3 (linked to 2 different Glottocodes)
-- **Concepts:** 288 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 1,065
+- **Concepts:** 287 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 1,071
 - **Sources:** 0
-- **Synonymy:** 1.23
+- **Synonymy:** 1.24
 - **Invalid lexemes:** 0
-- **Tokens:** 5,807
-- **Segments:** 72 (24 BIPA errors, 24 CLTS sound class errors, 48 CLTS modified)
-- **Inventory size (avg):** 45.67
+- **Tokens:** 5,620
+- **Segments:** 41 (6 BIPA errors, 6 CLTS sound class errors, 35 CLTS modified)
+- **Inventory size (avg):** 28.00
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 1065/1065 (100.00%)
+- Entries missing sources: 1071/1071 (100.00%)
 
 # Contributors
 
@@ -56,4 +56,4 @@ Rebecca Lethgo | @RebeccaLethgo | CLDF conversion, maintenance | Editor |
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
