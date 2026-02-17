@@ -50,9 +50,9 @@ set	entry	doculect	value	concept	note
 1	q	PK	*pɘwaɾa 	iguana	
 1	q	Shawi	pɘwaɾa 	iguana	
 1	q	Shiwilu	pɘkkʷala 	iguana	
-1	r	PK	*-ɾa e.g. *taɴju-ɾa,*nɪnɘ(ʔ)-ɾa,*tuʔtɘ(ʔ)-ɾa 	small and round:CLstartonguenail	
-1	r	Shawi	-ɾa e.g. tajo-ɾa, nɘnɘ-ɾa, toʔto-ɾa-tɘʔ ~ toʔtɘ-ɾa-tɘʔ 	small and round:CLstartonguenail	
-1	r	Shiwilu	-la e.g. tað̞u-la,ɲinɘk-la,tuʔtɘk-la 	small and round:CLstartonguenail	
+1	r	PK	*-ɾa	small and round:CL	e.g. *taɴju-ɾa,*nɪnɘ(ʔ)-ɾa,*tuʔtɘ(ʔ)-ɾa (startonguenail)
+1	r	Shawi	-ɾa	small and round:CL	e.g. tajo-ɾa, nɘnɘ-ɾa, toʔto-ɾa-tɘʔ ~ toʔtɘ-ɾa-tɘʔ (startonguenail)
+1	r	Shiwilu	-la	small and round:CL	e.g. tað̞u-la,ɲinɘk-la,tuʔtɘk-la (startonguenail)
 1	s	PK	*saɾa(ʔ) 	guava	
 1	s	Shawi	saɾa 	guava	
 1	s	Shiwilu	salaʔ 	guava	
@@ -122,12 +122,12 @@ set	entry	doculect	value	concept	note
 2	m	PK	*lɘluɴ 	girl menstruating for the first time	
 2	m	Shawi	nɘnoɴ 	girl menstruating for the first time	
 2	m	Shiwilu	lɘkluɴ 	girl menstruating for the first time	
-2	n	PK	*-lɪɴe.g. *lu-lɪɴ 	vine:CL tamshi vine	
-2	n	Shawi	-niɴ,e.g. no-niɴ 	vine:CL tamshi vine	
-2	n	Shiwilu	-ʎiɴe.g. lu-ʎiɴ 	vine:CL tamshi vine	
-2	o	PK	*-luʔe.g. *ja-luʔ,*ji-luʔ-tɘʔ 	earth:CL ashes sand	
-2	o	Shawi	-noʔe.g. ja-noʔ,i-no-tɘʔ 	earth:CL ashes sand	
-2	o	Shiwilu	-luʔe.g. pɘɴ-ð̞a-luʔ,ð̞ɘ-ʎuʔ-tɘk 	earth:CL ashes sand	
+2	n	PK	*-lɪɴ 	vine:CL	e.g. *lu-lɪɴ (tamshi vine)
+2	n	Shawi	-niɴ 	vine:CL	e.g. no-niɴ (tamshi vine)
+2	n	Shiwilu	-ʎiɴ 	vine:CL	e.g. lu-ʎiɴ (tamshi vine)
+2	o	PK	*-luʔ 	earth:CL	e.g. *ja-luʔ,*ji-luʔ-tɘʔ (ashes sand)
+2	o	Shawi	-noʔ 	earth:CL	e.g. ja-noʔ,i-no-tɘʔ (ashes sand)
+2	o	Shiwilu	-luʔ 	earth:CL	e.g. pɘɴ-ð̞a-luʔ,ð̞ɘ-ʎuʔ-tɘk (ashes sand)
 2	p	PK	*muluʔ 	eaf (Sha), tree top (Shi)	
 2	p	Shawi	monoʔ 	eaf (Sha), tree top (Shi)	
 2	p	Shiwilu	muluʔ 	eaf (Sha), tree top (Shi)	
@@ -581,7 +581,7 @@ set	entry	doculect	value	concept	note
 13	ff	Shiwilu	waɴ-ʃɘɴ 	shrimp	
 13	gg	PK	*waɴki 	boquichico fish	
 13	gg	Shawi	waɴki 	boquichico fish	
-13	gg	Shiwilu	waɴkɘ{ʔ/t}-tʃɘk 	boquichico fish	
+13	gg	Shiwilu	waɴkɘ{ʔ\t}-tʃɘk 	boquichico fish	
 13	hh	PK	*wɘɴnɪ 	shuyo fish	
 13	hh	Shawi	wɘni 	shuyo fish	
 13	hh	Shiwilu	wɘɴɲi ~ uɴɲi 	shuyo fish	
@@ -688,7 +688,6 @@ set	entry	doculect	value	concept	note
 14	vv	PK	*wani- 	to stand (up)	
 14	vv	Shawi	wani- 	to stand (up)	
 14	vv	Shiwilu	wanɘɾ- 	to stand (up)	
-14	ww	Shiwilu	waɴkɘ{t/ʔ}-tʃɘk 	boquichico fish	
 14	xx	PK	*wi- 	to sting	
 14	xx	Shawi	wi- 	to sting	
 14	xx	Shiwilu	wɘɾ- 	to sting	
@@ -952,9 +951,9 @@ set	entry	doculect	value	concept	note
 33	d	PK	*ɪɴjaʔ	to urinate	
 33	f	Shawi	iʔsa	curassow	
 34	a	PK	*ɪɴtɪna(ɴ) 	right	
-34	d	PK	*-lɪɴ e.g. *lu-lɪɴ 	vine:CL tamshi vine	
-34	d	Shawi	-niɴ e.g. no-niɴ 	vine:CL tamshi vine	
-34	d	Shiwilu	-ʎiɴ e.g. lu-ʎiɴ 	vine:CL tamshi vine	
+34	d	PK	*-lɪɴ 	vine:CL	e.g. *lu-lɪɴ (tamshi vine)
+34	d	Shawi	-niɴ 	vine:CL	e.g. no-niɴ (tamshi vine)
+34	d	Shiwilu	-ʎiɴ 	vine:CL	e.g. lu-ʎiɴ (tamshi vine)
 34	i	PK	*nɪnɘ-ɾa 	tongue	
 34	l	PK	*palɪʔ- 	leaf for the roof	
 34	r	PK	*tɪɴ- 	to smoke food	
