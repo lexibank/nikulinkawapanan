@@ -13,7 +13,7 @@
 | k | 335 | ✓ | ✓ |
 | u | 300 | ✓ | ✓ |
 | t | 293 | ✓ | ✓ |
-| p | 244 | ✓ | ✓ |
+| p | 243 | ✓ | ✓ |
 | n | 236 | ✓ | ✓ |
 | s | 204 | ✓ | ✓ |
 | ɾ | 200 | ✓ | ✓ |
@@ -38,16 +38,15 @@
 | kʷ | 7 | ✓ | ✓ |
 | ɪˀ | 7 | ✓ | ✓ |
 | iˀ | 5 | ✓ | ✓ |
-| . | 4 | ? | ? |
 | !V/ɘ | 2 | ✓ | ✓ |
 | <<{>> | 2 | ? | ? |
 | <<}>> | 2 | ? | ? |
-| !V/u.u | 1 | ? | ? |
+| !V/u | 1 | ✓ | ✓ |
 | <<;>> | 1 | ? | ? |
-| <<ʷ>> | 1 | ? | ? |
+| pʷ | 1 | ✓ | ✓ |
 | r | 1 | ✓ | ✓ |
 
-(41 rows)
+(40 rows)
 
 
 
@@ -63,11 +62,8 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:-----------------------------------|:----------------|:-----------------|:-----------|:-----------------------------------|
+|:-----------------------------------|:----------------|:-----------------|:-----------|:-----------------------------|
 | Proto-Kawapanan-Nikulin-2019-252-3 | Proto-Kawapanan | Nikulin-2019-252 | 3 *kajɘ-ɴ | + k a j ɘ ɴ |
-| Proto-Kawapanan-Nikulin-2019-59-1 | Proto-Kawapanan | Nikulin-2019-59 | *tV.ɘ | t !V/ɘ <s> . </s> ɘ |
-| Proto-Kawapanan-Nikulin-2019-60-1 | Proto-Kawapanan | Nikulin-2019-60 | *V.u- | <s> !V/u.u </s> <s> . </s> u |
-| Proto-Kawapanan-Nikulin-2019-61-1 | Proto-Kawapanan | Nikulin-2019-61 | *wV.ɘ.ta | w !V/ɘ <s> . </s> ɘ <s> . </s> t a |
 | Proto-Kawapanan-Nikulin-2019-83-3 | Proto-Kawapanan | Nikulin-2019-83 | 3 *suˀj-ɪɴ | + s uˀ j ɪ ɴ |
 | Shawi-Nikulin-2019-100-1 | Shawi | Nikulin-2019-100 | apiʔ;api- | a p i ʔ <s> <<;>> </s> a p i |
 | Shawi-Nikulin-2019-252-3 | Shawi | Nikulin-2019-252 | 3 kai-ɴ | + k a i ɴ |
@@ -77,9 +73,8 @@
 | Shiwilu-Nikulin-2019-190-3 | Shiwilu | Nikulin-2019-190 | waɴkɘ{t | w a ɴ k ɘ <s> <<{>> </s> t |
 | Shiwilu-Nikulin-2019-190-4 | Shiwilu | Nikulin-2019-190 | ʔ}-tʃɘk | ʔ <s> <<}>> </s> tʃ ɘ k |
 | Shiwilu-Nikulin-2019-252-3 | Shiwilu | Nikulin-2019-252 | 3 kað̞ɘ-ɴ | + k a ɹ̪ ɘ ɴ |
-| Shiwilu-Nikulin-2019-58-2 | Shiwilu | Nikulin-2019-58 | pʷɘˀɾ- | p <s> <<ʷ>> </s> ɘˀ ɾ |
 | Shiwilu-Nikulin-2019-83-3 | Shiwilu | Nikulin-2019-83 | 3 suð̞-iɴ | + s u ɹ̪ i ɴ |
 
-(15 rows)
+(11 rows)
 
 

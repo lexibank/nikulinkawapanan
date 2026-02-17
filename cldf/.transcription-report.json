@@ -1,12 +1,12 @@
 {
     "by_language": {
         "Proto-Kawapanan": {
-            "bipa_errors": [
-                "!V/u.u",
-                "."
-            ],
-            "general_errors": 5,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
+                "!V/u": [
+                    "u"
+                ],
                 "!V/\u0258": [
                     "\u0258"
                 ],
@@ -57,6 +57,9 @@
                 ],
                 "p": [
                     "p"
+                ],
+                "p\u02b7": [
+                    "p\u02b7"
                 ],
                 "r": [
                     "r"
@@ -113,15 +116,11 @@
                     "\u0294"
                 ]
             },
-            "sclass_errors": [
-                "!V/u.u",
-                "."
-            ],
+            "sclass_errors": [],
             "segments": {
-                "!V/u.u": 1,
+                "!V/u": 1,
                 "!V/\u0258": 2,
                 "+": 8,
-                ".": 4,
                 "a": 219,
                 "a\u02c0": 15,
                 "e": 4,
@@ -155,6 +154,9 @@
             ],
             "general_errors": 1,
             "replacements": {
+                "!V/u": [
+                    "u"
+                ],
                 "!V/\u0258": [
                     "\u0258"
                 ],
@@ -205,6 +207,9 @@
                 ],
                 "p": [
                     "p"
+                ],
+                "p\u02b7": [
+                    "p\u02b7"
                 ],
                 "r": [
                     "r"
@@ -294,12 +299,14 @@
         },
         "Shiwilu": {
             "bipa_errors": [
-                "<<\u02b7>>",
                 "<<}>>",
                 "<<{>>"
             ],
-            "general_errors": 5,
+            "general_errors": 4,
             "replacements": {
+                "!V/u": [
+                    "u"
+                ],
                 "!V/\u0258": [
                     "\u0258"
                 ],
@@ -350,6 +357,9 @@
                 ],
                 "p": [
                     "p"
+                ],
+                "p\u02b7": [
+                    "p\u02b7"
                 ],
                 "r": [
                     "r"
@@ -407,7 +417,6 @@
                 ]
             },
             "sclass_errors": [
-                "<<\u02b7>>",
                 "<<}>>",
                 "<<{>>"
             ],
@@ -415,7 +424,6 @@
                 "+": 8,
                 "<<{>>": 2,
                 "<<}>>": 2,
-                "<<\u02b7>>": 1,
                 "a": 236,
                 "e": 4,
                 "g": 4,
@@ -426,7 +434,8 @@
                 "l": 113,
                 "m": 24,
                 "n": 31,
-                "p": 83,
+                "p": 82,
+                "p\u02b7": 1,
                 "s": 70,
                 "t": 81,
                 "t\u0283": 40,
@@ -453,27 +462,6 @@
                 "Nikulin-2019-252",
                 "3 *kaj\u0258-\u0274",
                 "+ k a j \u0258 \u0274"
-            ],
-            [
-                "Proto-Kawapanan-Nikulin-2019-59-1",
-                "Proto-Kawapanan",
-                "Nikulin-2019-59",
-                "*tV.\u0258",
-                "t !V/\u0258 <s> . </s> \u0258"
-            ],
-            [
-                "Proto-Kawapanan-Nikulin-2019-60-1",
-                "Proto-Kawapanan",
-                "Nikulin-2019-60",
-                "*V.u-",
-                "<s> !V/u.u </s> <s> . </s> u"
-            ],
-            [
-                "Proto-Kawapanan-Nikulin-2019-61-1",
-                "Proto-Kawapanan",
-                "Nikulin-2019-61",
-                "*wV.\u0258.ta",
-                "w !V/\u0258 <s> . </s> \u0258 <s> . </s> t a"
             ],
             [
                 "Proto-Kawapanan-Nikulin-2019-83-3",
@@ -539,13 +527,6 @@
                 "+ k a \u0279\u032a \u0258 \u0274"
             ],
             [
-                "Shiwilu-Nikulin-2019-58-2",
-                "Shiwilu",
-                "Nikulin-2019-58",
-                "p\u02b7\u0258\u02c0\u027e-",
-                "p <s> <<\u02b7>> </s> \u0258\u02c0 \u027e"
-            ],
-            [
                 "Shiwilu-Nikulin-2019-83-3",
                 "Shiwilu",
                 "Nikulin-2019-83",
@@ -553,20 +534,20 @@
                 "+ s u \u0279\u032a i \u0274"
             ]
         ],
-        "bad_words_count": 15,
+        "bad_words_count": 11,
         "bipa_errors": [
-            "<<;>>",
-            "<<\u02b7>>",
             "<<}>>",
-            ".",
-            "!V/u.u",
-            "<<{>>"
+            "<<{>>",
+            "<<;>>"
         ],
-        "general_errors": 11,
+        "general_errors": 5,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 28.0,
+        "inventory_size": 27.666666666666668,
         "replacements": {
+            "!V/u": [
+                "u"
+            ],
             "!V/\u0258": [
                 "\u0258"
             ],
@@ -617,6 +598,9 @@
             ],
             "p": [
                 "p"
+            ],
+            "p\u02b7": [
+                "p\u02b7"
             ],
             "r": [
                 "r"
@@ -674,22 +658,17 @@
             ]
         },
         "sclass_errors": [
-            "<<;>>",
-            "<<\u02b7>>",
             "<<}>>",
-            ".",
-            "!V/u.u",
-            "<<{>>"
+            "<<{>>",
+            "<<;>>"
         ],
         "segments": {
-            "!V/u.u": 1,
+            "!V/u": 1,
             "!V/\u0258": 2,
             "+": 25,
-            ".": 4,
             "<<;>>": 1,
             "<<{>>": 2,
             "<<}>>": 2,
-            "<<\u02b7>>": 1,
             "a": 732,
             "a\u02c0": 15,
             "e": 12,
@@ -704,7 +683,8 @@
             "m": 81,
             "n": 236,
             "o": 162,
-            "p": 244,
+            "p": 243,
+            "p\u02b7": 1,
             "r": 1,
             "s": 204,
             "t": 293,
