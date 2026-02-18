@@ -9,7 +9,7 @@ from lingpy import Wordlist
 class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "nikulinkawapanan"
-    form_spec = FormSpec(separators=",~/")
+    form_spec = FormSpec(separators=";,~/", replacements=[(" ", "_")])
 
     writer_options = {'keep_languages': False, 'keep_parameters': False}
 
@@ -76,6 +76,6 @@ class Dataset(BaseDataset):
                     Language_ID=languages[doculect],
                     Parameter_ID=concepts[concept],
                     Value=value,
-                    Cognacy=c_set[(number, entry)]
-                    #Source=sources[doculect]
+                    Cognacy=c_set[(number, entry)],
+                    Source="Nikulin2022"
                     )
