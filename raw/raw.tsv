@@ -8,9 +8,9 @@ set	entry	doculect	value	concept	note
 1	c	PK	*ɪɾu 	cough, cold	
 1	c	Shawi	iɾo 	cough, cold	
 1	c	Shiwilu	ilu- 	cough, cold	
-1	d	PK	*ɪɾuʔ- 	to suck (Sha); to lick (Shi)	
-1	d	Shawi	iɾo- 	to suck (Sha); to lick (Shi)	
-1	d	Shiwilu	iluʔ- 	to suck (Sha); to lick (Shi)	
+1	d	PK	*ɪɾuʔ- 	to suck (Sha); to lick (Shi)	The similar example 11b (with a different reconstruction) was removed from the data on the basis of table 5 on p. 3-4. Example 11b: PK *ɪluʔ- Shawi iɾu- Shiwilu iluʔ- to suck (Sha), to lick (Shi)
+1	d	Shawi	iɾo- 	to suck (Sha); to lick (Shi)	The similar example 11b (with a different reconstruction) was removed from the data on the basis of table 5 on p. 3-4. Example 11b: PK *ɪluʔ- Shawi iɾu- Shiwilu iluʔ- to suck (Sha), to lick (Shi)
+1	d	Shiwilu	iluʔ- 	to suck (Sha); to lick (Shi)	The similar example 11b (with a different reconstruction) was removed from the data on the basis of table 5 on p. 3-4. Example 11b: PK *ɪluʔ- Shawi iɾu- Shiwilu iluʔ- to suck (Sha), to lick (Shi)
 1	e	PK	*jamuɾa 	salt	
 1	e	Shawi	jamoɾa 	salt	
 1	e	Shiwilu	ð̞amula 	salt	
@@ -152,9 +152,9 @@ set	entry	doculect	value	concept	note
 2	w	PK	*wɘla-jɘʔ 	blood	
 2	w	Shawi	wɘna-iʔ 	blood	
 2	w	Shiwilu	ukla-ð̞ɘk 	blood	
-2	x	PK	*wɘlu- 	to chew, to gnaw	
-2	x	Shawi	wɘno- 	to chew, to gnaw	
-2	x	Shiwilu	uklu- 	to chew, to gnaw	
+2	x	PK	*wɘlu- 	to gnaw	to chew, to gnaw
+2	x	Shawi	wɘno- 	to gnaw	to chew, to gnaw
+2	x	Shiwilu	uklu- 	to gnaw	to chew, to gnaw
 2	y	PK	*wɪlɘ 	curhuinsi ant	
 2	y	Shawi	wɘnɘ 	curhuinsi ant	
 2	y	Shiwilu	wilɘk 	curhuinsi ant	
@@ -426,9 +426,6 @@ set	entry	doculect	value	concept	note
 11	a	PK	*ɪlaɴsiʔ 	bird	
 11	a	Shawi	ina(i)ɴʃi-ɾa ~ inai-ɾa 	bird	
 11	a	Shiwilu	ilaɴsɘˀɾ 	bird	
-11	b	PK	*ɪluʔ- 	to suck (Sha), to lick (Shi)	
-11	b	Shawi	iɾu- 	to suck (Sha), to lick (Shi)	
-11	b	Shiwilu	iluʔ- 	to suck (Sha), to lick (Shi)	
 11	c	PK	*ɪɴjaʔ- 	to urinate	
 11	c	Shawi	ija- 	to urinate	
 11	c	Shiwilu	iɴjaʔ- 	to urinate	
