@@ -13,7 +13,7 @@
         {
             "rdf:about": "https://github.com/lexibank/nikulinkawapanan",
             "rdf:type": "prov:Entity",
-            "dc:created": "3e75cf2",
+            "dc:created": "bfc3b21",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
             "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
-            "dc:extent": 965,
+            "dc:extent": 959,
             "tableSchema": {
                 "columns": [
                     {
@@ -224,7 +224,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 275,
+            "dc:extent": 273,
             "tableSchema": {
                 "columns": [
                     {

@@ -27,12 +27,12 @@ work in progress
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 3 (linked to 2 different Glottocodes)
-- **Concepts:** 275 (linked to 0 different Concepticon concept sets)
-- **Lexemes:** 965
+- **Concepts:** 273 (linked to 0 different Concepticon concept sets)
+- **Lexemes:** 959
 - **Sources:** 1
 - **Synonymy:** 1.17
 - **Invalid lexemes:** 0
-- **Tokens:** 4,881
+- **Tokens:** 4,843
 - **Segments:** 34 (0 BIPA errors, 0 CLTS sound class errors, 34 CLTS modified)
 - **Inventory size (avg):** 23.33
 

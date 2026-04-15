@@ -35,9 +35,9 @@ set	entry	doculect	value	concept	note
 1	l	PK	*maɾɘʔ 	because of, for	Example 31ee was removed from the dataset as it is a duplicate of example 1l.
 1	l	Shawi	maɾɘʔ 	because of, for	Example 31ee was removed from the dataset as it is a duplicate of example 1l.
 1	l	Shiwilu	malɘk 	because of, for	Example 31ee was removed from the dataset as it is a duplicate of example 1l.
-1	m	PK	*mɪɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	
-1	m	Shawi	mɘɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	
-1	m	Shiwilu	milɘk	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	
+1	m	PK	*mɪɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	Example 18d was removed from the dataset as it is a duplicate of example 1m. Note that the gloss is given as "yarina palm (Sha); tagua/ivory nut palm (Shi)" in edxample 18d.
+1	m	Shawi	mɘɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	Example 18d was removed from the dataset as it is a duplicate of example 1m. Note that the gloss is given as "yarina palm (Sha); tagua/ivory nut palm (Shi)" in edxample 18d.
+1	m	Shiwilu	milɘk	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	Example 18d was removed from the dataset as it is a duplicate of example 1m. Note that the gloss is given as "yarina palm (Sha); tagua/ivory nut palm (Shi)" in edxample 18d.
 1	n	PK	*naɾa 	tree	
 1	n	Shawi	naɾa 	tree	
 1	n	Shiwilu	nala 	tree	
@@ -449,9 +449,6 @@ set	entry	doculect	value	concept	note
 13	a	PK	*aʔlanaɴ 	huasaco fish	Example 10kk was removed as it is a duplicate of example 13a. However, note  that the ɴ in the Shiwilu form is marked as optional in 10kk ("aʔlana(ɴ)").
 13	a	Shawi	aʔnanaɴ 	huasaco fish	Example 10kk was removed as it is a duplicate of example 13a. However, note  that the ɴ in the Shiwilu form is marked as optional in 10kk ("aʔlana(ɴ)").
 13	a	Shiwilu	aʔlanaɴ 	huasaco fish	Example 10kk was removed as it is a duplicate of example 13a. However, note  that the ɴ in the Shiwilu form is marked as optional in 10kk ("aʔlana(ɴ)").
-13	b	PK	*aɴpiɴnɪaɴ 	huaman samana	
-13	b	Shawi	aɴpiniaɴ 	huaman samana	
-13	b	Shiwilu	aɴpɘɴɲaɴ 	huaman samana	
 13	d	PK	*ɪ(i)ɘɴsuɴ- 	to kneel	Example 31qq was removed as it is a duplicate of example 13d. Note however that the Proto-Kawapana form is written as "*iɘɴsuɴ-" in 31qq. In personal communication with the author, he notes that 13d and 31qq are alternative reconstructions and that it is unclear which should be preferred.
 13	d	Shawi	isoɴ- 	to kneel	Example 31qq was removed as it is a duplicate of example 13d. Note however that the Proto-Kawapana form is written as "*iɘɴsuɴ-" in 31qq. In personal communication with the author, he notes that 13d and 31qq are alternative reconstructions and that it is unclear which should be preferred.
 13	d	Shiwilu	jɘɴsuɴ- 	to kneel	Example 31qq was removed as it is a duplicate of example 13d. Note however that the Proto-Kawapana form is written as "*iɘɴsuɴ-" in 31qq. In personal communication with the author, he notes that 13d and 31qq are alternative reconstructions and that it is unclear which should be preferred.
@@ -548,9 +545,9 @@ set	entry	doculect	value	concept	note
 14	c	PK	*ana-si 	opossum	Example 24a was removed from the dataset as it is a duplicate of example 14c.
 14	c	Shawi	ana-ʃi 	opossum	Example 24a was removed from the dataset as it is a duplicate of example 14c.
 14	c	Shiwilu	ana-sɘɾ 	opossum	Example 24a was removed from the dataset as it is a duplicate of example 14c.
-14	d	PK	*aɴpiɴnɪaɴ 	huaman samana tree	
-14	d	Shawi	aɴpiniaɴ 	huaman samana tree	
-14	d	Shiwilu	aɴpɘɴɲaɴ 	huaman samana tree	
+14	d	PK	*aɴpiɴnɪaɴ 	huaman samana tree	Example 13b was removed from the dataset as it is a duplicate of example 14d. Note that the gloss is given as "huaman samana" in example 13b.
+14	d	Shawi	aɴpiniaɴ 	huaman samana tree	Example 13b was removed from the dataset as it is a duplicate of example 14d. Note that the gloss is given as "huaman samana" in example 13b.
+14	d	Shiwilu	aɴpɘɴɲaɴ 	huaman samana tree	Example 13b was removed from the dataset as it is a duplicate of example 14d. Note that the gloss is given as "huaman samana" in example 13b.
 14	e	PK	*api(ʔ) 	thief (> to steal)	
 14	e	Shawi	apiʔ 	thief (> to steal)	
 14	e	Shiwilu	apɘɾ- 	thief (> to steal)	
@@ -675,9 +672,6 @@ set	entry	doculect	value	concept	note
 18	c	PK	*kɪtɘ(ʔ)- 	to bite	
 18	c	Shawi	kɘtɘ- 	to bite	
 18	c	Shiwilu	kitɘk- 	to bite	
-18	d	PK	*mɪɾɘ 	yarina palm (Sha); tagua/ivory nut palm (Shi)	
-18	d	Shawi	mɘɾɘ 	yarina palm (Sha); tagua/ivory nut palm (Shi)	
-18	d	Shiwilu	milɘk 	yarina palm (Sha); tagua/ivory nut palm (Shi)	
 18	g	PK	*pɪlɘɴ- 	to advise	
 18	g	Shawi	pɘnɘɴ- 	to advise	
 18	g	Shiwilu	pilɘɴ- 	to advise	
