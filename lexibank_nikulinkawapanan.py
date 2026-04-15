@@ -26,11 +26,11 @@ class Dataset(BaseDataset):
         for concept in self.concepts:
             args.writer.add_concept(
                     ID=concept["ID"],
-                    Name=concept["gloss"],
+                    Name=concept["GLOSS"],
                     #Concepticon_ID=concept["Concepticon_ID"],
                     #Concepticon_Gloss=concept["Concepticon_Gloss"]
                     )
-            concepts[concept["gloss"]] = concept["ID"]
+            concepts[concept["GLOSS"]] = concept["ID"]
         args.log.info("added concepts")
 
         # add languages

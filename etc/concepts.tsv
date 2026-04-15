@@ -1,12 +1,12 @@
 ID	NUMBER	GLOSS	CONCEPTICON_ID	CONCEPTICON_GLOSS
 Nikulin-2022-281-1	1	feather, bodily hair	2381	FEATHER OR FUR OR HAIR
 Nikulin-2022-281-2	2	to make noise	2895	MAKE NOISE
-Nikulin-2022-281-3	3	cough, cold	102	COMMON COLD (DISEASE)
+Nikulin-2022-281-3	3	cough, cold		
 Nikulin-2022-281-4	4	to suck (Sha); to lick (Shi)		
 Nikulin-2022-281-5	5	salt	1274	SALT
 Nikulin-2022-281-6	6	cicada	2353	CICADA
 Nikulin-2022-281-7	7	sea lion		
-Nikulin-2022-281-8	8	locrerobird, greater ani		
+Nikulin-2022-281-8	8	locrero bird, greater ani		
 Nikulin-2022-281-9	9	three	492	THREE
 Nikulin-2022-281-10	10	corocoro bird		
 Nikulin-2022-281-11	11	cumala tree		
@@ -34,8 +34,7 @@ Nikulin-2022-281-32	32	rope	1218	ROPE
 Nikulin-2022-281-33	33	to cut meat		
 Nikulin-2022-281-34	34	pus	1808	PUS
 Nikulin-2022-281-35	35	maparate, bocón fish		
-Nikulin-2022-281-36	36	ocelot		
-Nikulin-2022-281-37	37	locrero bird, greater ani		
+Nikulin-2022-281-36	36	ocelot			
 Nikulin-2022-281-38	38	añas-súa fish		
 Nikulin-2022-281-39	39	throat	1346	THROAT
 Nikulin-2022-281-40	40	hole	1667	HOLE
@@ -100,7 +99,7 @@ Nikulin-2022-281-98	98	wound; to injure oneself (Sha); to spoil, to rot
 Nikulin-2022-281-99	99	agouti	313	AGOUTI
 Nikulin-2022-281-100	100	bat	1793	BAT
 Nikulin-2022-281-101	101	egg	744	EGG
-Nikulin-2022-281-102	102	oropendola, paucarbird		
+Nikulin-2022-281-102	102	oropendola, paucar bird		
 Nikulin-2022-281-103	103	worm	1219	WORM
 Nikulin-2022-281-104	104	bone	1394	BONE
 Nikulin-2022-281-105	105	coto monkey		
@@ -108,11 +107,9 @@ Nikulin-2022-281-106	106	earth	1228	EARTH (SOIL)
 Nikulin-2022-281-107	107	head	1256	HEAD
 Nikulin-2022-281-108	108	hot pepper	919	CHILI PEPPER
 Nikulin-2022-281-109	109	house	1252	HOUSE
-Nikulin-2022-281-110	110	martín-pescadorbird		
+Nikulin-2022-281-110	110	martín-pescador bird	2444	KINGFISHER
 Nikulin-2022-281-111	111	hoatzin bird		
 Nikulin-2022-281-112	112	vulture	1185	VULTURE
-Nikulin-2022-281-113	113	carachama fish		
-Nikulin-2022-281-114	114	carachamita fish		
 Nikulin-2022-281-115	115	huasaco fish		
 Nikulin-2022-281-116	116	to roast (manioc, plantain)		
 Nikulin-2022-281-117	117	trace		
@@ -232,7 +229,7 @@ Nikulin-2022-281-230	230	ungurahui palm
 Nikulin-2022-281-231	231	drop	3748	DROP (OF A LIQUID)
 Nikulin-2022-281-232	232	who	1235	WHO
 Nikulin-2022-281-233	233	with one’s fingernails		
-Nikulin-2022-281-234	234	sister of a female ego		
+Nikulin-2022-281-234	234	sister of a female ego	562	SISTER (OF WOMAN)
 Nikulin-2022-281-235	235	musmuque monkey		
 Nikulin-2022-281-236	236	difficult	584	DIFFICULT
 Nikulin-2022-281-237	237	above	1741	ABOVE
@@ -252,7 +249,6 @@ Nikulin-2022-281-250	250	to count / size, measure
 Nikulin-2022-281-251	251	to smoke food		
 Nikulin-2022-281-252	252	river crab		
 Nikulin-2022-281-253	253	excrement	675	FAECES (EXCREMENT)
-Nikulin-2022-281-254	254	oropendola, paucar bird		
 Nikulin-2022-281-255	255	anona		
 Nikulin-2022-281-256	256	huito tree		
 Nikulin-2022-281-257	257	pale-vented pigeon		
@@ -265,7 +261,6 @@ Nikulin-2022-281-263	263	to gnaw	2706	GNAW
 Nikulin-2022-281-264	264	to stink (of blood)		
 Nikulin-2022-281-265	265	pressing with fingernails		
 Nikulin-2022-281-266	266	with one’s fingers		
-Nikulin-2022-281-267	267	carachamita fish		
 Nikulin-2022-281-268	268	porridge, thick soup		
 Nikulin-2022-281-269	269	tacarpostick		
 Nikulin-2022-281-270	270	frog sp		
@@ -279,4 +274,4 @@ Nikulin-2022-281-277	277	widow	1756	WIDOW
 Nikulin-2022-281-278	278	caimito fruit		
 Nikulin-2022-281-279	279	heart	1223	HEART
 Nikulin-2022-281-280	280	to see in a vision		
-Nikulin-2022-281-281	281	to flee, to escape		
+Nikulin-2022-281-281	281	to flee, to escape	2142	RUN AWAY
