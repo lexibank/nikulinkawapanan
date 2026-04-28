@@ -8,9 +8,9 @@ set	entry	doculect	value	concept	note
 1	c	PK	*ɪɾu 	cough, cold	
 1	c	Shawi	iɾo 	cough, cold	
 1	c	Shiwilu	ilu- 	cough, cold	
-1	d	PK	*ɪɾuʔ- 	to suck (Sha); to lick (Shi)	
-1	d	Shawi	iɾo- 	to suck (Sha); to lick (Shi)	
-1	d	Shiwilu	iluʔ- 	to suck (Sha); to lick (Shi)	
+1	d	PK	*ɪɾuʔ- 	to suck (Sha); to lick (Shi)	The similar example 11b (with a different reconstruction and Shawi form) was removed from the dataset on the basis of table 5 on p. 3-4. Example 11b: PK *ɪluʔ- Shawi iɾu- Shiwilu iluʔ- to suck (Sha), to lick (Shi)
+1	d	Shawi	iɾo- 	to suck (Sha); to lick (Shi)	The similar example 11b (with a different reconstruction and Shawi form) was removed from the dataset on the basis of table 5 on p. 3-4. Example 11b: PK *ɪluʔ- Shawi iɾu- Shiwilu iluʔ- to suck (Sha), to lick (Shi)
+1	d	Shiwilu	iluʔ- 	to suck (Sha); to lick (Shi)	The similar example 11b (with a different reconstruction and Shawi) was removed from the dataset on the basis of table 5 on p. 3-4. Example 11b: PK *ɪluʔ- Shawi iɾu- Shiwilu iluʔ- to suck (Sha), to lick (Shi)
 1	e	PK	*jamuɾa 	salt	
 1	e	Shawi	jamoɾa 	salt	
 1	e	Shiwilu	ð̞amula 	salt	
@@ -20,9 +20,9 @@ set	entry	doculect	value	concept	note
 1	g	PK	*kalaɾaɴ 	sea lion	
 1	g	Shawi	kanaɾaɴ 	sea lion	
 1	g	Shiwilu	kalala(ɴ) 	sea lion	
-1	h	PK	*kaluʔtuɾuʔ 	locrerobird, greater ani	
-1	h	Shawi	kanoʔtoɾoʔ 	locrerobird, greater ani	
-1	h	Shiwilu	kaluʔtuluʔ 	locrerobird, greater ani	
+1	h	PK	*kaluʔtuɾuʔ 	locrero bird, greater ani	Example 2i was removed from the dataset as it is a duplicate of example 1h.
+1	h	Shawi	kanoʔtoɾoʔ 	locrero bird, greater ani	Example 2i was removed from the dataset as it is a duplicate of example 1h.
+1	h	Shiwilu	kaluʔtuluʔ 	locrero bird, greater ani	Example 2i was removed from the dataset as it is a duplicate of example 1h.
 1	i	PK	*kaɾa 	three	
 1	i	Shawi	kaɾa 	three	
 1	i	Shiwilu	kala 	three	
@@ -32,33 +32,33 @@ set	entry	doculect	value	concept	note
 1	k	PK	*kumaɾa 	cumala tree	
 1	k	Shawi	komaɾa 	cumala tree	
 1	k	Shiwilu	kumala 	cumala tree	
-1	l	PK	*maɾɘʔ 	because of, for	
-1	l	Shawi	maɾɘʔ 	because of, for	
-1	l	Shiwilu	malɘk 	because of, for	
-1	m	PK	*mɪɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	
-1	m	Shawi	mɘɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	
-1	m	Shiwilu	milɘk	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	
+1	l	PK	*maɾɘʔ 	because of, for	Example 31ee was removed from the dataset as it is a duplicate of example 1l.
+1	l	Shawi	maɾɘʔ 	because of, for	Example 31ee was removed from the dataset as it is a duplicate of example 1l.
+1	l	Shiwilu	malɘk 	because of, for	Example 31ee was removed from the dataset as it is a duplicate of example 1l.
+1	m	PK	*mɪɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	Example 18d was removed from the dataset as it is a duplicate of example 1m. Note that the gloss is given as "yarina palm (Sha); tagua/ivory nut palm (Shi)" in edxample 18d.
+1	m	Shawi	mɘɾɘ 	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	Example 18d was removed from the dataset as it is a duplicate of example 1m. Note that the gloss is given as "yarina palm (Sha); tagua/ivory nut palm (Shi)" in edxample 18d.
+1	m	Shiwilu	milɘk	yarina palm (Sha); tagua palm, ivory nut palm (Shi)	Example 18d was removed from the dataset as it is a duplicate of example 1m. Note that the gloss is given as "yarina palm (Sha); tagua/ivory nut palm (Shi)" in edxample 18d.
 1	n	PK	*naɾa 	tree	
 1	n	Shawi	naɾa 	tree	
 1	n	Shiwilu	nala 	tree	
 1	o	PK	*paɴwaɾa 	tapir	
 1	o	Shawi	pawaɾa 	tapir	
 1	o	Shiwilu	paɴwala 	tapir	
-1	p	PK	*pɘɾa- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)	
-1	p	Shawi	pɘɾa- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)	
-1	p	Shiwilu	pɘkla- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)	
+1	p	PK	*pɘɾa- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)	Example 31o was removed from the dataset as it is a duplicate of example 1p.
+1	p	Shawi	pɘɾa- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)	Example 31o was removed from the dataset as it is a duplicate of example 1p.
+1	p	Shiwilu	pɘkla- 	to call (Sha), to sing, to whistle, to bark, to croak (Shi)	Example 31o was removed from the dataset as it is a duplicate of example 1p.
 1	q	PK	*pɘwaɾa 	iguana	
 1	q	Shawi	pɘwaɾa 	iguana	
 1	q	Shiwilu	pɘkkʷala 	iguana	
-1	r	PK	*-ɾa e.g. *taɴju-ɾa,*nɪnɘ(ʔ)-ɾa,*tuʔtɘ(ʔ)-ɾa 	small and round:CLstartonguenail	
-1	r	Shawi	-ɾa e.g. tajo-ɾa, nɘnɘ-ɾa, toʔto-ɾa-tɘʔ ~ toʔtɘ-ɾa-tɘʔ 	small and round:CLstartonguenail	
-1	r	Shiwilu	-la e.g. tað̞u-la,ɲinɘk-la,tuʔtɘk-la 	small and round:CLstartonguenail	
+1	r	PK	*-ɾa	small and round:CL	e.g. *taɴju-ɾa (star), *nɪnɘ(ʔ)-ɾa (tongue),*tuʔtɘ(ʔ)-ɾa (nail)
+1	r	Shawi	-ɾa	small and round:CL	e.g. tajo-ɾa (star), nɘnɘ-ɾa (tongue), toʔto-ɾa-tɘʔ ~ toʔtɘ-ɾa-tɘʔ (nail)
+1	r	Shiwilu	-la	small and round:CL	e.g. tað̞u-la (star), ɲinɘk-la (tongue),tuʔtɘk-la (nail)
 1	s	PK	*saɾa(ʔ) 	guava	
 1	s	Shawi	saɾa 	guava	
 1	s	Shiwilu	salaʔ 	guava	
-1	t	PK	*siɴnɪɾɘ 	dart	
-1	t	Shawi	ʃinɘɾɘ 	dart	
-1	t	Shiwilu	sɘɴɲilɘk 	dart	
+1	t	PK	*siɴnɪɾɘ 	dart	Example 20d was removed from the dataset because it is a duplicate of example 1t.
+1	t	Shawi	ʃinɘɾɘ 	dart	Example 20d was removed from the dataset because it is a duplicate of example 1t.
+1	t	Shiwilu	sɘɴɲilɘk 	dart	Example 20d was removed from the dataset because it is a duplicate of example 1t.
 1	u	PK	*siɾuʔ 	paucar bird	
 1	u	Shawi	ʃiɾoʔ 	paucar bird	
 1	u	Shiwilu	sɘʎuʔ 	paucar bird	
@@ -68,9 +68,9 @@ set	entry	doculect	value	concept	note
 1	w	PK	*suʔpuɾa 	rapids, waterfall	
 1	w	Shawi	soʔpoɾa ~ sɘʔpoɾa 	rapids, waterfall	
 1	w	Shiwilu	suʔpula 	rapids, waterfall	
-1	x	PK	*suɾuʔ 	choro monkey	
-1	x	Shawi	soɾoʔ 	choro monkey	
-1	x	Shiwilu	suluʔ 	choro monkey	
+1	x	PK	*suɾuʔ 	choro monkey	Example 10ff was removed from the dataset as it is a duplicate of example 1x.
+1	x	Shawi	soɾoʔ 	choro monkey	Example 10ff was removed from the dataset as it is a duplicate of example 1x.
+1	x	Shiwilu	suluʔ 	choro monkey	Example 10ff was removed from the dataset as it is a duplicate of example 1x.
 1	y	PK	*tɪɾu 	sloth	
 1	y	Shawi	tʃiɾo 	sloth	
 1	y	Shiwilu	tʃilu 	sloth	
@@ -80,36 +80,33 @@ set	entry	doculect	value	concept	note
 1	aa	PK	*uɾɪna(ɴ) 	jar for chicha or masato	
 1	aa	Shawi	oɾinaɴ 	jar for chicha or masato	
 1	aa	Shiwilu	uʎina 	jar for chicha or masato	
-1	bb	PK	*waɾatɘʔ 	carachama fish	
-1	bb	Shawi	waɾaʰtɘʔ 	carachama fish	
-1	bb	Shiwilu	walatɘk 	carachama fish	
+1	bb	PK	*waɾatɘʔ 	carachama fish	Example 10hh was removed from the dataset as it is a duplicate of example 1bb.
+1	bb	Shawi	waɾaʰtɘʔ 	carachama fish	Example 10hh was removed from the dataset as it is a duplicate of example 1bb.
+1	bb	Shiwilu	walatɘk 	carachama fish	Example 10hh was removed from the dataset as it is a duplicate of example 1bb.
 1	cc	PK	*waɾɘʔ 	until, up to	
 1	cc	Shawi	waɾɘʔ 	until, up to	
 1	cc	Shiwilu	walɘk 	until, up to	
 2	a	PK	*ɪki(ɾ/l)ala 	cunchi fish	
 2	a	Shawi	ikiana 	cunchi fish	
 2	a	Shiwilu	ikɘʎala 	cunchi fish	
-2	b	PK	*ɪlaɴsiʔ 	bird	
-2	b	Shawi	ina(i)ɴʃi-ɾa ~ inai-ɾa 	bird	
-2	b	Shiwilu	ilaɴsɘˀɾ 	bird	
+2	b	PK	*ɪlaɴsiʔ 	bird	Example 11a, 14o and 24b were removed as they are duplicates of example 2b. Note, however, that in examples 14o and 24b the Shawi form is written as "ina(i)ɴʃi-ɾa ~ inai-ɾa".
+2	b	Shawi	ina(i)ɴʃi-ɾa ~ inai-ɾa 	bird	Example 11a, 14o and 24b were removed as they are duplicates of example 2b. Note, however, that in examples 14o and 24b the Shawi form is written as "ina(i)ɴʃi-ɾa ~ inai-ɾa". The bracketed (i) has been ignored for the purposes of segmentation in the orthography profile because it is unclear what its exact meaning is.
+2	b	Shiwilu	ilaɴsɘˀɾ 	bird	Example 11a, 14o and 24b were removed as they are duplicatesä of example 2b. Note, however, that in examples 14o and 24b the Shawi form is written as "ina(i)ɴʃi-ɾa ~ inai-ɾa".
 2	c	PK	*ɪla-ɾɪɴ 	rope	
 2	c	Shawi	ina-ɾiɴ 	rope	
 2	c	Shiwilu	ila-ʎiɴ 	rope	
 2	d	PK	*jalu- 	to cut meat	
 2	d	Shawi	jano- 	to cut meat	
 2	d	Shiwilu	ð̞alu- 	to cut meat	
-2	e	PK	*juliʔ 	pus	
-2	e	Shawi	joniʔ 	pus	
-2	e	Shiwilu	ð̞ulɘˀɾ-juʔ 	pus	
+2	e	PK	*juliʔ 	pus	Example 10o was removed from the dataset as it is a duplicate of example 2e. Note, however, that in example 10o the Shawi form is written as "juniʔ". Based on the vowel inventory of Shawi being described as consisting of /a ɘ i o/ (p. 2), example 10o was removed and example 2e was kept.
+2	e	Shawi	joniʔ 	pus	 Example 10o was removed from the dataset as it is a duplicate of example 2e. Note, however, that in example 10o the Shawi form is written as "juniʔ". Based on the vowel inventory of Shawi being described as consisting of /a ɘ i o/ (p. 2), example 10o was removed and example 2e was kept.
+2	e	Shiwilu	ð̞ulɘˀɾ-juʔ 	pus	Example 10o was removed from the dataset as it is a duplicate of example 2e. Note, however, that in example 10o the Shawi form is written as "juniʔ". Based on the vowel inventory of Shawi being described as consisting of /a ɘ i o/ (p. 2), example 10o was removed and example 2e was kept.
 2	g	PK	*kalujuʔ ~ *-ɴ 	maparate, bocón fish	
 2	g	Shawi	kanojoʔ 	maparate, bocón fish	
 2	g	Shiwilu	kaluð̞uɴ 	maparate, bocón fish	
 2	h	PK	*kalunɪʔ 	ocelot	
 2	h	Shawi	kanoniʔ 	ocelot	
 2	h	Shiwilu	kaluɲiʔ 	ocelot	
-2	i	PK	*kaluʔtuɾuʔ 	locrero bird, greater ani	
-2	i	Shawi	kanoʔtoɾoʔ 	locrero bird, greater ani	
-2	i	Shiwilu	kaluʔtuluʔ 	locrero bird, greater ani	
 2	j	PK	*kɪlɘɴ 	añas-súa fish	
 2	j	Shawi	kɘnɘɴ 	añas-súa fish	
 2	j	Shiwilu	kilɘɴ 	añas-súa fish	
@@ -122,45 +119,36 @@ set	entry	doculect	value	concept	note
 2	m	PK	*lɘluɴ 	girl menstruating for the first time	
 2	m	Shawi	nɘnoɴ 	girl menstruating for the first time	
 2	m	Shiwilu	lɘkluɴ 	girl menstruating for the first time	
-2	n	PK	*-lɪɴe.g. *lu-lɪɴ 	vine:CL tamshi vine	
-2	n	Shawi	-niɴ,e.g. no-niɴ 	vine:CL tamshi vine	
-2	n	Shiwilu	-ʎiɴe.g. lu-ʎiɴ 	vine:CL tamshi vine	
-2	o	PK	*-luʔe.g. *ja-luʔ,*ji-luʔ-tɘʔ 	earth:CL ashes sand	
-2	o	Shawi	-noʔe.g. ja-noʔ,i-no-tɘʔ 	earth:CL ashes sand	
-2	o	Shiwilu	-luʔe.g. pɘɴ-ð̞a-luʔ,ð̞ɘ-ʎuʔ-tɘk 	earth:CL ashes sand	
-2	p	PK	*muluʔ 	eaf (Sha), tree top (Shi)	
-2	p	Shawi	monoʔ 	eaf (Sha), tree top (Shi)	
-2	p	Shiwilu	muluʔ 	eaf (Sha), tree top (Shi)	
-2	q	PK	*palɪʔ 	leaf for the roof	
-2	q	Shawi	pani-ɾa 	leaf for the roof	
-2	q	Shiwilu	paʎiʔ- 	leaf for the roof	
+2	n	PK	*-lɪɴ 	vine:CL	e.g. *lu-lɪɴ (tamshi vine)
+2	n	Shawi	-niɴ 	vine:CL	e.g. no-niɴ (tamshi vine)
+2	n	Shiwilu	-ʎiɴ 	vine:CL	e.g. lu-ʎiɴ (tamshi vine)
+2	o	PK	*-luʔ 	earth:CL	e.g. *ja-luʔ,*ji-luʔ-tɘʔ (ashes sand)
+2	o	Shawi	-noʔ 	earth:CL	e.g. ja-noʔ,i-no-tɘʔ (ashes sand)
+2	o	Shiwilu	-luʔ 	earth:CL	e.g. pɘɴ-ð̞a-luʔ,ð̞ɘ-ʎuʔ-tɘk (ashes sand)
+2	p	PK	*muluʔ 	leaf (Sha), tree top (Shi)	Example 10x was removed from the dataset as it is a duplicate of example 2p.
+2	p	Shawi	monoʔ 	leaf (Sha), tree top (Shi)	Example 10x was removed from the dataset as it is a duplicate of example 2p.
+2	p	Shiwilu	muluʔ 	leaf (Sha), tree top (Shi)	Example 10x was removed from the dataset as it is a duplicate of example 2p.
 2	r	PK	*pɪlɘɴ- 	to advise	
 2	r	Shawi	pɘnɘɴ- 	to advise	
 2	r	Shiwilu	pilɘɴ- 	to advise	
 2	s	PK	*sɪlu 	yupana cane	
 2	s	Shawi	sɘno 	yupana cane	
 2	s	Shiwilu	silu 	yupana cane	
-	t	PK	*sɪlupa(ʔ) 	bee sp.	
-	t	Shawi	sɘnopaʔ ~ -waʔ 	bee sp.	
-	t	Shiwilu	silupa 	bee sp.	
 2	u	PK	*sulɪmaɴ 	poison	
 2	u	Shawi	sonimaɴ 	poison	
 2	u	Shiwilu	suʎimaɴ 	poison	
 2	v	PK	*tula 	leg, thigh	
 2	v	Shawi	tona 	leg, thigh	
 2	v	Shiwilu	tula 	leg, thigh	
-2	w	PK	*wɘla-jɘʔ 	blood	
-2	w	Shawi	wɘna-iʔ 	blood	
-2	w	Shiwilu	ukla-ð̞ɘk 	blood	
-2	x	PK	*wɘlu- 	to chew, to gnaw	
-2	x	Shawi	wɘno- 	to chew, to gnaw	
-2	x	Shiwilu	uklu- 	to chew, to gnaw	
+2	x	PK	*wɘlu- 	to gnaw	to chew, to gnaw
+2	x	Shawi	wɘno- 	to gnaw	to chew, to gnaw
+2	x	Shiwilu	uklu- 	to gnaw	to chew, to gnaw
 2	y	PK	*wɪlɘ 	curhuinsi ant	
 2	y	Shawi	wɘnɘ 	curhuinsi ant	
 2	y	Shiwilu	wilɘk 	curhuinsi ant	
-6	a	PK	*sɘʔ.u 	diced manioc	
-6	a	Shawi	soʔ.o 	diced manioc	
-6	a	Shiwilu	sɘk.ku- 	diced manioc	
+6	a	PK	*sɘʔ.u 	diced manioc	Example 31gg was removed from the dataset as it is a duplicate of example 6a. Note, however, that the Shiwilu form in 13gg is written as "sɘkku".
+6	a	Shawi	soʔ.o 	diced manioc	Example 31gg was removed from the dataset as it is a duplicate of example 6a. Note, however, that the Shiwilu form in 13gg is written as "sɘkku".
+6	a	Shiwilu	sɘk.ku- 	diced manioc	Example 31gg was removed from the dataset as it is a duplicate of example 6a. Note, however, that the Shiwilu form in 13gg is written as "sɘkku".
 6	b	PK	*tɘʔ.aʔ- 	to run, to flow	
 6	b	Shawi	taʔ.a- 	to run, to flow	
 6	b	Shiwilu	tɘk.kaʔ- 	to run, to flow	
@@ -203,9 +191,9 @@ set	entry	doculect	value	concept	note
 9	c	PK	*aˀpɘ(ʔ)-	to burn	
 9	c	Shawi	aʔpɘ- 	to burn	
 9	c	Shiwilu	apɘk- 	to burn	
-9	d	PK	*ɪˀsa 	curassow	
-9	d	Shawi	iʔsa 	curassow	
-9	d	Shiwilu	iʃa 	curassow	
+9	d	PK	*ɪˀsa 	curassow	Example 33f was removed from the dataset as it is a duplicate of example 9f.
+9	d	Shawi	iʔsa 	curassow	Example 33f was removed from the dataset as it is a duplicate of example 9f.
+9	d	Shiwilu	iʃa 	curassow	Example 33f was removed from the dataset as it is a duplicate of example 9f.
 9	e	PK	*jaˀka(-ɾa) 	muena tree	
 9	e	Shawi	jaʔka-ɾa 	muena tree	
 9	e	Shiwilu	ð̞aka(-la) 	muena tree	
@@ -227,24 +215,24 @@ set	entry	doculect	value	concept	note
 9	l	PK	*naˀku- 	to pass by	
 9	l	Shawi	naʔko 	to pass by	
 9	l	Shiwilu	naku- 	to pass by	
-9	m	PK	*naˀti 	bushmaster	
-9	m	Shawi	naʔʃi 	bushmaster	
-9	m	Shiwilu	natɘɾ 	bushmaster	
+9	m	PK	*naˀti 	bushmaster	Example 23a was removed from the dataset as it is a duplicate of example 9m.
+9	m	Shawi	naʔʃi 	bushmaster	Example 23a was removed from the dataset as it is a duplicate of example 9m.
+9	m	Shiwilu	natɘɾ 	bushmaster	Example 23a was removed from the dataset as it is a duplicate of example 9m.
 9	n	PK	*nɪˀnɪʔ 	jaguar	
 9	n	Shawi	niʔniʔ 	jaguar	
 9	n	Shiwilu	ɲiɲiʔ 	jaguar	‘dog’
-9	o	PK	*paˀpiʔ- 	to bury	
-9	o	Shawi	paʔpi- 	to bury	
-9	o	Shiwilu	papɘˀɾ-	to bury	
-9	p	PK	*pɪˀti 	thread	
-9	p	Shawi	piʔʃi 	thread	
-9	p	Shiwilu	pitɘɾ- 	thread	
+9	o	PK	*paˀpiʔ- 	to bury	Example 11i was removed from the dataset as it is a duplicate of example 9o.
+9	o	Shawi	paʔpi- 	to bury	Example 11i was removed from the dataset as it is a duplicate of example 9o.
+9	o	Shiwilu	papɘˀɾ-	to bury	Example 11i was removed from the dataset as it is a duplicate of example 9o.
+9	p	PK	*pɪˀti 	thread	Example 21g was removed from the dataset as it is a duplicate of example 9v. Note, however, that the Shiwilu form is written as "pitɘɾ" in 21g.
+9	p	Shawi	piʔʃi 	thread	Example 21g was removed from the dataset as it is a duplicate of example 9v. Note, however, that the Shiwilu form is written as "pitɘɾ" in 21g.
+9	p	Shiwilu	pitɘɾ- 	thread	Example 21g was removed from the dataset as it is a duplicate of example 9v. Note, however, that the Shiwilu form is written as "pitɘɾ" in 21g.
 9	q	PK	*puˀpuɴ 	pucahuicsa fish	
 9	q	Shawi	poʔpoɴ 	pucahuicsa fish	
 9	q	Shiwilu	pupuɴ 	pucahuicsa fish	
-9	r	PK	*siˀwɪ(ɴ) 	macana fish	
-9	r	Shawi	ʃiʔwi-ɾoʔ 	macana fish	
-9	r	Shiwilu	sɘɾwiɴ 	macana fish	
+9	r	PK	*siˀwɪ(ɴ) 	macana fish	 Example 14mm and 24n were removed from the dataset as they are duplicates of example 9r.
+9	r	Shawi	ʃiʔwi-ɾoʔ 	macana fish	Example 14mm and 24n were removed from the dataset as they are duplicates of example 9r.
+9	r	Shiwilu	sɘɾwiɴ 	macana fish	Example 14mm and 24n were removed from the dataset as they are duplicates of example 9r.
 9	s	PK	*suˀja 	husband	
 9	s	Shawi	soʔja 	husband	
 9	s	Shiwilu	suð̞a 	husband	
@@ -254,18 +242,15 @@ set	entry	doculect	value	concept	note
 9	u	PK	*taˀla 	hammock	
 9	u	Shawi	taʔna	hammock	
 9	u	Shiwilu	tala 	hammock	
-9	v	PK	*tɪˀtiʔ 	maize	
-9	v	Shawi	ʃiʔʃiʔ	maize	
-9	v	Shiwilu	tʃitɘ(ˀ)ɾ 	maize	
 9	w	PK	*tuˀja 	maquisapa monkey, spider monkey	
 9	w	Shawi	toʔja 	maquisapa monkey, spider monkey	
 9	w	Shiwilu	tuð̞a 	maquisapa monkey, spider monkey	
 9	x	PK	*tuˀsiɴ 	mite, chiggers, tick sp.	
 9	x	Shawi	toʔʃiɴ 	mite, chiggers, tick sp.	
 9	x	Shiwilu	tusɘɴ 	mite, chiggers, tick sp.	
-9	y	PK	*waˀsɘʔ 	carachamita fish	
-9	y	Shawi	waʔsɘʔ 	carachamita fish	
-9	y	Shiwilu	wasɘk 	carachamita fish	
+9	y	PK	*waˀsɘʔ 	carachamita fish	Examples 10jj and 31ii were removed from the dataset as they are duplicates of example 9y.
+9	y	Shawi	waʔsɘʔ 	carachamita fish	Examples 10jj and 31ii were removed from the dataset as they are duplicates of example 9y.
+9	y	Shiwilu	wasɘk 	carachamita fish	Examples 10jj and 31ii were removed from the dataset as they are duplicates of example 9y.
 9	z	PK	*wɪˀla 	child	
 9	z	Shawi	wiʔna-	child	
 9	z	Shiwilu	wila 	child	
@@ -293,25 +278,24 @@ set	entry	doculect	value	concept	note
 10	h	PK	*-tɘʔ 	cover:CL	
 10	h	Shawi	-tɘʔ 	cover:CL	
 10	h	Shiwilu	-tɘk 	cover:CL	
-10	i	PK	*wɘʔ- 	to come	
-10	i	Shawi	wɘʔ- 	to come	
-10	i	Shiwilu	uk-~ wɘk- 	to come	
+10	i	PK	*wɘʔ- 	to come	Example 31jj was removed from the dataset as it is a duplicate of example 10i. Note, however, that the Shiwilu form is written as "wɘk-" in 31jj.
+10	i	Shawi	wɘʔ- 	to come	Example 31jj was removed from the dataset as it is a duplicate of example 10i. Note, however, that the Shiwilu form is written as "wɘk-" in 31jj.
+10	i	Shiwilu	uk-~ wɘk- 	to come	Example 31jj was removed from the dataset as it is a duplicate of example 10i. Note, however, that the Shiwilu form is written as "wɘk-" in 31jj.
 10	l	PK	*apiʔ(-) 	wound; to injure oneself (Sha); to spoil, to rot	
 10	l	Shawi	apiʔ;api- 	wound; to injure oneself (Sha); to spoil, to rot	
 10	l	Shiwilu	apɘˀɾ- 	wound; to injure oneself (Sha); to spoil, to rot	
 10	m	PK	*itɘʔ 	agouti	
 10	m	Shawi	iʰtɘʔ 	agouti	
 10	m	Shiwilu	ɘttʃɘk 	agouti	
-10	n	PK	*ɪsɘʔ 	bat	
-10	n	Shawi	isɘʔ 	bat	
-10	n	Shiwilu	iʃɘk 	bat	
-10	o	Shawi	juniʔ 	pus	
+10	n	PK	*ɪsɘʔ 	bat	Example 21aa was removed from the dataset as it is a duplicate of example 10n.
+10	n	Shawi	isɘʔ 	bat	Example 21aa was removed from the dataset as it is a duplicate of example 10n.
+10	n	Shiwilu	iʃɘk 	bat	Example 21aa was removed from the dataset as it is a duplicate of example 10n.
 10	p	PK	*kajuʔ 	egg	
 10	p	Shawi	kajoʔ 	egg	
 10	p	Shiwilu	kað̞uʔ 	egg	
-10	q	PK	*kukuʔ	oropendola, paucarbird	
-10	q	Shawi	koʰkoʔ 	oropendola, paucarbird	
-10	q	Shiwilu	kukuʔ 	oropendola, paucarbird	
+10	q	PK	*kukuʔ	oropendola, paucar bird	Example 30d was removed from the dataset as it is a duplicate of example 10q.
+10	q	Shawi	koʰkoʔ 	oropendola, paucar bird	Example 30d was removed from the dataset as it is a duplicate of example 10q.
+10	q	Shiwilu	kukuʔ 	oropendola, paucar bird	Example 30d was removed from the dataset as it is a duplicate of example 10q.
 10	s	PK	*kuwiʔ 	worm	
 10	s	Shawi	kowiʔ 	worm	
 10	s	Shiwilu	kuwɘ(ˀ)ɾ 	worm	
@@ -324,9 +308,6 @@ set	entry	doculect	value	concept	note
 10	v	PK	*luʔpaʔ 	earth	
 10	v	Shawi	noʔpaʔ 	earth	
 10	v	Shiwilu	luʔpaʔ 	earth	
-10	x	PK	*muluʔ 	leaf (Sha), tree top (Shi)	
-10	x	Shawi	monoʔ 	leaf (Sha), tree top (Shi)	
-10	x	Shiwilu	muluʔ 	leaf (Sha), tree top (Shi)	
 10	y	PK	*mutuʔ 	head	
 10	y	Shawi	moʰtoʔ 	head	
 10	y	Shiwilu	mutuʔ 	head	
@@ -336,39 +317,27 @@ set	entry	doculect	value	concept	note
 10	bb	PK	*pɪjɘʔ 	house	
 10	bb	Shawi	pɘiʔ 	house	
 10	bb	Shiwilu	pið̞ɘk 	house	
-10	cc	PK	*sasaʔ 	martín-pescadorbird	
-10	cc	Shawi	sasaʔ 	martín-pescadorbird	
-10	cc	Shiwilu	sasaʔ	martín-pescadorbird	
+10	cc	PK	*sasaʔ 	martín-pescador bird	
+10	cc	Shawi	sasaʔ 	martín-pescador bird	
+10	cc	Shiwilu	sasaʔ	martín-pescador bird	
 10	dd	PK	*sɪɴkaɴtɘʔ 	hoatzin bird	
 10	dd	Shawi	sɘɴkaɴtɘʔ 	hoatzin bird	
 10	dd	Shiwilu	siɴkaɴtɘk 	hoatzin bird	
 10	ee	PK	*supuʔ 	vulture	
 10	ee	Shawi	soʰpoʔ ~ sɘʰpoʔ 	vulture	
 10	ee	Shiwilu	supuʔ 	vulture	
-10	ff	Shiwilu	suluʔ	choro monkey	
-10	gg	Shawi	ʃiʔʃiʔ 	maize	
-10	gg	Shiwilu	tʃitɘ(ˀ)ɾ	maize	
-10	hh	PK	*waɾatɘʔ 	carachamafish	
-10	hh	Shawi	waɾaʰtɘʔ 	carachamafish	
-10	hh	Shiwilu	walatɘk 	carachamafish	
-10	jj	PK	*waˀsɘʔ 	carachamitafish	
-10	jj	Shawi	waʔsɘʔ 	carachamitafish	
-10	jj	Shiwilu	wasɘk 	carachamitafish	
-10	kk	PK	*aʔlanaɴ 	huasaco fish	
-10	kk	Shawi	aʔnanaɴ 	huasaco fish	
-10	kk	Shiwilu	aʔlana(ɴ) 	huasaco fish	
 10	ll	PK	*aʔli- 	to roast (manioc, plantain)	
-10	ll	Shawi	aʔni-	to roast (manioc, plantain)	
-10	ll	Shiwilu	aʔlɘɾ-	to roast (manioc, plantain)	
-10	mm	PK	*iʔla 	trace	
-10	mm	Shawi	iʔna-	trace	
-10	mm	Shiwilu	ɘˀɾʎa 	trace	
+10	ll	Shawi	aʔni- 	to roast (manioc, plantain)	
+10	ll	Shiwilu	aʔlɘɾ- 	to roast (manioc, plantain)	
+10	mm	PK	*iʔla 	trace	Example 14j was removed as it is a duplicate of example 10mm.
+10	mm	Shawi	iʔna- 	trace	Example 14j was removed as it is a duplicate of example 10mm.
+10	mm	Shiwilu	ɘˀɾʎa 	trace	Example 14j was removed as it is a duplicate of example 10mm.
 10	nn	PK	*iʔtɘ(ʔ)- 	termite	
 10	nn	Shawi	iʔtɘ-ɾɘʔ 	termite	
 10	nn	Shiwilu	ɘttʃɘk-la 	termite	
-10	oo	PK	*iʔwa 	recently, late, afternoon	
-10	oo	Shawi	iʔwa 	recently, late, afternoon	
-10	oo	Shiwilu	ɘˀɾwa 	recently, late, afternoon	
+10	oo	PK	*iʔwa 	recently, late, afternoon	Example 14l was removed from the dataset as it is a duplicate of example 10oo. Note that the concept in 14l is written as "recently/late, afternoon". 
+10	oo	Shawi	iʔwa 	recently, late, afternoon	Example 14l was removed from the dataset as it is a duplicate of example 10oo. Note that the concept in 14l is written as "recently/late, afternoon". 
+10	oo	Shiwilu	ɘˀɾwa 	recently, late, afternoon	Example 14l was removed from the dataset as it is a duplicate of example 10oo. Note that the concept in 14l is written as "recently/late, afternoon". 
 10	pp	PK	*iʔwa-ju 	evening star	
 10	pp	Shawi	iʔwa-jo 	evening star	
 10	pp	Shiwilu	ɘˀɾwa-ð̞u 	evening star	
@@ -387,9 +356,9 @@ set	entry	doculect	value	concept	note
 10	uu	PK	*saʔpuʔ 	lung	
 10	uu	Shawi	saʔpo-ɾoʔ 	lung	
 10	uu	Shiwilu	saʔpuʔ 	lung	
-10	vv	PK	*sɘʔ-muʔ- 	to dilute	
-10	vv	Shawi	sɘʔ-mo	to dilute	
-10	vv	Shiwilu	sɘk-muʔ- 	to dilute	
+10	vv	PK	*sɘʔ-muʔ- 	to dilute	Example 11l was removed as it is a duplicate of example 10vv.
+10	vv	Shawi	sɘʔ-mo-	to dilute	Example 11l was removed as it is a duplicate of example 10vv.
+10	vv	Shiwilu	sɘk-muʔ- 	to dilute	Example 11l was removed as it is a duplicate of example 10vv.
 10	ww	PK	*sɪʔka 	tingotero/isulilla ant	
 10	ww	Shawi	sɘʔka- 	tingotero/isulilla ant	‘to sting’
 10	ww	Shiwilu	siʔka- 	tingotero/isulilla ant	
@@ -399,18 +368,9 @@ set	entry	doculect	value	concept	note
 10	zz	PK	*suʔtuɴ 	island	
 10	zz	Shawi	soʔtoɴ 	island	
 10	zz	Shiwilu	suʔtuɴ-ð̞ɘk 	island	‘lagoon’
-10	aaa	PK	*tɪʔlɘ(ʔ) 	armadillo	
-10	aaa	Shawi	tɘʔnɘ-ʃaʔwɘ 	armadillo	
-10	aaa	Shiwilu	tʃiʔlɘk 	armadillo	
 10	bbb	PK	*tɪʔ-tɘʔ 	chest	
 10	bbb	Shawi	tɘʔ-tɘʔ 	chest	‘breast (of birds)’
 10	bbb	Shiwilu	tʃiʔ-tɘk 	chest	
-10	ccc	PK	*tuʔtɘ(ʔ)-ɾa 	nail	
-10	ccc	Shawi	toʔto-ɾa-tɘʔ ~ toʔtɘ- 	nail	
-10	ccc	Shiwilu	tuʔtɘk-la 	nail	
-10	ddd	PK	*tuʔtuʔ-pɪ 	knee	
-10	ddd	Shawi	toʔto-wi-tɘʔ ~ -pi- 	knee	
-10	ddd	Shiwilu	tuʔtuʔ-pi 	knee	
 10	eee	PK	*tuʔwaɴ 	cunchi, tullu umafish	
 10	eee	Shawi	toʔwaɴ 	cunchi, tullu umafish	
 10	eee	Shiwilu	tuʔwaɴ 	cunchi, tullu umafish	
@@ -423,46 +383,36 @@ set	entry	doculect	value	concept	note
 10	hhh	PK	*waʔna 	metal	
 10	hhh	Shawi	waʔna 	metal	
 10	hhh	Shiwilu	waʔna 	metal	
-11	a	PK	*ɪlaɴsiʔ 	bird	
-11	a	Shawi	ina(i)ɴʃi-ɾa ~ inai-ɾa 	bird	
-11	a	Shiwilu	ilaɴsɘˀɾ 	bird	
-11	b	PK	*ɪluʔ- 	to suck (Sha), to lick (Shi)	
-11	b	Shawi	iɾu- 	to suck (Sha), to lick (Shi)	
-11	b	Shiwilu	iluʔ- 	to suck (Sha), to lick (Shi)	
-11	c	PK	*ɪɴjaʔ- 	to urinate	
-11	c	Shawi	ija- 	to urinate	
-11	c	Shiwilu	iɴjaʔ- 	to urinate	
-11	d	PK	*ji-luʔ-tɘʔ 	sand	
-11	d	Shawi	i-no-tɘʔ 	sand	
-11	d	Shiwilu	ð̞ɘ-ʎuʔ-tɘk	sand	
+11	c	PK	*ɪɴjaʔ- 	to urinate	Example 33d was removed from the dataset as it is a duplicate of example 11c.
+11	c	Shawi	ija- 	to urinate	Example 33d was removed from the dataset as it is a duplicate of example 11c.
+11	c	Shiwilu	iɴjaʔ- 	to urinate	Example 33d was removed from the dataset as it is a duplicate of example 11c.
+11	d	PK	*ji-luʔ-tɘʔ 	sand	Example 25i was removed from the dataset as it is a duplicate of example 11d.
+11	d	Shawi	i-no-tɘʔ 	sand	Example 25i was removed from the dataset as it is a duplicate of example 11d.
+11	d	Shiwilu	ð̞ɘ-ʎuʔ-tɘk	sand	Example 25i was removed from the dataset as it is a duplicate of example 11d.
 11	e	PK	*jɪʔsiʔ- 	to burn (transitive)	
 11	e	Shawi	iʔʃi- 	to burn (transitive)	‘to dip into salt’
 11	e	Shiwilu	ð̞iʔsɘˀɾ- 	to burn (transitive)	
 11	f	PK	*kapiʔ- 	to meet	
 11	f	Shawi	naʰ-kapi- 	to meet	
 11	f	Shiwilu	kapɘˀɾ- 	to meet	
-11	g	PK	*naniʔ- 	to end	
-11	g	Shawi	nani- 	to end	
-11	g	Shiwilu	nanɘˀɾ- 	to end	‘to forget, to flee’
-11	h	PK	*pasiʔ- 	to pour	
-11	h	Shawi	paʃi- 	to pour	‘to perfume’
-11	h	Shiwilu	pasɘˀɾ- 	to pour	
-11	i	Shiwilu	papɘˀɾ- 	to bury	
+11	g	PK	*naniʔ- 	to end	Example 14aa was removed as it is a duplicate of example 11g.
+11	g	Shawi	nani- 	to end	Example 14aa was removed as it is a duplicate of example 11g.
+11	g	Shiwilu	nanɘˀɾ- 	to end	‘to forget, to flee’, Example 14aa was removed as it is a duplicate of example 11g.
 11	j	PK	*pɪtaʔ- 	to push	
 11	j	Shawi	piʰta-	to push	
 11	j	Shiwilu	pitaʔ-ka- 	to push	
 11	k	PK	*sakaʔ-t- 	to work	
 11	k	Shawi	saka-t- 	to work	
 11	k	Shiwilu	sakaʔ-t- 	to work	
-11	l	PK	*sɘʔ-muʔ	to dilute	
-11	l	Shawi	sɘʔ-mo- 	to dilute	
 11	m	PK	*takiʔ- 	to die out	
 11	m	Shawi	taʰki- 	to die out	
 11	m	Shiwilu	takɘˀɾ- 	to die out	
 11	n	PK	*tɘʔaʔ- 	to run, to flow	
 11	n	Shawi	taʔa- 	to run, to flow	
 11	n	Shiwilu	tɘkkaʔ- 	to run, to flow	
-11	o	Shawi	toʔto-wi-tɘʔ toʔtopi-tɘʔ 	knee	
+11	o	PK	*tuʔtuʔ-pɪ 	knee	Example 10ddd was removed from the data base as it is a duplicate of example 11o. Since the Shawi form was written more clearly in 11o, it was decided to keep this form. The Shawi form in 10ddd was written as toʔto-wi-tɘʔ ~ -pi-.
+11	o	Shawi	toʔto-wi-tɘʔ ~ toʔtopi-tɘʔ 	knee	Example 10ddd was removed from the data base as it is a duplicate of example 11o. Since the Shawi form was written more clearly in 11o, it was decided to keep this form. The Shawi form in 10ddd was written as toʔto-wi-tɘʔ ~ -pi-.
+11	o	Shiwilu	tuʔtuʔ-pi 	knee	Example 10ddd was removed from the data base as it is a duplicate of example 11o. Since the Shawi form was written more clearly in 11o, it was decided to keep this form. The Shawi form in 10ddd was written as toʔto-wi-tɘʔ ~ -pi-.
 12	a	PK	*aˀpɘ(ʔ)- 	to burn	
 12	a	Shawi	aʔpɘ- 	to burn	
 12	a	Shiwilu	apɘk- 	to burn	
@@ -490,17 +440,18 @@ set	entry	doculect	value	concept	note
 12	i	PK	*pɪʔpɘ(ʔ)- 	to carry	
 12	i	Shawi	pɘʔpɘ- 	to carry	
 12	i	Shiwilu	piʔpɘk- 	to carry	
-12	j	Shawi	tɘʔnɘʔ-ʃawɘ 	armadillo	
+12	j	PK	*tɪʔlɘ(ʔ) 	armadillo	
+12	j	Shawi	tɘʔnɘʔ-ʃawɘ 	armadillo	Example 10aaa was removed as it is a duplicate of example 12j. However, note that the ʔ in the Shawi form is missing in 10aaa ("tɘʔnɘ-ʃaʔwɘ").
+12	j	Shiwilu	tʃiʔlɘk 	armadillo	
 12	k	PK	*wɪtɘ(ʔ)- 	to sweep	
 12	k	Shawi	wiʰtɘ- 	to sweep	
 12	k	Shiwilu	witɘk-	to sweep	
-13	a	Shiwilu	aʔlanaɴ 	huasaco fish	
-13	b	PK	*aɴpiɴnɪaɴ 	huaman samana	
-13	b	Shawi	aɴpiniaɴ 	huaman samana	
-13	b	Shiwilu	aɴpɘɴɲaɴ 	huaman samana	
-13	d	PK	*ɪɘɴsuɴ- 	to kneel	
-13	d	Shawi	isoɴ- 	to kneel	
-13	d	Shiwilu	jɘɴsuɴ- 	to kneel	
+13	a	PK	*aʔlanaɴ 	huasaco fish	Example 10kk was removed as it is a duplicate of example 13a. However, note  that the ɴ in the Shiwilu form is marked as optional in 10kk ("aʔlana(ɴ)").
+13	a	Shawi	aʔnanaɴ 	huasaco fish	Example 10kk was removed as it is a duplicate of example 13a. However, note  that the ɴ in the Shiwilu form is marked as optional in 10kk ("aʔlana(ɴ)").
+13	a	Shiwilu	aʔlanaɴ 	huasaco fish	Example 10kk was removed as it is a duplicate of example 13a. However, note  that the ɴ in the Shiwilu form is marked as optional in 10kk ("aʔlana(ɴ)").
+13	d	PK	*ɪ(i)ɘɴsuɴ- 	to kneel	Example 31qq was removed as it is a duplicate of example 13d. Note however that the Proto-Kawapana form is written as "*iɘɴsuɴ-" in 31qq. In personal communication with the author, he notes that 13d and 31qq are alternative reconstructions and that it is unclear which should be preferred.
+13	d	Shawi	isoɴ- 	to kneel	Example 31qq was removed as it is a duplicate of example 13d. Note however that the Proto-Kawapana form is written as "*iɘɴsuɴ-" in 31qq. In personal communication with the author, he notes that 13d and 31qq are alternative reconstructions and that it is unclear which should be preferred.
+13	d	Shiwilu	jɘɴsuɴ- 	to kneel	Example 31qq was removed as it is a duplicate of example 13d. Note however that the Proto-Kawapana form is written as "*iɘɴsuɴ-" in 31qq. In personal communication with the author, he notes that 13d and 31qq are alternative reconstructions and that it is unclear which should be preferred.
 13	f	PK	*jaɴku 	flower	
 13	f	Shawi	jaɴko 	flower	
 13	f	Shiwilu	ð̞aɴku 	flower	
@@ -537,15 +488,15 @@ set	entry	doculect	value	concept	note
 13	q	PK	*nuɴ 	canoe	
 13	q	Shawi	noɴ 	canoe	
 13	q	Shiwilu	nuɴ	canoe	
-13	r	PK	*paɴpɘ 	irapai palm	
-13	r	Shawi	paɴpɘ 	irapai palm	
-13	r	Shiwilu	paɴpɘk-lu 	irapai palm	
+13	r	PK	*paɴpɘ 	irapai palm	Example 31n was removed as it is a duplicate of example 13r. Note, however, that the Shiwilu form in 31n is written as "paɴpɘk".
+13	r	Shawi	paɴpɘ 	irapai palm	Example 31n was removed as it is a duplicate of example 13r. Note, however, that the Shiwilu form in 31n is written as "paɴpɘk".
+13	r	Shiwilu	paɴpɘk-lu 	irapai palm	Example 31n was removed as it is a duplicate of example 13r. Note, however, that the Shiwilu form in 31n is written as "paɴpɘk".
 13	t	PK	*pɘɴ 	fire	
 13	t	Shawi	pɘɴ 	fire	
 13	t	Shiwilu	pɘɴ 	fire	
-13	u	PK	*pɘɴ- 	to fly	
-13	u	Shawi	pɘɴ- 	to fly	
-13	u	Shiwilu	pɘɴ	to fly	
+13	u	PK	*pɘɴ- 	to fly	Example 31ll was removed from the dataset as it is a duplicate of example 13u.
+13	u	Shawi	pɘɴ- 	to fly	Example 31ll was removed from the dataset as it is a duplicate of example 13u.
+13	u	Shiwilu	pɘɴ- 	to fly	Example 31ll was removed from the dataset as it is a duplicate of example 13u.
 13	v	PK	*-ɾɪɴ,*-lɪɴ 	vine:CL	
 13	v	Shawi	-ɾiɴ,-niɴ 	vine:CL	
 13	v	Shiwilu	-ʎiɴ 	vine:CL	
@@ -558,15 +509,15 @@ set	entry	doculect	value	concept	note
 13	y	PK	*taɴku 	platanillo	
 13	y	Shawi	taɴko 	platanillo	
 13	y	Shiwilu	taɴku 	platanillo	‘banana’
-13	z	PK	*tɪmɘɴ 	louse	
-13	z	Shawi	tɘmɘɴ 	louse	
-13	z	Shiwilu	tʃimɘɴ 	louse	
+13	z	PK	*tɪmɘɴ 	louse	Example 31nn was removed from the dataset as it is a duplicate of example 13z. Note, however, that the Proto-Kwapana form is written as "*timɘɴ" in example 31nn. Based on the reconstruction corresponces given in table 7 on page 13, example 13z was kept.
+13	z	Shawi	tɘmɘɴ 	louse	Example 31nn was removed from the dataset as it is a duplicate of example 13z. Note, however, that the Proto-Kwapana form is written as "*timɘɴ" in example 31nn. Based on the reconstruction corresponces given in table 7 on page 13, example 13z was kept.
+13	z	Shiwilu	tʃimɘɴ 	louse	Example 31nn was removed from the dataset as it is a duplicate of example 13z. Note, however, that the Proto-Kwapana form is written as "*timɘɴ" in example 31nn. Based on the reconstruction corresponces given in table 7 on page 13, example 13z was kept.
 13	aa	PK	*tɪmɪɴ- 	to die	
 13	aa	Shawi	tʃimiɴ- 	to die	
 13	aa	Shiwilu	tʃimiɴ- 	to die	
-13	bb	PK	*tɪɴpiɴ-naɴ /*-nam- 	river mouth	
-13	bb	Shawi	tʃiɴpinam-ɘɴ 	river mouth	
-13	bb	Shiwilu	tʃiɴpɘɴɲaɴ 	river mouth	
+13	bb	PK	*tɪɴpiɴ-naɴ /*-nam- 	river mouth	 Examples 14tt and 28f were removed as they are duplicates of example 13bb. Note however that the Proto-Kawapana form is written as "*tɪɴpinaɴ / *-nam-" in 14tt and as "*tɪɴpɪnaɴ / *tɪɴpɪnam-" in 28f. Based on the reconstruction correspondences given in table 7 on page 13 (excluding example 28f) and on personal communication with the author (excluding 14tt), example 13bb was kept.
+13	bb	Shawi	tʃiɴpinam-ɘɴ 	river mouth	 Examples 14tt and 28f were removed as they are duplicates of example 13bb. Note however that the Proto-Kawapana form is written as "*tɪɴpinaɴ / *-nam-" in 14tt and as "*tɪɴpɪnaɴ / *tɪɴpɪnam-" in 28f. Based on the reconstruction correspondences given in table 7 on page 13 (excluding example 28f) and on personal communication with the author (excluding 14tt), example 13bb was kept.
+13	bb	Shiwilu	tʃiɴpɘɴɲaɴ 	river mouth	 Examples 14tt and 28f were removed as they are duplicates of example 13bb. Note however that the Proto-Kawapana form is written as "*tɪɴpinaɴ / *-nam-" in 14tt and as "*tɪɴpɪnaɴ / *tɪɴpɪnam-" in 28f. Based on the reconstruction correspondences given in table 7 on page 13 (excluding example 28f) and on personal communication with the author (excluding 14tt), example 13bb was kept.
 13	cc	PK	*tukuɴ 	tocón monkey	
 13	cc	Shawi	toʰkoɴ 	tocón monkey	
 13	cc	Shiwilu	tukuɴ 	tocón monkey	
@@ -581,7 +532,7 @@ set	entry	doculect	value	concept	note
 13	ff	Shiwilu	waɴ-ʃɘɴ 	shrimp	
 13	gg	PK	*waɴki 	boquichico fish	
 13	gg	Shawi	waɴki 	boquichico fish	
-13	gg	Shiwilu	waɴkɘ{ʔ/t}-tʃɘk 	boquichico fish	
+13	gg	Shiwilu	waɴkɘ{ʔ\t}-tʃɘk 	boquichico fish	
 13	hh	PK	*wɘɴnɪ 	shuyo fish	
 13	hh	Shawi	wɘni 	shuyo fish	
 13	hh	Shiwilu	wɘɴɲi ~ uɴɲi 	shuyo fish	
@@ -591,12 +542,12 @@ set	entry	doculect	value	concept	note
 14	b	PK	*aiɴ 	hair	
 14	b	Shawi	aiɴ 	hair	
 14	b	Shiwilu	ɘɾɴ 	hair	
-14	c	PK	*ana-si 	opossum	
-14	c	Shawi	ana-ʃi 	opossum	
-14	c	Shiwilu	ana-sɘɾ 	opossum	
-14	d	PK	*aɴpiɴnɪaɴ 	huaman samana tree	
-14	d	Shawi	aɴpiniaɴ 	huaman samana tree	
-14	d	Shiwilu	aɴpɘɴɲaɴ 	huaman samana tree	
+14	c	PK	*ana-si 	opossum	Example 24a was removed from the dataset as it is a duplicate of example 14c.
+14	c	Shawi	ana-ʃi 	opossum	Example 24a was removed from the dataset as it is a duplicate of example 14c.
+14	c	Shiwilu	ana-sɘɾ 	opossum	Example 24a was removed from the dataset as it is a duplicate of example 14c.
+14	d	PK	*aɴpiɴnɪaɴ 	huaman samana tree	Example 13b was removed from the dataset as it is a duplicate of example 14d. Note that the gloss is given as "huaman samana" in example 13b.
+14	d	Shawi	aɴpiniaɴ 	huaman samana tree	Example 13b was removed from the dataset as it is a duplicate of example 14d. Note that the gloss is given as "huaman samana" in example 13b.
+14	d	Shiwilu	aɴpɘɴɲaɴ 	huaman samana tree	Example 13b was removed from the dataset as it is a duplicate of example 14d. Note that the gloss is given as "huaman samana" in example 13b.
 14	e	PK	*api(ʔ) 	thief (> to steal)	
 14	e	Shawi	apiʔ 	thief (> to steal)	
 14	e	Shiwilu	apɘɾ- 	thief (> to steal)	
@@ -609,26 +560,21 @@ set	entry	doculect	value	concept	note
 14	h	PK	*ipa-tɘʔ 	vein, sinew, tendon	
 14	h	Shawi	iʰpa-tɘʔ 	vein, sinew, tendon	
 14	h	Shiwilu	ɘɾpa-tɘk 	vein, sinew, tendon	
-14	j	Shawi	iʔna- 	trace	
-14	l	PK	*iʔwa 	recently/late, afternoon	
-14	l	Shawi	iʔwa 	recently/late, afternoon	
-14	l	Shiwilu	ɘˀɾwa 	recently/late, afternoon	
 14	m	PK	*iʔwaju 	evening star	
 14	m	Shawi	iʔwajo 	evening star	
 14	m	Shiwilu	ɘˀɾwað̞u 	evening star	
 14	n	PK	*ɪki(ɾ/l)ala 	cunchi fish	
 14	n	Shawi	ikiana 	cunchi fish	
 14	n	Shiwilu	ikɘʎala 	cunchi fish	
-14	o	Shawi	ina(i)ɴʃi-ɾa ~ inaiɾa 	bird	
 14	p	PK	*jami 	small, thin	
 14	p	Shawi	jami- 	small, thin	
 14	p	Shiwilu	ð̞amɘɾ 	small, thin	
 14	q	PK	*jawi(-ɾa) 	chonta/açaí palm	
 14	q	Shawi	jawi-ɾa 	chonta/açaí palm	
 14	q	Shiwilu	ð̞awɘɾ,ð̞awɘ-ʎa 	chonta/açaí palm	
-14	r	PK	*juki 	moon	
-14	r	Shawi	joʰki 	moon	
-14	r	Shiwilu	ð̞ukɘɾ 	moon	
+14	r	PK	*juki 	moon	Example 30b was removed from the dataset as it is a duplicate of example 14r.
+14	r	Shawi	joʰki 	moon	Example 30b was removed from the dataset as it is a duplicate of example 14r.
+14	r	Shiwilu	ð̞ukɘɾ 	moon	Example 30b was removed from the dataset as it is a duplicate of example 14r.
 14	u	PK	*kapiʔ- 	to find	
 14	u	Shawi	naʰ-kapi- 	to find	
 14	u	Shiwilu	kapɘˀɾ- 	to find	
@@ -644,7 +590,6 @@ set	entry	doculect	value	concept	note
 14	z	PK	*maki 	macambo palm	
 14	z	Shawi	maʰki 	macambo palm	
 14	z	Shiwilu	makɘɾ	macambo palm	
-14	aa	Shawi	nani- 	to end	‘to end’
 14	bb	PK	*ni-tɘʔ 	nose	
 14	bb	Shawi	ni-tɘʔ 	nose	
 14	bb	Shiwilu	nɘɾtʃɘk ~ nɘttʃɘk 	nose	
@@ -654,7 +599,9 @@ set	entry	doculect	value	concept	note
 14	dd	PK	*nika-ɾa 	lisa fish	
 14	dd	Shawi	niʰka-ɾa ~ miʰka-ɾa 	lisa fish	
 14	dd	Shiwilu	nɘɾka-la 	lisa fish	
-14	ee	Shawi	paʰʃi- 	to pour	‘to perfume’
+14	ee	PK	*pasiʔ- 	to pour	Example 11h was removed as it is a duplicate of example 14ee. Note, however, that the Shawi form in 11h is written as "paʃi-".
+14	ee	Shawi	paʰʃi-	to pour	‘to perfume’, Example 11h was removed as it is a duplicate of example 14ee. Note, however, that the Shawi form in 11h is written as "paʃi-".
+14	ee	Shiwilu	pasɘˀɾ- 	to pour	Example 11h was removed as it is a duplicate of example 14ee. Note, however, that the Shawi form in 11h is written as "paʃi-".
 14	gg	PK	*pitu 	breadfruit	
 14	gg	Shawi	piʰto 	breadfruit	
 14	gg	Shiwilu	pɘttʃu 	breadfruit	
@@ -664,7 +611,6 @@ set	entry	doculect	value	concept	note
 14	ll	PK	*siwa 	apangora crab	
 14	ll	Shawi	ʃiwa 	apangora crab	
 14	ll	Shiwilu	sɘɾwa 	apangora crab	
-14	mm	Shawi	ʃiʔwi-roʔ 	macana fish	
 14	nn	PK	*sɪwi(ɴ)(-naɴ) 	reed, cane sp.	
 14	nn	Shawi	ʃiwi(-naɴ) 	reed, cane sp.	
 14	nn	Shiwilu	siwɘɴ-ɲa(ɴ) 	reed, cane sp.	
@@ -674,21 +620,22 @@ set	entry	doculect	value	concept	note
 14	pp	PK	*tiaʔ-	to sow	
 14	pp	Shawi	ʃaʔ-	to sow	
 14	pp	Shiwilu	tɘɾa-	to sow	
-14	qq	PK	*tɪpi 	moriche palm	
-14	qq	Shawi	ʃiʰpi 	moriche palm	
-14	qq	Shiwilu	tʃipɘɾ 	moriche palm	
-14	rr	PK	*tɪpi-tɘʔ 	mosquito net	
-14	rr	Shawi	*tɪpi-tɘʔ 	mosquito net	
-14	rr	Shiwilu	tʃipɘɾ-tʃɘk ~ tʃipɘt-tʃɘk 	mosquito net	
-14	ss	Shiwilu	tʃitɘˀɾ 	maize	
+14	qq	PK	*tɪpi 	moriche palm	Example 21b was removed from the dataset as it is a duplicate of example 14qq. Note, however, that in 21b, the Shiwilu form is written as "tʃipɘ(ˀ)ɾ".
+14	qq	Shawi	ʃiʰpi 	moriche palm	Example 21b was removed from the dataset as it is a duplicate of example 14qq. Note, however, that in 21b, the Shiwilu form is written as "tʃipɘ(ˀ)ɾ".
+14	qq	Shiwilu	tʃipɘɾ 	moriche palm	Example 21b was removed from the dataset as it is a duplicate of example 14qq. Note, however, that in 21b, the Shiwilu form is written as "tʃipɘ(ˀ)ɾ".
+14	rr	PK	*tɪpi-tɘʔ 	mosquito net	Examples 20e and 21c were removed from the dataset as they are duplicates of example 14rr. Note, however, that the Shiwilu form in 21c is written as "tʃipɘɾ-tʃɘk ~ -pɘt-".
+14	rr	Shawi	ʃiʰpi-tɘʔ	mosquito net	Examples 20e and 21c were removed from the dataset as they are duplicates of example 14rr. Note, however, that the Shiwilu form in 21c is written as "tʃipɘɾ-tʃɘk ~ -pɘt-".
+14	rr	Shiwilu	tʃipɘɾ-tʃɘk ~ tʃipɘt-tʃɘk 	mosquito net	Examples 20e and 21c were removed from the dataset as they are duplicates of example 14rr. Note, however, that the Shiwilu form in 21c is written as "tʃipɘɾ-tʃɘk ~ -pɘt-".
+14	ss	PK	*tɪˀtiʔ 	maize	Example 9v and 10gg were removed from the dataset as they are duplicates of example 14ss. Note, however, that in 9v and 10gg the Shiwilu form is written as "tʃitɘ(ˀ)ɾ". 
+14	ss	Shawi	ʃiʔʃiʔ	maize	Example 9v and 10gg were removed from the dataset as they are duplicates of example 14ss. Note, however, that in 9v and 10gg the Shiwilu form is written as "tʃitɘ(ˀ)ɾ". 
+14	ss	Shiwilu	tʃitɘˀɾ 	maize	Example 9v and 10gg were removed from the dataset as they are duplicates of example 14ss. Note, however, that in 9v and 10gg the Shiwilu form is written as "tʃitɘ(ˀ)ɾ". 
 14	tt	PK	*tɪɴpinaɴ / *-nam- 	river mouth	
-14	uu	PK	*uti 	sister of a male ego	
-14	uu	Shawi	oʰʃ 	sister of a male ego	
-14	uu	Shiwilu	utɘ(ˀ)ɾ-iɴ 	sister of a male ego	
+14	uu	PK	*uti 	sister of a male ego	Examples 23f and 30h were removed from the dataset as they are duplicates of example 14uu.
+14	uu	Shawi	oʰʃi 	sister of a male ego	Examples 23f and 30h were removed from the dataset as they are duplicates of example 14uu.
+14	uu	Shiwilu	utɘ(ˀ)ɾ-iɴ 	sister of a male ego	Examples 23f and 30h were removed from the dataset as they are duplicates of example 14uu.
 14	vv	PK	*wani- 	to stand (up)	
 14	vv	Shawi	wani- 	to stand (up)	
 14	vv	Shiwilu	wanɘɾ- 	to stand (up)	
-14	ww	Shiwilu	waɴkɘ{t/ʔ}-tʃɘk 	boquichico fish	
 14	xx	PK	*wi- 	to sting	
 14	xx	Shawi	wi- 	to sting	
 14	xx	Shiwilu	wɘɾ- 	to sting	
@@ -710,67 +657,57 @@ set	entry	doculect	value	concept	note
 16	e	PK	*ɪɴmuɾu(ɘ)ʔ- 	sibling-in-law (opposite sex of the ego)	
 16	e	Shawi	imoɾoɘ-ɴ 	sibling-in-law (opposite sex of the ego)	
 16	e	Shiwilu	iɴmuʎuʔ-ʃa 	sibling-in-law (opposite sex of the ego)	‘brother-in-law (of a woman)’
-16	f	PK	*ɪɴtɪna(ɴ)	right	
-16	f	Shawi	iɴtʃinaɴ 	right	
-16	f	Shiwilu	iɴtʃina(ɴ) 	right	
+16	f	PK	*ɪɴtɪna(ɴ) 	right	Examples 28a and 34a were removed from the dataset as they are duplicates of example 16f.
+16	f	Shawi	iɴtʃinaɴ 	right	Examples 28a and 34a were removed from the dataset as they are duplicates of example 16f.
+16	f	Shiwilu	iɴtʃina(ɴ) 	right	Examples 28a and 34a were removed from the dataset as they are duplicates of example 16f.
 17	a	PK	*nɪnaɴluʔ 	settlement	
 17	a	Shawi	ninanoʔ 	settlement	
 17	a	Shiwilu	ɲinaɴluʔ 	settlement	
-17	b	PK	*nɪnɘ(ʔ)-ɾa 	tongue	
-17	b	Shawi	nɘnɘ-ɾa 	tongue	
-17	b	Shiwilu	ɲinɘk-la 	tongue	
+17	b	PK	*nɪnɘ(ʔ)-ɾa 	tongue	Example 34i was removed as it is a duplicate of example 17b. Note, however, that the PK form is written as "*nɪnɘ-ɾa" in 34i.
+17	b	Shawi	nɘnɘ-ɾa 	tongue	Example 34i was removed as it is a duplicate of example 17b. Note, however, that the PK form is written as "*nɪnɘ-ɾa" in 34i.
+17	b	Shiwilu	ɲinɘk-la 	tongue	Example 34i was removed as it is a duplicate of example 17b. Note, however, that the PK form is written as "*nɪnɘ-ɾa" in 34i.
 17	c	PK	*nɪ-t- 	to bear fruit	
 17	c	Shawi	niʰ-t- 	to bear fruit	
 17	c	Shiwilu	ɲi-t- 	to bear fruit	
 18	c	PK	*kɪtɘ(ʔ)- 	to bite	
 18	c	Shawi	kɘtɘ- 	to bite	
 18	c	Shiwilu	kitɘk- 	to bite	
-18	d	PK	*mɪɾɘ 	yarina palm (Sha); tagua/ivory nut palm (Shi)	
-18	d	Shawi	mɘɾɘ 	yarina palm (Sha); tagua/ivory nut palm (Shi)	
-18	d	Shiwilu	milɘk 	yarina palm (Sha); tagua/ivory nut palm (Shi)	
 18	g	PK	*pɪlɘɴ- 	to advise	
 18	g	Shawi	pɘnɘɴ- 	to advise	
 18	g	Shiwilu	pilɘɴ- 	to advise	
 18	h	PK	*pɪʔpɘ(ʔ)- 	to carry	
 18	h	Shawi	pɘʔpɘ- 	to carry	
 18	h	Shiwilu	piʔpɘk- 	to carry	
-18	k	PK	*tɪtɘ(ʔ)-pɪ 	floodplain	
-18	k	Shawi	tɘʰtɘ-pi ~ tɘʰti-wi 	floodplain	
-18	k	Shiwilu	tʃitɘk-pi-luʔ 	floodplain	
+18	k	PK	*tɪtɘ(ʔ)-pɪ 	floodplain	Example 34v was removed from the dataset as it is a duplicate of example 18k. Note, however, that the Shawi form is written as "tɘtɘ-pi ~ tɘti-wi" in 34v. 
+18	k	Shawi	tɘʰtɘ-pi ~ tɘʰti-wi 	floodplain	Example 34v was removed from the dataset as it is a duplicate of example 18k. Note, however, that the Shawi form is written as "tɘtɘ-pi ~ tɘti-wi" in 34v. 
+18	k	Shiwilu	tʃitɘk-pi-luʔ 	floodplain	Example 34v was removed from the dataset as it is a duplicate of example 18k. Note, however, that the Shawi form is written as "tɘtɘ-pi ~ tɘti-wi" in 34v. 
 18	l	PK	*tɪʔlɘ(ʔ) 	yanguaturi armadillo	
 18	l	Shawi	tɘʔnɘ-ʃaʔwɘ 	yanguaturi armadillo	
 18	l	Shiwilu	tʃiʔlɘk 	yanguaturi armadillo	
 19	a	PK	*wɪtɘ(ʔ)- 	to sweep	
 19	a	Shawi	wiʰtɘ- 	to sweep	
 19	a	Shiwilu	witɘk-	to sweep	
-20	d	PK	*siɴnɪɾɘ	dart	
-20	e	Shawi	ʃiʰpi-tɘʔ 	mosquito net	
 21	a	PK	*sɪwiɴnaɴ	reed, cane sp.	
 21	a	Shawi	ʃiwinaɴ 	reed, cane sp.	
 21	a	Shiwilu	siwɘɴɲa(ɴ) 	reed, cane sp.	
-21	b	Shiwilu	tʃipɘ(ˀ)ɾ 	moriche palm	
-21	c	Shiwilu	tʃipɘɾ-tʃɘk ~ -pɘt- 	mosquito net	
 21	f	PK	*jɪʔsiʔ- 	to burn (vt.)	
 21	f	Shawi	iʔʃi- 	to burn (vt.)	‘to dip into salt’
 21	f	Shiwilu	ð̞iʔsɘˀɾ- 	to burn (vt.)	
-21	g	Shiwilu	pitɘɾ 	thread	
 22	a	PK	*pɘɴmuɴ 	horn	
 22	a	Shawi	pomoɴ 	horn	
 22	a	Shiwilu	pɘɴmuɴ	horn	
 22	d	PK	*tɘɴpuʔ- 	to tie	
 22	d	Shawi	toɴpoʔ, toɴpo-~ tɘɴpo- 	to tie	‘bundle’
 22	d	Shiwilu	tɘɴpuʔ- 	to tie	
-22	e	Shawi	toʔto-ɾa-tɘʔ ~ toʔtɘ-ɾa-tɘʔ 	nail	
-23	a	Shawi	naʔʃi	bushmaster	
+22	e	PK	*tuʔtɘ(ʔ)-ɾa 	nail	Example 10ccc and 31x were removed from the dataset as they are duplicates of example 22e. Note, that the Shawi form is written as "toʔto-ɾa-tɘʔ ~ toʔtɘ-" in 10ccc. In addition, the Shawi form is written as "tuʔtɘ-ɾa-tɘʔ" in 31x. Note, however, that this example occurs four times in the dataset (1r, 10ccc, 22e, 31x) and 31x seems to be the outlier. 
+22	e	Shawi	toʔto-ɾa-tɘʔ ~ toʔtɘ-ɾa-tɘʔ 	nail	Example 10ccc and 31x were removed from the dataset as they are duplicates of example 22e. Note, that the Shawi form is written as "toʔto-ɾa-tɘʔ ~ toʔtɘ-" in 10ccc. In addition, the Shawi form is written as "tuʔtɘ-ɾa-tɘʔ" in 31x. Note, however, that this example occurs four times in the dataset (1r, 10ccc, 22e, 31x) and 31x seems to be the outlier. 
+22	e	Shiwilu	tuʔtɘk-la 	nail	Example 10ccc and 31x were removed from the dataset as they are duplicates of example 22e. Note, that the Shawi form is written as "toʔto-ɾa-tɘʔ ~ toʔtɘ-" in 10ccc. In addition, the Shawi form is written as "tuʔtɘ-ɾa-tɘʔ" in 31x. Note, however, that this example occurs four times in the dataset (1r, 10ccc, 22e, 31x) and 31x seems to be the outlier. 
 23	b	PK	*pɪɴti 	tobacco	
 23	b	Shawi	piɴʃi 	tobacco	
 23	b	Shiwilu	piɴtɘɾ 	tobacco	
 23	d	PK	*tiaʔ- 	to sow, to plant	
 23	d	Shawi	ʃaʔ- 	to sow, to plant	
 23	d	Shiwilu	tɘɾaʔ- 	to sow, to plant	
-23	f	Shawi	oʰʃi 	sister of a male ego	
-24	a	PK	*ana-si	opossum	
-24	b	Shawi	ina(i)ɴʃi-ɾa ~ inaiɾa 	bird	
 24	c	PK	*kasiʔ 	sweet	
 24	c	Shawi	kaʃi-ɴ 	sweet	
 24	c	Shiwilu	kasɘˀɾ- 	sweet	
@@ -786,16 +723,12 @@ set	entry	doculect	value	concept	note
 24	l	PK	*siˀtaʔ 	drop	
 24	l	Shawi	ʃiʔtaʔ 	drop	
 24	l	Shiwilu	sɘɾtʃaʔ-~ sɘttʃaʔ-~ sɘʔtʃaʔ- 	drop	
-24	n	PK	*siˀwɪ(ɴ)	macana fish	
 25	a	PK	*jɘɴ 	who	
 25	a	Shawi	iɴ 	who	
 25	a	Shiwilu	ð̞ɘɴ 	who	
-25	b	PK	*jɘɴnɪ 	otter	
-25	b	Shawi	ini 	otter	
-25	b	Shiwilu	ð̞ɘɴɲi 	otter	
-25	d	PK	*jɘʔ- 	with one’s fingernails	
-25	d	Shawi	iʔ- 	with one’s fingernails	
-25	d	Shiwilu	ð̞ɘk- 	with one’s fingernails	
+25	b	PK	*jɘɴnɪ 	otter	Example 31pp was removed from the dataset as it is a duplicate of example 25b. Note, however, that the Proto-Kwapana form is written as "*jɘɴni" in example 31pp. Based on the reconstruction corresponces given in table 7 on page 13, example 25b was kept.
+25	b	Shawi	ini 	otter	Example 31pp was removed from the dataset as it is a duplicate of example 25b. Note, however, that the Proto-Kwapana form is written as "*jɘɴni" in example 31pp. Based on the reconstruction corresponces given in table 7 on page 13, example 25b was kept.
+25	b	Shiwilu	ð̞ɘɴɲi 	otter	Example 31pp was removed from the dataset as it is a duplicate of example 25b. Note, however, that the Proto-Kwapana form is written as "*jɘɴni" in example 31pp. Based on the reconstruction corresponces given in table 7 on page 13, example 25b was kept.
 25	e	PK	*kajɘ	sister of a female ego	
 25	e	Shawi	kai 	sister of a female ego	
 25	e	Shiwilu	kað̞ɘk 	sister of a female ego	
@@ -805,7 +738,6 @@ set	entry	doculect	value	concept	note
 25	h	PK	*sakaʔ-jɘʔ 	difficult	
 25	h	Shawi	saʰka-iʔ 	difficult	
 25	h	Shiwilu	sakaʔð̞ɘk 	difficult	
-25	i	Shiwilu	ð̞ɘ-ʎuʔ-tɘk 	sand	
 25	j	PK	*ajɪ-pɪ 	above	
 25	j	Shawi	ai-pi 	above	
 25	j	Shiwilu	að̞i-pi 	above	
@@ -845,35 +777,30 @@ set	entry	doculect	value	concept	note
 27	a	PK	*laɴsɪʔ 	bone	
 27	a	Shawi	naɴsɘʔ 	bone	
 27	a	Shiwilu	laɴsiʔ 	bone	
-27	c	Shawi	sɘnopaʔ ~ sɘnowaʔ 	bee sp.	
+27	c	PK	*sɪlupa(ʔ) 	bee sp.	Example 2t was removed as it is a duplicate of example 27c. Note that the Shawi form is written as "sɘnopaʔ ~ -waʔ" in example 2t.
+27	c	Shawi	sɘnopaʔ ~ sɘnowaʔ	bee sp.	Example 2t was removed as it is a duplicate of example 27c. Note that the Shawi form is written as "sɘnopaʔ ~ -waʔ" in example 2t.
+27	c	Shiwilu	silupa 	bee sp.	Example 2t was removed as it is a duplicate of example 27c. Note that the Shawi form is written as "sɘnopaʔ ~ -waʔ" in example 2t.
 27	e	PK	*sɪʔka 	tingotero/isulilla ant	
 27	e	Shawi	sɘʔka- 	tingotero/isulilla ant	‘to sting’
 27	e	Shiwilu	siʔka- 	tingotero/isulilla ant	
 27	g	PK	*jakuʔsɪʔ- 	to cut hair	
 27	g	Shawi	jaʰkoso- 	to cut hair	
 27	g	Shiwilu	ð̞akuʔsiʔ- 	to cut hair	
-28	a	Shiwilu	iɴtʃina(ɴ)	right	
 28	b	PK	*muɴtɪ 	dove sp.	
 28	b	Shawi	moɴtʃi 	dove sp.	
 28	b	Shiwilu	muɴtʃi 	dove sp.	
 28	c	PK	*pɪtɪ-/ *pɪtɪ-naɴ 	to count / size, measure	
 28	c	Shawi	pitʃi-/ pitʃi-naɴ 	to count / size, measure	
 28	c	Shiwilu	pitʃi-/ pitʃi-naɴ 	to count / size, measure	
-28	e	PK	*tɪɴ-	to smoke food	
-28	e	Shawi	tʃiɴ- 	to smoke food	
-28	e	Shiwilu	tʃiɴ- 	to smoke food	
-28	f	PK	*tɪɴpɪnaɴ / *tɪɴpɪnam- 	river mouth	
+28	e	PK	*tɪɴ- 	to smoke food	Example 34r was removed from the dataset as it is a duplicate of example 28e.
+28	e	Shawi	tʃiɴ- 	to smoke food	Example 34r was removed from the dataset as it is a duplicate of example 28e.
+28	e	Shiwilu	tʃiɴ- 	to smoke food	Example 34r was removed from the dataset as it is a duplicate of example 28e.
 28	g	PK	*tɪɴtɪ 	river crab	
 28	g	Shawi	tʃiɴtʃi 	river crab	
 28	g	Shiwilu	tʃiɴtʃi 	river crab	
 28	i	PK	*tɪˀtɪ 	excrement	
 28	i	Shawi	tʃiʔtʃi 	excrement	
 28	i	Shiwilu	tʃitʃi 	excrement	
-30	b	Shawi	joʰki	moon	
-30	d	PK	*kukuʔ 	oropendola, paucar bird	
-30	d	Shawi	koʰkoʔ 	oropendola, paucar bird	
-30	d	Shiwilu	kukuʔ 	oropendola, paucar bird	
-30	h	Shiwilu	utɘ(ˀ)ɾ-iɴ	sister of a male ego	
 31	a	PK	*aɘ 	anona	
 31	a	Shawi	ɘ(-ʃa),aɘ 	anona	
 31	a	Shiwilu	ɘk-pi 	anona	
@@ -895,48 +822,33 @@ set	entry	doculect	value	concept	note
 31	m	PK	*naɴsɘ 	sábalo fish	
 31	m	Shawi	naɴsɘ 	sábalo fish	
 31	m	Shiwilu	naɴsɘk 	sábalo fish	
-31	n	Shiwilu	paɴpɘk 	irapai palm	
-31	o	PK	*pɘɾa- 	to call (Sha), to sing, to whistle, tobark, to croak (Shi)	
-31	o	Shawi	pɘɾa- 	to call (Sha), to sing, to whistle, tobark, to croak (Shi)	
-31	o	Shiwilu	pɘkla- 	to call (Sha), to sing, to whistle, tobark, to croak (Shi)	
 31	q	PK	*tamɘ 	condor	
 31	q	Shawi	tamɘ 	condor	
 31	q	Shiwilu	tamɘk 	condor	
 31	r	PK	*tɘpa 	tick	
 31	r	Shawi	tɘpa 	tick	
 31	r	Shiwilu	tɘkpa 	tick	
-31	s	Shiwilu	ukla-ð̞ɘk~wɘkla-ð̞ɘk 	blood	
+31	s	PK	*wɘla-jɘʔ 	blood	Example 2w was removed from the dataset as it is a duplicate of example 31s. Note, however, that the Shiwilu form in 2w is written as "ukla-ð̞ɘk".
+31	s	Shawi	wɘna-iʔ 	blood	Example 2w was removed from the dataset as it is a duplicate of example 31s. Note, however, that the Shiwilu form in 2w is written as "ukla-ð̞ɘk".
+31	s	Shiwilu	ukla-ð̞ɘk~wɘkla-ð̞ɘk 	blood	Example 2w was removed from the dataset as it is a duplicate of example 31s. Note, however, that the Shiwilu form in 2w is written as "ukla-ð̞ɘk".
 31	t	PK	*wɘ 	ear	
 31	t	Shawi	wɘ-ɾa-tɘʔ 	ear	
 31	t	Shiwilu	wɘk 	ear	
 31	u	PK	*wɘlu- 	to gnaw	
 31	u	Shawi	wɘno- 	to gnaw	
 31	u	Shiwilu	uklu	to gnaw	
-31	x	Shawi	tuʔtɘ-ɾa-tɘʔ 	nail	
 31	y	PK	*ukɘ(ʔ)- 	to stink (of blood)	
 31	y	Shawi	ukɘ-ʰkɘɴ 	to stink (of blood)	
 31	y	Shiwilu	ukɘk- 	to stink (of blood)	
-31	aa	Shawi	isɘʔ	bat	
-31	cc	PK	*jɘʔ- 	pressing with fingernails	
-31	cc	Shawi	iʔ- 	pressing with fingernails	
-31	cc	Shiwilu	ð̞ɘk- 	pressing with fingernails	
-31	ee	PK	*maɾɘʔ	because of, for	
+31	cc	PK	*jɘʔ- 	pressing with fingernails	Example 25d was removed from the dataset as it is nearly a complete duplicate of example 31cc. The only difference is that the gloss in 25d is given as "with one's fingernails". Since the gloss in 31cc is more specific 31cc was kept instead of 25d. In the concepts.tsv list, also only the more the specific concept "pressing with fingernails" was kept and "with one's fingernails" was removed.
+31	cc	Shawi	iʔ- 	pressing with fingernails	Example 25d was removed from the dataset as it is nearly a complete duplicate of example 31cc. The only difference is that the gloss in 25d is given as "with one's fingernails". Since the gloss in 31cc is more specific 31cc was kept instead of 25d. In the concepts.tsv list, also only the more the specific concept "pressing with fingernails" was kept and "with one's fingernails" was removed.
+31	cc	Shiwilu	ð̞ɘk- 	pressing with fingernails	Example 25d was removed from the dataset as it is nearly a complete duplicate of example 31cc. The only difference is that the gloss in 25d is given as "with one's fingernails". Since the gloss in 31cc is more specific 31cc was kept instead of 25d. In the concepts.tsv list, also only the more the specific concept "pressing with fingernails" was kept and "with one's fingernails" was removed.
 31	ff	PK	*sɘʔ- 	with one’s fingers	
 31	ff	Shawi	sɘʔ- 	with one’s fingers	
 31	ff	Shiwilu	sɘk- 	with one’s fingers	
-31	gg	Shiwilu	sɘkku 	diced manioc	
-31	ii	PK	*waˀsɘʔ 	carachamita fish 	
-31	ii	Shawi	waʔsɘʔ 	carachamita fish 	
-31	ii	Shiwilu	wasɘk 	carachamita fish 	
-31	jj	Shiwilu	wɘk- 	to come	
-31	ll	Shawi	pɘn- 	to fly	
-31	ll	Shiwilu	pɘɴ- 	to fly	
 31	mm	PK	*sɘɴma-ɾuʔ 	porridge, thick soup	
 31	mm	Shawi	sɘma-ɾu-t- 	porridge, thick soup	
 31	mm	Shiwilu	sɘɴma-luʔ 	porridge, thick soup	
-31	nn	PK	*timɘɴ 	louse	
-31	pp	PK	*jɘɴni 	otter	
-31	qq	PK	*iɘɴsuɴ- 	to kneel	
 32	d	PK	*liˀluna 	tacarpostick	
 32	d	Shawi	niʔnona 	tacarpostick	
 32	d	Shiwilu	lɘʎuna(ɴ) 	tacarpostick	
@@ -949,40 +861,36 @@ set	entry	doculect	value	concept	note
 33	b	PK	*ɪjuɴ 	night mosquito	
 33	b	Shawi	joɴ 	night mosquito	
 33	b	Shiwilu	ijuɴ 	night mosquito	
-33	d	PK	*ɪɴjaʔ	to urinate	
-33	f	Shawi	iʔsa	curassow	
-34	a	PK	*ɪɴtɪna(ɴ) 	right	
-34	d	PK	*-lɪɴ e.g. *lu-lɪɴ 	vine:CL tamshi vine	
-34	d	Shawi	-niɴ e.g. no-niɴ 	vine:CL tamshi vine	
-34	d	Shiwilu	-ʎiɴ e.g. lu-ʎiɴ 	vine:CL tamshi vine	
-34	i	PK	*nɪnɘ-ɾa 	tongue	
-34	l	PK	*palɪʔ- 	leaf for the roof	
-34	r	PK	*tɪɴ- 	to smoke food	
-34	v	Shawi	tɘtɘ-pi ~ tɘti-wi 	floodplain	
-39	a	PK	*jawɘɾɘ ~ *ɪawɘɾuʔ 	great egret	
-39	a	Shawi	jawɘɾɘ 	great egret	
-39	a	Shiwilu	jaukluʔ ~ jawɘkluʔ 	great egret	
-39	b	PK	*janaɴ ~ *junaɴ 	piranha	
-39	b	Shawi	janaɴ 	piranha	
-39	b	Shiwilu	ð̞unaɴ	piranha	
-39	c	PK	*kasɘʔ ~ *kɪsɘʔ 	to feel itchy	
-39	c	Shawi	kasɘʔ / kasɘ- 	to feel itchy	
-39	c	Shiwilu	kisɘk- 	to feel itchy	
-39	d	PK	*kaˀjɘ(ʔ)-t ~ *kuˀjɘ(ʔ)-t- 	to apply warm water	
-39	d	Shawi	kaʔi-t- 	to apply warm water	
-39	d	Shiwilu	kuð̞ɘk-t- 	to apply warm water	
-39	e	PK	*(k)ɘju-, *(k)ɘju-ɾuɴ	widow	
-39	e	Shawi	kɘjo-ɾoɴ 	widow	
-39	e	Shiwilu	ɘkð̞u-, ɘkð̞u-luɴ 	widow	
-39	f	PK	*(k)ɘpa 	caimito fruit	
-39	f	Shawi	kɘʰpa 	caimito fruit	
-39	f	Shiwilu	ɘkpa 	caimito fruit	
-39	g	PK	*lɪɴlupɪ ~ *n-~ *j- 	heart	
-39	g	Shawi	ninopi 	heart	
-39	g	Shiwilu	ð̞iɴlupi 	heart	
-39	h	PK	*lusuʔ-~ *lutuʔ- 	to see in a vision	
-39	h	Shawi	noso- 	to see in a vision	
-39	h	Shiwilu	lutuʔ- 	to see in a vision	
-39	i	PK	*tɪ(a)ʔ(j)ɘ(ʔ)- 	to flee, to escape	
-39	i	Shawi	tʃaʔɘ- 	to flee, to escape	
-39	i	Shiwilu	tʃiʔjɘk- 	to flee, to escape	
+34	d	PK	*-lɪɴ 	vine:CL	e.g. *lu-lɪɴ (tamshi vine)
+34	d	Shawi	-niɴ 	vine:CL	e.g. no-niɴ (tamshi vine)
+34	d	Shiwilu	-ʎiɴ 	vine:CL	e.g. lu-ʎiɴ (tamshi vine)
+34	l	PK	*palɪʔ- 	leaf for the roof	Example 2q was removed from the dataset as it is a duplicate of example 34l. Note, however that the PK form is written as "*palɪʔ" in 2q.
+34	l	Shawi	pani-ɾa 	leaf for the roof	Example 2q was removed from the dataset as it is a duplicate of example 34l. Note, however that the PK form is written as "*palɪʔ" in 2q.
+34	l	Shiwilu	paʎiʔ- 	leaf for the roof	Example 2q was removed from the dataset as it is a duplicate of example 34l. Note, however that the PK form is written as "*palɪʔ" in 2q.
+39	a	PK	*jawɘɾɘ ~ *ɪawɘɾuʔ 	great egret	Irregular correspondence
+39	a	Shawi	jawɘɾɘ 	great egret	Irregular correspondence
+39	a	Shiwilu	jaukluʔ ~ jawɘkluʔ 	great egret	Irregular correspondence
+39	b	PK	*janaɴ ~ *junaɴ 	piranha	Irregular correspondence
+39	b	Shawi	janaɴ 	piranha	Irregular correspondence
+39	b	Shiwilu	ð̞unaɴ	piranha	Irregular correspondence
+39	c	PK	*kasɘʔ ~ *kɪsɘʔ 	to feel itchy	Irregular correspondence
+39	c	Shawi	kasɘʔ / kasɘ- 	to feel itchy	Irregular correspondence
+39	c	Shiwilu	kisɘk- 	to feel itchy	Irregular correspondence
+39	d	PK	*kaˀjɘ(ʔ)-t ~ *kuˀjɘ(ʔ)-t- 	to apply warm water	Irregular correspondence
+39	d	Shawi	kaʔi-t- 	to apply warm water	Irregular correspondence
+39	d	Shiwilu	kuð̞ɘk-t- 	to apply warm water	Irregular correspondence
+39	e	PK	*(k)ɘju-, *(k)ɘju-ɾuɴ	widow	Irregular correspondence
+39	e	Shawi	kɘjo-ɾoɴ 	widow	Irregular correspondence
+39	e	Shiwilu	ɘkð̞u-, ɘkð̞u-luɴ 	widow	Irregular correspondence
+39	f	PK	*(k)ɘpa 	caimito fruit	Irregular correspondence
+39	f	Shawi	kɘʰpa 	caimito fruit	Irregular correspondence
+39	f	Shiwilu	ɘkpa 	caimito fruit	Irregular correspondence
+39	g	PK	*lɪɴlupɪ ~ *n-~ *j- 	heart	Irregular correspondence
+39	g	Shawi	ninopi 	heart	Irregular correspondence
+39	g	Shiwilu	ð̞iɴlupi 	heart	Irregular correspondence
+39	h	PK	*lusuʔ-~ *lutuʔ- 	to see in a vision	Irregular correspondence
+39	h	Shawi	noso- 	to see in a vision	Irregular correspondence
+39	h	Shiwilu	lutuʔ- 	to see in a vision	Irregular correspondence
+39	i	PK	*tɪ(a)ʔ(j)ɘ(ʔ)- 	to flee, to escape	Irregular correspondence
+39	i	Shawi	tʃaʔɘ- 	to flee, to escape	Irregular correspondence
+39	i	Shiwilu	tʃiʔjɘk- 	to flee, to escape	Irregular correspondence
