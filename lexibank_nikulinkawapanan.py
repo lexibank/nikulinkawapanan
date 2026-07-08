@@ -27,8 +27,8 @@ class Dataset(BaseDataset):
             args.writer.add_concept(
                     ID=concept["ID"],
                     Name=concept["GLOSS"],
-                    #Concepticon_ID=concept["Concepticon_ID"],
-                    #Concepticon_Gloss=concept["Concepticon_Gloss"]
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
                     )
             concepts[concept["GLOSS"]] = concept["ID"]
         args.log.info("added concepts")
