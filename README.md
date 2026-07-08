@@ -30,7 +30,7 @@ work in progress
 ![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
 - **Varieties:** 3 (linked to 2 different Glottocodes)
-- **Concepts:** 273 (linked to 0 different Concepticon concept sets)
+- **Concepts:** 273 (linked to 159 different Concepticon concept sets)
 - **Lexemes:** 959
 - **Sources:** 1
 - **Synonymy:** 1.17
@@ -46,7 +46,8 @@ work in progress
 
 # Contributors
 
-Name | GitHub user    | Description                                     | Role
+Name | GitHub user    | Description | Role
+--- | --- | --- | ---
 Andrey Nikulin |----------------| Original author | Author
 Frederic Blum | @FredericBlum | CLDF conversion, maintenance | Editor |
 Rebecca Lethgo | @RebeccaLethgo | CLDF conversion, maintenance | Editor |
