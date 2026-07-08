@@ -1,5 +1,7 @@
 # CLDF dataset derived from Nikulin’s "Uma reconstrução fonológica de proto-kawapana" from 2022
 
+[![CLDF validation](https://github.com/lexibank/nikulinkawapanan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/nikulinkawapanan/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -20,11 +22,12 @@ work in progress
 ## Statistics
 
 
-![Glottolog: 67%](https://img.shields.io/badge/Glottolog-67%25-orange.svg "Glottolog: 67%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
-![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+[![CLDF validation](https://github.com/lexibank/nikulinkawapanan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/nikulinkawapanan/actions?query=workflow%3ACLDF-validation)
+![Glottolog: 67%](etc/badge_languages.svg)
+![Concepticon: 0%](etc/badge_concepts.svg)
+![Source: 100%](etc/badge_sources.svg)
+![BIPA: 100%](etc/badge_bipa.svg)
+![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
 - **Varieties:** 3 (linked to 2 different Glottocodes)
 - **Concepts:** 273 (linked to 0 different Concepticon concept sets)
@@ -35,6 +38,11 @@ work in progress
 - **Tokens:** 4,843
 - **Segments:** 34 (0 BIPA errors, 0 CLTS sound class errors, 34 CLTS modified)
 - **Inventory size (avg):** 23.33
+
+## Possible Improvements:
+
+- Languages missing glottocodes: 1/3 (33.33%%)
+
 
 # Contributors
 
@@ -50,4 +58,4 @@ Rebecca Lethgo | @RebeccaLethgo | CLDF conversion, maintenance | Editor |
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
