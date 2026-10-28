@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=84.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nikulinkawapanan"
+version = "0.1"
+dependencies = [
+    "pylexibank==4.2.0",
+    "cldfbench==2.0.1",
+    "pycldf==2.1.1",
+    "csvw==4.1.1",
+    "pyconcepticon==4.1.0"
+]
+
+[project.optional-dependencies]
+test = ["pytest-cldf"]
+
+[project.entry-points."lexibank.dataset"]
+nikulinkawapanan = "lexibank_nikulinkawapanan:Dataset"
+
+[tool.setuptools]
+py-modules = ["nikulinkawapanan"]
+include-package-data = true
+zip-safe = false

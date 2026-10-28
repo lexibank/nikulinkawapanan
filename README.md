@@ -1,4 +1,4 @@
-# CLDF dataset derived from Nikulin’s "Uma reconstrução fonológica de proto-kawapana" from 2022
+# CLDF dataset derived from Nikulin's "Uma reconstrução fonológica de proto-kawapana" from 2022
 
 [![CLDF validation](https://github.com/lexibank/nikulinkawapanan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/nikulinkawapanan/actions?query=workflow%3ACLDF-validation)
 
@@ -6,7 +6,7 @@
 
 If you use these data please cite
 - the original source
-  > Nikulin, Andrey (2022): Uma reconstrução fonológica de proto-kawapana. LIAMES: Línguas Indígenas Americanas 22: e022013.
+  > Nikulin, Andrey (2022): Uma reconstrução fonológica de proto-Kawapana. LIAMES: Línguas Indígenas Americanas 22: e022013.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -14,23 +14,18 @@ If you use these data please cite
 
 This dataset is licensed under a CC-BY-4.0 license
 
-## Notes
-
-work in progress
-
-
 ## Statistics
 
 
 [![CLDF validation](https://github.com/lexibank/nikulinkawapanan/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/nikulinkawapanan/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 67%](etc/badge_languages.svg)
-![Concepticon: 0%](etc/badge_concepts.svg)
+![Concepticon: 59%](etc/badge_concepts.svg)
 ![Source: 100%](etc/badge_sources.svg)
 ![BIPA: 100%](etc/badge_bipa.svg)
 ![CLTS SoundClass: 100%](etc/badge_sc.svg)
 
 - **Varieties:** 3 (linked to 2 different Glottocodes)
-- **Concepts:** 273 (linked to 159 different Concepticon concept sets)
+- **Concepts:** 273 (linked to 160 different Concepticon concept sets)
 - **Lexemes:** 959
 - **Sources:** 1
 - **Synonymy:** 1.17

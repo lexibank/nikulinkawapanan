@@ -1,25 +1,23 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Nikulin, Andrey (2022): Uma reconstru\u00e7\u00e3o fonol\u00f3gica de proto-kawapana. LIAMES: L\u00ednguas Ind\u00edgenas Americanas 22: e022013.",
+    "dc:bibliographicCitation": "Nikulin, Andrey (2022): Uma reconstru\u00e7\u00e3o fonol\u00f3gica de proto-Kawapana. LIAMES: L\u00ednguas Ind\u00edgenas Americanas 22: e022013.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by/4.0/",
-    "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Nikulin\u2019s \"Uma reconstru\u00e7\u00e3o fonol\u00f3gica de proto-kawapana\" from 2022",
+    "dc:title": "CLDF dataset derived from Nikulin's \"Uma reconstru\u00e7\u00e3o fonol\u00f3gica de proto-kawapana\" from 2022",
     "dcat:accessURL": "https://github.com/lexibank/nikulinkawapanan",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/lexibank/nikulinkawapanan",
             "rdf:type": "prov:Entity",
-            "dc:created": "0ba86ca",
+            "dc:created": "b21a759",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v5.2.1",
+            "dc:created": "v5.3",
             "dc:title": "Glottolog"
         },
         {
@@ -42,7 +40,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.14.0"
+            "dc:description": "3.15.2"
         },
         {
             "dc:title": "python-packages",
@@ -158,6 +156,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+            "dc:description": "A language.",
             "dc:extent": 3,
             "tableSchema": {
                 "columns": [
@@ -224,6 +223,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+            "dc:description": "Essential data of a concept mapped to Concepticon.",
             "dc:extent": 273,
             "tableSchema": {
                 "columns": [
